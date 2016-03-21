@@ -1,0 +1,5 @@
+3-7	wet bulk
+8-9	dry bulk
+10-13	break bulk
+14	RO/RO
+15+	container

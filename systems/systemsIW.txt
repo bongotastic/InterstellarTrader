@@ -1,0 +1,83 @@
+# hex	Name	WTN	Codes	CR	TL
+1827	Terra	6	-	6	9
+1926	Barnard	3	"Ex,Ni"	4	10
+1824	Agidda	2.5	Ni	4	6
+1822	Nusku	5	-	4	10
+2027	Prometheus	4	Ni	3	10
+2028	Peraspera	3	Ni	4	9
+1929	Junction	3	Ni	4	6
+2029	Midway	2	Ni	4	5
+2030	Hades	3	"Ni,Po"	2	9
+1830	Procyon	3	"Ex,Ni"	1	10
+2227	Ember	2.5	"Ex,Ni"	0	10
+2228	Loki	0	-	0	0
+2330	Dismal	2.5	"Ex,Ni"	2	8
+1931	Hephaistos	3.0	"Ex,Ni"	2	10
+2132	Inferno	3	Ni	5	6
+1732	Ys	3.0	Ni	4	8
+2031	Calgary	3.0	Ni	1	8
+2132	Forlorn	3.0	Ni	4	7
+1833	Remulak	2.5	Ni	5	5
+1533	Sarpedon	3.0	"Ex,Ni"	2	10
+1332	Mirabilis	4.0	"Ni,Po"	4	10
+
+0722	Apishlun	5.5	-	4	10
+0921	Ensulur	4.0	"Ex,Na,Ni"	1	10
+1020	Shashamak	4.0	Ni	4	8
+1119	Dashinur	4.0	Ri	5	7
+1218	Tunshaon Tyo	4.5	-	4	6
+1318	Gashakur	3.0	"Ex,Ni"	4	10
+1417	Larimshar	4.0	Ag	4	7
+11517	Urima	5.5	-	4	10
+
+
+# Routes
+M	Terra	Barnard	2		
+f	Terra	Prometheus	2		
+f	Terra	Peraspera	2		
+f	Terra	Junction	2		
+M	Barnard	Agidda	2		
+M	Agidda	Nusku	2		
+-	Prometheus	Peraspera	1		
+-	Prometheus	Midway	2		
+-	Prometheus	Junction	2		
+-	Prometheus	Loki	2		
+-	Prometheus	Ember	2		
+-	Prometheus	Barnard	2		
+-	Peraspera	Midway	1		
+-	Peraspera	Junction	1		
+-	Peraspera	Hades	2		
+-	Peraspera	Ember	2		
+-	Peraspera	Loki	2		
+f	Junction	Procyon	2		
+f	Junction	Hades	2		
+-	Junction	Midway	1		
+-	Loki	Ember	1		
+-	Loki	Dismal	2		
+-	Midway	Hades	1
+-	Midway	Hephaistos	2		
+-	Midway	Calgary	2		
+-	Midway	Inferno	2	
+-	Hades	Forlorn	2
+f	Hades	Hephaistos	1
+f	Hades	Calgary	1
+f	Hades	Inferno	1
+-	Inferno	Forlorn	1
+-	Inferno	Calgary	1
+-	Inferno	Hephaistos	2
+-	Forlorn	Calgary	1
+-	Calgary	Hephaistos	2
+-	Hephaistos	Procyon 1
+f	Procyon	Ys	2
+f	Ys	Sarpedon	2
+f	Sarpedon	Mirabilis	2
+-	Hephaistos	Ys	2
+-	Ys	Remulak	2
+
+m	Apishlun	Ensulur	2
+m	Ensulur	Shashamak	1
+m	Shashamak	Dashinur	2
+m	Dashinur	Tunshaon Tyo	1
+m	Tunshaon Tyo	Gashakur	1
+m	Gashakur	Larimshar	1
+m	Larimshar	Urima	1

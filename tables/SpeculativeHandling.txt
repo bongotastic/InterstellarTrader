@@ -1,0 +1,14 @@
+3	defective	0123456
+4	biohazard	0123
+5	valuable	0123456
+6	high end	0123456
+7	low quality	0123456
+8	high tech	0123456
+9	low tech	0123456
+10-11	none	0123456
+12	fragile	0123456
+14	stigmatized	0123456
+15	flammable	01234
+16	corrosive	01234
+17	explosive	012
+18	radioactive	0123

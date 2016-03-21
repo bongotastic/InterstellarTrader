@@ -1,0 +1,1253 @@
+Day,dT,Type,Destination,Handling,Terms,Expected bid,Distance,route
+0,40,dry bulk,Ensulur,perishable+++,CIF,66905,2,m
+0,60,break bulk,Ensulur,perishable+,DEQ,119622,2,m
+0,30,RO/RO,Ensulur,none,CIF,47024,2,m
+0,70,dry bulk,Ensulur,none,FOB,125698,2,m
+0,40,wet bulk,Ensulur,none,CIF,67943,2,m
+0,40,break bulk,Ensulur,none,CIF,67943,2,m
+0,30,RO/RO,Ensulur,none,DFD,55349,2,m
+0,40,break bulk,Ensulur,none,CIF,58063,2,m
+0,30,break bulk,Ensulur,none,DES,43319,2,m
+0,40,break bulk,Ensulur,fragile,CIF,65473,2,m
+0,50,break bulk,Ensulur,none,CIF,94986,2,m
+0,60,break bulk,Ensulur,none,CIF,82295,2,m
+0,100,break bulk,Ensulur,flamable,DEQ,130344,2,m
+0,50,break bulk,Ensulur,perishable++,CIF,90235,2,m
+0,30,break bulk,Ensulur,valuable,DES,45599,2,m
+0,20,break bulk,Ensulur,none,DES,18031,2,m
+0,100,container,Ensulur,none,CIF,117652,2,m
+0,100,break bulk,Ensulur,none,DES,123827,2,m
+0,30,dry bulk,Ensulur,none,CIF,48877,2,m
+0,40,container,Ensulur,none,CIF,70413,2,m
+0,20,dry bulk,Dashinur,none,DEQ,60450,5,mmm
+0,20,dry bulk,Dashinur,none,CIF,48165,5,mmm
+0,40,wet bulk,Urima,none,DES,327973,9,mmmmmmm
+0,10,break bulk,Urima,valuable+,CIF,58500,9,mmmmmmm
+0,20,break bulk,Urima,none,DFD,97110,9,mmmmmmm
+0,60,break bulk,Urima,none,FAS,414014,9,mmmmmmm
+0,50,break bulk,Urima,none,FAS,286477,9,mmmmmmm
+0,30,break bulk,Urima,flamable,DFD,270737,9,mmmmmmm
+0,40,break bulk,Urima,none,CIF,294628,9,mmmmmmm
+0,20,dry bulk,Urima,none,CIF,75582,9,mmmmmmm
+0,60,dry bulk,Urima,none,CIF,520377,9,mmmmmmm
+0,30,RO/RO,Urima,perishable,CIF,219944,9,mmmmmmm
+0,60,break bulk,Shashamak,none,DFD,170889,3,mm
+0,100,RO/RO,Shashamak,none,CIF,195003,3,mm
+0,30,dry bulk,Shashamak,none,DEQ,94724,3,mm
+0,40,break bulk,Shashamak,none,DFD,118979,3,mm
+0,60,break bulk,Tunshaon Tyo,perishable++,CIF,330077,6,mmmm
+0,50,break bulk,Tunshaon Tyo,explosive,CIF,220120,6,mmmm
+1,30,break bulk,Ensulur,perishable+++,FOB,45599,2,m
+1,80,dry bulk,Ensulur,flamable+,EXW,100884,2,m
+1,70,wet bulk,Ensulur,none,DFD,107815,2,m
+1,40,wet bulk,Ensulur,none,FOB,57347,2,m
+1,40,dry bulk,Ensulur,none,CIF,67943,2,m
+1,90,break bulk,Ensulur,explosive+,DES,161724,2,m
+1,90,RO/RO,Ensulur,corrosive+,CIF,196824,2,m
+1,50,break bulk,Ensulur,none,DEQ,90235,2,m
+1,10,wet bulk,Ensulur,none,CIF,16673,2,m
+1,30,wet bulk,Ensulur,none,CIF,52582,2,m
+1,60,dry bulk,Ensulur,none,FOB,99024,2,m
+1,20,dry bulk,Ensulur,living+++,CIF,28119,2,m
+1,80,break bulk,Ensulur,none,EXW,99700,2,m
+1,30,break bulk,Ensulur,none,DES,47024,2,m
+1,40,break bulk,Ensulur,none,CIF,50653,2,m
+1,50,break bulk,Ensulur,corrosive+++,CIF,108397,2,m
+1,20,break bulk,Ensulur,fragile++,CIF,17680,2,m
+1,30,break bulk,Ensulur,none,CIF,45172,2,m
+1,20,dry bulk,Ensulur,none,CIF,20501,2,m
+1,40,container,Ensulur,none,CIF,75353,2,m
+1,20,dry bulk,Larimshar,valuable,DFD,68796,8,mmmmmm
+1,40,break bulk,Dashinur,none,EXW,146453,5,mmm
+1,70,dry bulk,Dashinur,none,DES,299285,5,mmm
+1,50,break bulk,Dashinur,none,CIF,214309,5,mmm
+1,40,RO/RO,Urima,radioactive+++,EXW,261283,9,mmmmmmm
+1,70,break bulk,Urima,none,CIF,499810,9,mmmmmmm
+1,60,break bulk,Urima,none,CIF,520377,9,mmmmmmm
+1,70,dry bulk,Urima,none,DES,616517,9,mmmmmmm
+1,50,RO/RO,Urima,perishable,CIF,371861,9,mmmmmmm
+1,80,break bulk,Urima,perishable,CIF,590349,9,mmmmmmm
+1,30,container,Urima,none,CIF,236617,9,mmmmmmm
+1,50,break bulk,Shashamak,none,CIF,142479,3,mm
+1,30,dry bulk,Shashamak,living++,CIF,65474,3,mm
+1,40,break bulk,Shashamak,none,CIF,87095,3,mm
+1,10,container,Shashamak,radioactive++,DFD,28958,3,mm
+1,50,wet bulk,Tunshaon Tyo,corrosive+++,CIF,253528,6,mmmm
+1,40,break bulk,Tunshaon Tyo,fragile+,CIF,152157,6,mmmm
+2,50,container,Ensulur,corrosive++,DES,77685,2,m
+2,80,dry bulk,Ensulur,flamable,DES,122494,2,m
+2,50,wet bulk,Ensulur,none,CIF,73374,2,m
+2,40,break bulk,Ensulur,explosive++,CIF,79319,2,m
+2,30,break bulk,Ensulur,none,FAS,41039,2,m
+2,20,break bulk,Ensulur,none,CIF,24206,2,m
+2,70,break bulk,Ensulur,flamable+,CIF,135115,2,m
+2,10,dry bulk,Ensulur,none,CIF,14203,2,m
+2,70,break bulk,Ensulur,none,CIF,115392,2,m
+2,10,RO/RO,Ensulur,none,DEQ,11700,2,m
+2,30,break bulk,Ensulur,none,FAS,53324,2,m
+2,60,break bulk,Ensulur,none,CIF,93410,2,m
+2,40,wet bulk,Ensulur,flamable++,EXW,72883,2,m
+2,80,break bulk,Ensulur,none,FOB,105564,2,m
+2,80,dry bulk,Ensulur,none,CIF,96609,2,m
+2,50,break bulk,Ensulur,explosive+++,CIF,111810,2,m
+2,40,container,Dashinur,corrosive,CIF,157507,5,mmm
+2,10,wet bulk,Dashinur,perishable+++,FOB,32500,5,mmm
+2,40,break bulk,Dashinur,none,DEQ,198297,5,mmm
+2,100,RO/RO,Urima,none,CIF,557220,9,mmmmmmm
+2,50,RO/RO,Urima,none,FAS,378615,9,mmmmmmm
+2,80,RO/RO,Urima,perishable++,CIF,410820,9,mmmmmmm
+2,90,RO/RO,Urima,fragile+++,DFD,742619,9,mmmmmmm
+2,30,dry bulk,Urima,none,FOB,192573,9,mmmmmmm
+2,50,break bulk,Urima,living+++,CIF,441717,9,mmmmmmm
+2,30,break bulk,Shashamak,living,EXW,79986,3,mm
+2,20,break bulk,Shashamak,none,CIF,27047,3,mm
+2,40,dry bulk,Shashamak,none,CIF,101915,3,mm
+2,70,dry bulk,Shashamak,none,FAS,133265,3,mm
+3,90,break bulk,Ensulur,flamable++,CIF,161724,2,m
+3,30,break bulk,Ensulur,none,DFD,49499,2,m
+3,40,break bulk,Ensulur,none,CIF,65473,2,m
+3,20,dry bulk,Ensulur,flamable,CIF,13091,2,m
+3,80,RO/RO,Ensulur,biohazard,CIF,106489,2,m
+3,70,break bulk,Ensulur,none,CIF,128359,2,m
+3,20,container,Ensulur,perishable,CIF,16796,2,m
+3,40,dry bulk,Ensulur,none,FOB,64367,2,m
+3,40,break bulk,Ensulur,none,CIF,70413,2,m
+3,70,dry bulk,Ensulur,fragile++,CIF,112365,2,m
+3,50,break bulk,Ensulur,fragile,CIF,79549,2,m
+3,50,dry bulk,Ensulur,flamable+++,DES,94747,2,m
+3,80,dry bulk,Ensulur,none,CIF,121309,2,m
+3,50,RO/RO,Ensulur,flamable,DES,93485,2,m
+3,50,dry bulk,Ensulur,flamable,DES,99985,2,m
+3,50,dry bulk,Ensulur,radioactive+++,CIF,94747,2,m
+3,70,RO/RO,Ensulur,none,DFD,139665,2,m
+3,60,break bulk,Ensulur,biohazard++,CIF,90526,2,m
+3,25,wet bulk,Larimshar,none,DES,126464,8,mmmmmm
+3,15,dry bulk,Larimshar,none,CIF,54093,8,mmmmmm
+3,10,container,Dashinur,none,DES,37050,5,mmm
+3,90,wet bulk,Dashinur,none,CIF,439670,5,mmm
+3,40,break bulk,Urima,none,CIF,283513,9,mmmmmmm
+3,50,break bulk,Urima,none,CIF,357968,9,mmmmmmm
+3,30,container,Urima,fragile,CIF,228280,9,mmmmmmm
+3,30,break bulk,Urima,fragile++,DEQ,243096,9,mmmmmmm
+3,70,break bulk,Urima,flamable+,FAS,519261,9,mmmmmmm
+3,70,break bulk,Urima,none,CIF,597066,9,mmmmmmm
+3,60,dry bulk,Tunshaon Tyo,none,FOB,307600,6,mmmm
+3,70,break bulk,Tunshaon Tyo,valuable,CIF,294304,6,mmmm
+4,70,container,Ensulur,perishable,CIF,132682,2,m
+4,30,break bulk,Ensulur,none,DFD,45599,2,m
+4,30,break bulk,Ensulur,fragile+++,DES,56069,2,m
+4,40,dry bulk,Ensulur,none,CIF,63003,2,m
+4,10,container,Ensulur,corrosive++,CIF,11050,2,m
+4,60,RO/RO,Ensulur,none,EXW,80262,2,m
+4,70,container,Ensulur,valuable++,CIF,121465,2,m
+4,30,RO/RO,Ensulur,perishable++,DES,47879,2,m
+4,50,dry bulk,Ensulur,none,CIF,85724,2,m
+4,90,break bulk,Ensulur,valuable+,CIF,150024,2,m
+4,40,container,Ensulur,none,CIF,77823,2,m
+4,90,dry bulk,Ensulur,fragile,FAS,161347,2,m
+4,50,wet bulk,Ensulur,corrosive++,CIF,86985,2,m
+4,70,dry bulk,Ensulur,none,CIF,141327,2,m
+4,30,break bulk,Ensulur,none,CIF,45172,2,m
+4,70,break bulk,Ensulur,none,CIF,137004,2,m
+4,70,break bulk,Ensulur,none,CIF,111069,2,m
+4,100,break bulk,Ensulur,none,CIF,92952,2,m
+4,40,break bulk,Ensulur,perishable,CIF,60533,2,m
+4,60,break bulk,Ensulur,perishable,FAS,99024,2,m
+4,20,container,Ensulur,corrosive+++,FAS,20280,2,m
+4,60,dry bulk,Dashinur,none,FAS,194908,5,mmm
+4,70,container,Urima,none,DES,480358,9,mmmmmmm
+4,80,wet bulk,Urima,none,CIF,523659,9,mmmmmmm
+4,50,break bulk,Urima,none,DES,371861,9,mmmmmmm
+4,80,break bulk,Urima,flamable,CIF,590349,9,mmmmmmm
+4,60,wet bulk,Urima,perishable+,EXW,350834,9,mmmmmmm
+4,80,wet bulk,Urima,none,EXW,508317,9,mmmmmmm
+4,50,break bulk,Urima,none,DEQ,347558,9,mmmmmmm
+4,70,break bulk,Urima,fragile+,FAS,519261,9,mmmmmmm
+4,60,break bulk,Urima,none,CIF,453687,9,mmmmmmm
+4,60,break bulk,Urima,none,CIF,520377,9,mmmmmmm
+4,50,dry bulk,Urima,none,DES,413543,9,mmmmmmm
+4,80,break bulk,Shashamak,flamable++,DFD,245014,3,mm
+4,80,break bulk,Shashamak,none,CIF,152323,3,mm
+4,70,break bulk,Shashamak,valuable,CIF,179571,3,mm
+4,40,dry bulk,Tunshaon Tyo,none,DES,166779,6,mmmm
+4,70,dry bulk,Tunshaon Tyo,fragile+++,DFD,415848,6,mmmm
+5,80,dry bulk,Ensulur,fragile++,CIF,106894,2,m
+5,80,break bulk,Ensulur,none,CIF,131189,2,m
+5,40,RO/RO,Ensulur,none,CIF,77823,2,m
+5,20,dry bulk,Ensulur,none,CIF,21736,2,m
+5,80,container,Ensulur,fragile,DES,122494,2,m
+5,40,dry bulk,Ensulur,none,CIF,65473,2,m
+5,80,break bulk,Ensulur,flamable+++,DES,112238,2,m
+5,90,wet bulk,Ensulur,flamable+++,CIF,175953,2,m
+5,40,break bulk,Ensulur,none,DEQ,61119,2,m
+5,80,break bulk,Ensulur,none,CIF,116369,2,m
+5,20,break bulk,Ensulur,perishable++,CIF,17680,2,m
+5,30,break bulk,Ensulur,flamable+,CIF,47549,2,m
+5,60,break bulk,Ensulur,fragile,CIF,97115,2,m
+5,40,break bulk,Dashinur,none,CIF,157507,5,mmm
+5,80,break bulk,Dashinur,none,CIF,290922,5,mmm
+5,50,dry bulk,Dashinur,none,FOB,181092,5,mmm
+5,60,break bulk,Urima,none,CIF,437015,9,mmmmmmm
+5,30,wet bulk,Urima,none,FAS,192573,9,mmmmmmm
+5,10,break bulk,Urima,flamable++,FOB,76050,9,mmmmmmm
+5,60,dry bulk,Urima,perishable++,CIF,460016,9,mmmmmmm
+5,70,break bulk,Urima,none,DES,616517,9,mmmmmmm
+5,60,wet bulk,Shashamak,none,FOB,164330,3,mm
+6,60,dry bulk,Ensulur,none,FAS,102534,2,m
+6,40,break bulk,Ensulur,biohazard,CIF,58063,2,m
+6,90,break bulk,Ensulur,fragile,CIF,164753,2,m
+6,50,break bulk,Ensulur,none,DEQ,83735,2,m
+6,20,wet bulk,Ensulur,none,CIF,22971,2,m
+6,80,break bulk,Ensulur,none,FAS,82164,2,m
+6,50,break bulk,Ensulur,flamable+++,CIF,84510,2,m
+6,30,break bulk,Ensulur,none,EXW,43732,2,m
+6,20,dry bulk,Ensulur,none,CIF,22971,2,m
+6,60,wet bulk,Ensulur,none,CIF,82295,2,m
+6,20,break bulk,Ensulur,none,DEQ,17680,2,m
+6,40,dry bulk,Ensulur,none,CIF,70413,2,m
+6,100,dry bulk,Ensulur,fragile++,CIF,136844,2,m
+6,50,dry bulk,Ensulur,none,FOB,98762,2,m
+6,50,break bulk,Ensulur,corrosive,CIF,73374,2,m
+6,40,dry bulk,Ensulur,none,DES,58063,2,m
+6,90,break bulk,Ensulur,flamable+,EXW,166612,2,m
+6,10,dry bulk,Ensulur,none,CIF,12350,2,m
+6,50,break bulk,Ensulur,none,DES,76461,2,m
+6,20,break bulk,Ensulur,corrosive+,CIF,25480,2,m
+6,90,break bulk,Ensulur,none,EXW,142438,2,m
+6,50,break bulk,Ensulur,living,DFD,94747,2,m
+6,70,dry bulk,Ensulur,none,CIF,124037,2,m
+6,20,dry bulk,Ensulur,living+,CIF,20280,2,m
+6,70,break bulk,Ensulur,none,CIF,119714,2,m
+6,60,break bulk,Ensulur,none,FOB,74454,2,m
+6,90,dry bulk,Ensulur,flamable++,DFD,216507,2,m
+6,20,wet bulk,Ensulur,flamable+++,CIF,25389,2,m
+6,50,break bulk,Ensulur,radioactive+++,CIF,115222,2,m
+6,90,break bulk,Ensulur,flamable++,DES,145241,2,m
+6,40,dry bulk,Ensulur,none,DES,58063,2,m
+6,60,container,Ensulur,none,EXW,96837,2,m
+6,100,break bulk,Ensulur,living+,CIF,136844,2,m
+6,60,break bulk,Ensulur,corrosive+++,CIF,115527,2,m
+6,50,break bulk,Ensulur,fragile+,DEQ,104985,2,m
+6,10,break bulk,Ensulur,valuable+++,DFD,15731,2,m
+6,30,dry bulk,Ensulur,none,DES,39614,2,m
+6,50,dry bulk,Ensulur,none,CIF,79549,2,m
+6,20,break bulk,Ensulur,none,CIF,22971,2,m
+6,40,break bulk,Ensulur,living+,CIF,71519,2,m
+6,60,break bulk,Ensulur,explosive++,CIF,78826,2,m
+6,80,break bulk,Ensulur,none,CIF,116369,2,m
+6,50,break bulk,Ensulur,none,CIF,82636,2,m
+6,30,break bulk,Ensulur,none,CIF,43319,2,m
+6,40,break bulk,Ensulur,none,CIF,58063,2,m
+6,90,wet bulk,Ensulur,fragile,CIF,164753,2,m
+6,50,RO/RO,Ensulur,fragile+++,EXW,85724,2,m
+6,80,RO/RO,Ensulur,none,CIF,116369,2,m
+6,10,break bulk,Ensulur,perishable+,CIF,11700,2,m
+6,10,wet bulk,Ensulur,living++,DES,12968,2,m
+6,30,break bulk,Ensulur,none,CIF,52582,2,m
+6,70,wet bulk,Ensulur,valuable+++,CIF,151426,2,m
+6,70,dry bulk,Ensulur,none,CIF,128359,2,m
+6,40,RO/RO,Ensulur,biohazard,CIF,65473,2,m
+6,50,break bulk,Ensulur,none,CIF,82636,2,m
+6,60,break bulk,Ensulur,none,CIF,108230,2,m
+6,90,dry bulk,Ensulur,none,CIF,148081,2,m
+6,50,break bulk,Ensulur,flamable+++,CIF,118635,2,m
+6,60,dry bulk,Ensulur,living++,CIF,106126,2,m
+6,30,break bulk,Ensulur,perishable++,CIF,55349,2,m
+6,80,wet bulk,Ensulur,fragile+++,CIF,144998,2,m
+6,40,container,Ensulur,perishable+,CIF,61119,2,m
+6,40,break bulk,Ensulur,none,DEQ,68919,2,m
+6,80,dry bulk,Ensulur,living+,CIF,122494,2,m
+6,70,dry bulk,Ensulur,none,CIF,154294,2,m
+6,50,break bulk,Ensulur,none,DFD,83735,2,m
+6,60,break bulk,Ensulur,flamable+,CIF,113926,2,m
+6,40,RO/RO,Ensulur,perishable++,CIF,74119,2,m
+6,60,wet bulk,Ensulur,none,CIF,115640,2,m
+6,90,break bulk,Ensulur,none,EXW,137466,2,m
+6,60,break bulk,Ensulur,fragile,FOB,108230,2,m
+6,70,break bulk,Ensulur,none,CIF,141327,2,m
+6,60,dry bulk,Ensulur,corrosive++,FOB,110026,2,m
+6,50,break bulk,Ensulur,none,CIF,91899,2,m
+6,80,container,Ensulur,fragile++,EXW,101549,2,m
+6,30,break bulk,Ensulur,radioactive++,CIF,43649,2,m
+6,30,break bulk,Ensulur,none,DES,45172,2,m
+6,100,dry bulk,Ensulur,valuable+,DFD,177811,2,m
+6,80,dry bulk,Ensulur,none,DEQ,96494,2,m
+6,40,wet bulk,Ensulur,fragile,CIF,60533,2,m
+6,50,break bulk,Ensulur,none,CIF,79549,2,m
+6,50,break bulk,Ensulur,flamable,CIF,85724,2,m
+6,50,break bulk,Ensulur,none,DEQ,96735,2,m
+6,40,break bulk,Ensulur,none,CIF,67943,2,m
+6,80,break bulk,Ensulur,none,FOB,100884,2,m
+6,40,wet bulk,Ensulur,fragile,CIF,65473,2,m
+6,60,break bulk,Ensulur,perishable, fragile+,CIF,94426,2,m
+6,50,dry bulk,Ensulur,living+++,CIF,101572,2,m
+6,10,break bulk,Ensulur,restricted++,DEQ,114660,2,m
+6,100,dry bulk,Ensulur,none,FAS,140710,2,m
+6,40,break bulk,Ensulur,perishable+++,DEQ,70091,2,m
+6,40,break bulk,Ensulur,none,CIF,50653,2,m
+6,70,wet bulk,Ensulur,corrosive+,DEQ,141871,2,m
+6,70,dry bulk,Ensulur,none,DFD,126015,2,m
+6,30,dry bulk,Ensulur,living+,CIF,59249,2,m
+6,60,break bulk,Ensulur,none,CIF,108230,2,m
+6,100,dry bulk,Ensulur,living,CIF,86777,2,m
+6,40,wet bulk,Ensulur,none,DEQ,53319,2,m
+6,40,dry bulk,Ensulur,none,DES,55593,2,m
+6,60,container,Ensulur,flamable+,CIF,102226,2,m
+6,80,dry bulk,Ensulur,perishable+,CIF,112094,2,m
+6,40,wet bulk,Ensulur,none,DEQ,74119,2,m
+6,10,break bulk,Ensulur,fragile+,CIF,14950,2,m
+6,10,break bulk,Ensulur,flamable++,DFD,18591,2,m
+6,30,dry bulk,Ensulur,none,CIF,50729,2,m
+6,10,dry bulk,Ensulur,none,CIF,9880,2,m
+6,30,wet bulk,Ensulur,none,CIF,56287,2,m
+6,40,wet bulk,Ensulur,none,CIF,72883,2,m
+6,40,dry bulk,Ensulur,living+,CIF,66319,2,m
+6,10,break bulk,Ensulur,none,CIF,11733,2,m
+6,30,RO/RO,Ensulur,none,CIF,52582,2,m
+6,50,break bulk,Ensulur,none,DFD,96735,2,m
+6,30,wet bulk,Ensulur,radioactive+,CIF,53399,2,m
+6,60,break bulk,Ensulur,none,CIF,104525,2,m
+6,10,wet bulk,Ensulur,corrosive,FAS,13455,2,m
+6,40,break bulk,Ensulur,none,CIF,55593,2,m
+6,20,break bulk,Ensulur,none,CIF,13091,2,m
+6,40,container,Ensulur,radioactive+++,CIF,77825,2,m
+6,60,container,Ensulur,flamable+++,FOB,110026,2,m
+6,50,RO/RO,Ensulur,fragile+++,CIF,98160,2,m
+6,30,break bulk,Ensulur,none,CIF,58139,2,m
+6,40,break bulk,Ensulur,fragile+++,FOB,63719,2,m
+6,50,break bulk,Ensulur,fragile+++,CIF,104985,2,m
+6,50,dry bulk,Ensulur,fragile,CIF,85724,2,m
+6,50,dry bulk,Ensulur,valuable,DEQ,83735,2,m
+6,100,break bulk,Ensulur,none,CIF,117652,2,m
+6,100,break bulk,Ensulur,none,CIF,86777,2,m
+6,60,container,Ensulur,corrosive++,FOB,90526,2,m
+6,30,wet bulk,Ensulur,fragile+,DEQ,47879,2,m
+6,60,wet bulk,Ensulur,corrosive+,CIF,102226,2,m
+6,10,break bulk,Ensulur,fragile++,CIF,16900,2,m
+6,40,container,Ensulur,none,DEQ,74119,2,m
+6,50,break bulk,Ensulur,none,DEQ,70735,2,m
+6,70,RO/RO,Ensulur,valuable+,CIF,162415,2,m
+6,20,break bulk,Ensulur,none,CIF,13091,2,m
+6,60,break bulk,Ensulur,none,CIF,100820,2,m
+6,40,break bulk,Ensulur,none,FOB,59687,2,m
+6,60,break bulk,Ensulur,none,CIF,111935,2,m
+6,40,break bulk,Ensulur,fragile+++,DEQ,72951,2,m
+6,50,container,Ensulur,fragile++,CIF,90235,2,m
+6,60,dry bulk,Ensulur,none,CIF,111935,2,m
+6,80,dry bulk,Ensulur,none,FAS,114924,2,m
+6,50,container,Ensulur,valuable,CIF,82636,2,m
+6,50,RO/RO,Ensulur,fragile++,EXW,76461,2,m
+6,50,dry bulk,Ensulur,none,EXW,62888,2,m
+6,30,break bulk,Ensulur,none,DEQ,51449,2,m
+6,60,break bulk,Ensulur,none,DFD,86626,2,m
+6,70,RO/RO,Ensulur,none,CIF,124037,2,m
+6,20,break bulk,Larimshar,fragile+,CIF,60320,8,mmmmmm
+6,60,container,Dashinur,corrosive,CIF,270574,5,mmm
+6,80,RO/RO,Urima,fragile+,CIF,527820,9,mmmmmmm
+6,40,dry bulk,Urima,none,DFD,321835,9,mmmmmmm
+6,50,wet bulk,Urima,perishable+,CIF,376808,9,mmmmmmm
+6,50,container,Urima,none,CIF,385755,9,mmmmmmm
+6,20,dry bulk,Urima,none,FOB,61074,9,mmmmmmm
+6,70,dry bulk,Urima,fragile+++,DES,444927,9,mmmmmmm
+6,90,wet bulk,Urima,radioactive++,CIF,648783,9,mmmmmmm
+6,90,break bulk,Urima,none,CIF,791405,9,mmmmmmm
+6,20,break bulk,Urima,none,DES,86697,9,mmmmmmm
+6,10,break bulk,Urima,none,EXW,49725,9,mmmmmmm
+6,30,dry bulk,Urima,none,FAS,200471,9,mmmmmmm
+6,60,wet bulk,Urima,none,CIF,420342,9,mmmmmmm
+6,40,wet bulk,Urima,explosive,EXW,258061,9,mmmmmmm
+6,60,RO/RO,Urima,none,CIF,487032,9,mmmmmmm
+6,30,dry bulk,Urima,none,CIF,194935,9,mmmmmmm
+6,10,break bulk,Urima,none,DFD,61425,9,mmmmmmm
+6,30,break bulk,Urima,none,CIF,186599,9,mmmmmmm
+6,50,wet bulk,Shashamak,flamable+++,DFD,116713,3,mm
+6,50,wet bulk,Shashamak,none,DES,123954,3,mm
+6,40,break bulk,Shashamak,none,CIF,83390,3,mm
+6,40,break bulk,Shashamak,perishable+++,DFD,130876,3,mm
+6,100,break bulk,Shashamak,explosive,CIF,167215,3,mm
+6,70,wet bulk,Shashamak,corrosive+,CIF,195847,3,mm
+6,30,dry bulk,Shashamak,none,CIF,67758,3,mm
+6,30,break bulk,Shashamak,fragile+++,DFD,104196,3,mm
+6,70,container,Shashamak,none,FAS,176262,3,mm
+7,20,break bulk,Ensulur,none,FOB,15913,2,m
+7,30,break bulk,Ensulur,corrosive,DEQ,49499,2,m
+7,80,dry bulk,Ensulur,none,DFD,112094,2,m
+7,100,wet bulk,Ensulur,none,DES,123827,2,m
+7,50,break bulk,Ensulur,fragile+++,FAS,77235,2,m
+7,30,break bulk,Ensulur,none,DFD,51449,2,m
+7,50,dry bulk,Ensulur,restricted+,FOB,305843,2,m
+7,60,break bulk,Ensulur,corrosive+++,CIF,107337,2,m
+7,40,break bulk,Ensulur,none,DES,50653,2,m
+7,90,dry bulk,Ensulur,none,DEQ,202674,2,m
+7,80,wet bulk,Ensulur,none,DEQ,101694,2,m
+7,60,wet bulk,Ensulur,perishable++,CIF,86626,2,m
+7,30,container,Ensulur,none,CIF,45172,2,m
+7,20,break bulk,Ensulur,none,EXW,15029,2,m
+7,40,break bulk,Ensulur,fragile+++,DEQ,75811,2,m
+7,40,break bulk,Ensulur,none,CIF,67943,2,m
+7,70,break bulk,Ensulur,flamable++,CIF,130565,2,m
+7,60,wet bulk,Ensulur,none,DFD,110026,2,m
+7,10,break bulk,Ensulur,none,DES,14203,2,m
+7,20,dry bulk,Ensulur,none,CIF,13091,2,m
+7,70,RO/RO,Ensulur,none,CIF,111069,2,m
+7,20,break bulk,Ensulur,flamable++,EXW,19266,2,m
+7,70,container,Ensulur,none,DFD,107815,2,m
+7,60,dry bulk,Ensulur,fragile,FAS,102534,2,m
+7,40,break bulk,Ensulur,flamable++,CIF,55919,2,m
+7,10,wet bulk,Ensulur,explosive+++,EXW,12350,2,m
+7,20,break bulk,Ensulur,flamable+++,DES,21294,2,m
+7,80,break bulk,Ensulur,none,CIF,106489,2,m
+7,10,wet bulk,Ensulur,none,CIF,11733,2,m
+7,20,break bulk,Ensulur,explosive+++,CIF,17199,2,m
+7,40,break bulk,Ensulur,living++,CIF,76719,2,m
+7,40,break bulk,Ensulur,biohazard++,EXW,65473,2,m
+7,40,wet bulk,Ensulur,perishable+,DEQ,75095,2,m
+7,80,dry bulk,Ensulur,none,EXW,99700,2,m
+7,80,break bulk,Ensulur,fragile+,CIF,132894,2,m
+7,60,RO/RO,Ensulur,living++,CIF,125626,2,m
+7,30,wet bulk,Ensulur,none,DES,41467,2,m
+7,80,dry bulk,Ensulur,none,CIF,126249,2,m
+7,80,break bulk,Ensulur,perishable++,CIF,122494,2,m
+7,60,break bulk,Ensulur,corrosive,DES,106126,2,m
+7,30,container,Ensulur,corrosive+,CIF,55349,2,m
+7,40,break bulk,Ensulur,none,CIF,70413,2,m
+7,50,wet bulk,Ensulur,fragile++,CIF,99985,2,m
+7,40,container,Ensulur,none,CIF,48183,2,m
+7,80,break bulk,Ensulur,none,FOB,128964,2,m
+7,20,wet bulk,Ensulur,none,CIF,16796,2,m
+7,80,dry bulk,Ensulur,fragile,CIF,131189,2,m
+7,30,wet bulk,Ensulur,fragile,CIF,54434,2,m
+7,20,break bulk,Ensulur,none,CIF,16796,2,m
+7,60,RO/RO,Ensulur,fragile,CIF,115640,2,m
+7,40,break bulk,Ensulur,none,DES,63003,2,m
+7,40,container,Ensulur,none,CIF,58063,2,m
+7,40,break bulk,Ensulur,none,CIF,65473,2,m
+7,50,break bulk,Ensulur,none,FAS,87062,2,m
+7,50,break bulk,Ensulur,none,CIF,73374,2,m
+7,70,dry bulk,Ensulur,none,CIF,119714,2,m
+7,70,break bulk,Ensulur,none,DFD,103265,2,m
+7,60,break bulk,Ensulur,none,CIF,97115,2,m
+7,90,break bulk,Ensulur,none,CIF,159196,2,m
+7,10,wet bulk,Ensulur,none,DFD,11700,2,m
+7,70,dry bulk,Ensulur,fragile++,CIF,116915,2,m
+7,50,break bulk,Ensulur,fragile++,CIF,77235,2,m
+7,60,break bulk,Ensulur,none,CIF,89705,2,m
+7,30,break bulk,Ensulur,fragile,DEQ,53399,2,m
+7,80,break bulk,Ensulur,explosive+++,DEQ,117583,2,m
+7,20,container,Ensulur,flamable++,CIF,24180,2,m
+7,50,dry bulk,Ensulur,none,CIF,91899,2,m
+7,90,break bulk,Ensulur,corrosive+++,CIF,145241,2,m
+7,30,dry bulk,Ensulur,none,CIF,50729,2,m
+7,60,break bulk,Ensulur,none,CIF,78590,2,m
+7,60,break bulk,Ensulur,flamable,FAS,70944,2,m
+7,20,break bulk,Ensulur,none,CIF,11856,2,m
+7,60,wet bulk,Ensulur,none,CIF,93410,2,m
+7,40,container,Ensulur,none,CIF,75353,2,m
+7,70,wet bulk,Ensulur,none,CIF,132682,2,m
+7,10,break bulk,Ensulur,flamable+++,FOB,17550,2,m
+7,70,dry bulk,Ensulur,none,CIF,102424,2,m
+7,60,break bulk,Ensulur,living+++,CIF,127812,2,m
+7,70,break bulk,Ensulur,explosive++,CIF,116915,2,m
+7,40,break bulk,Ensulur,none,CIF,63003,2,m
+7,70,container,Ensulur,none,DES,115392,2,m
+7,50,dry bulk,Ensulur,none,CIF,79549,2,m
+7,40,container,Ensulur,corrosive,CIF,60533,2,m
+7,100,container,Ensulur,perishable++,FOB,110844,2,m
+7,50,break bulk,Ensulur,none,CIF,76461,2,m
+7,90,break bulk,Ensulur,none,CIF,142523,2,m
+7,40,break bulk,Ensulur,fragile+,CIF,55919,2,m
+7,40,break bulk,Ensulur,none,DFD,74119,2,m
+7,60,break bulk,Ensulur,none,CIF,86000,2,m
+7,20,container,Ensulur,corrosive,DFD,19929,2,m
+7,40,break bulk,Ensulur,none,EXW,51951,2,m
+7,80,container,Ensulur,explosive,CIF,126249,2,m
+7,40,break bulk,Ensulur,fragile,DES,55919,2,m
+7,60,wet bulk,Ensulur,radioactive,CIF,89705,2,m
+7,60,break bulk,Ensulur,none,FOB,84984,2,m
+7,100,dry bulk,Ensulur,none,CIF,123827,2,m
+7,40,break bulk,Ensulur,valuable,CIF,63003,2,m
+7,70,break bulk,Ensulur,perishable,FOB,102424,2,m
+7,70,dry bulk,Ensulur,none,DES,124037,2,m
+7,70,break bulk,Ensulur,living++,CIF,116915,2,m
+7,90,dry bulk,Ensulur,none,CIF,186983,2,m
+7,40,dry bulk,Ensulur,corrosive,CIF,63003,2,m
+7,20,break bulk,Ensulur,explosive,CIF,21736,2,m
+7,90,break bulk,Ensulur,none,FOB,129757,2,m
+7,30,break bulk,Ensulur,none,CIF,45172,2,m
+7,80,break bulk,Ensulur,none,EXW,130640,2,m
+7,60,break bulk,Ensulur,fragile,DEQ,102226,2,m
+7,50,break bulk,Ensulur,corrosive++,CIF,86985,2,m
+7,20,dry bulk,Ensulur,explosive+,CIF,17680,2,m
+7,50,dry bulk,Ensulur,none,DFD,83735,2,m
+7,70,wet bulk,Ensulur,none,CIF,137004,2,m
+7,70,dry bulk,Ensulur,none,FOB,137983,2,m
+7,80,dry bulk,Dashinur,none,CIF,315622,5,mmm
+7,50,container,Urima,flamable++,DEQ,395648,9,mmmmmmm
+7,80,break bulk,Urima,none,CIF,590349,9,mmmmmmm
+7,60,break bulk,Urima,living+,FAS,537050,9,mmmmmmm
+7,40,break bulk,Urima,none,FOB,331771,9,mmmmmmm
+7,50,break bulk,Urima,none,DFD,406058,9,mmmmmmm
+7,100,container,Urima,none,DEQ,557297,9,mmmmmmm
+7,90,break bulk,Urima,none,CIF,816414,9,mmmmmmm
+7,50,break bulk,Shashamak,none,CIF,123954,3,mm
+7,70,wet bulk,Shashamak,corrosive+,DES,209497,3,mm
+7,40,break bulk,Shashamak,biohazard+++,CIF,116737,3,mm
+7,90,dry bulk,Shashamak,corrosive+++,CIF,227074,3,mm
+7,60,break bulk,Shashamak,none,CIF,173459,3,mm
+8,90,break bulk,Ensulur,none,CIF,181426,2,m
+8,20,break bulk,Ensulur,fragile,CIF,21736,2,m
+8,40,break bulk,Ensulur,none,DFD,68919,2,m
+8,90,break bulk,Ensulur,none,CIF,136966,2,m
+8,60,break bulk,Ensulur,valuable,DES,125626,2,m
+8,100,break bulk,Ensulur,valuable+++,DEQ,150529,2,m
+8,60,break bulk,Ensulur,none,DES,100820,2,m
+8,80,wet bulk,Ensulur,none,CIF,86729,2,m
+8,30,wet bulk,Ensulur,corrosive+,DEQ,45832,2,m
+8,50,wet bulk,Ensulur,explosive,DFD,91335,2,m
+8,30,break bulk,Ensulur,none,DES,47024,2,m
+8,40,break bulk,Ensulur,none,CIF,63003,2,m
+8,40,RO/RO,Ensulur,none,FOB,71387,2,m
+8,80,container,Ensulur,fragile+,CIF,127694,2,m
+8,10,RO/RO,Ensulur,none,FAS,13455,2,m
+8,80,break bulk,Ensulur,none,CIF,91669,2,m
+8,50,break bulk,Ensulur,none,FAS,78287,2,m
+8,30,break bulk,Ensulur,fragile,CIF,45172,2,m
+8,40,container,Ensulur,corrosive,DFD,80555,2,m
+8,60,break bulk,Ensulur,perishable+,CIF,90526,2,m
+8,90,break bulk,Ensulur,none,DES,153638,2,m
+8,50,break bulk,Ensulur,none,FOB,87062,2,m
+8,20,break bulk,Ensulur,none,CIF,19266,2,m
+8,50,container,Ensulur,perishable+,CIF,80485,2,m
+8,60,wet bulk,Ensulur,none,CIF,104525,2,m
+8,60,break bulk,Ensulur,none,CIF,89705,2,m
+8,60,container,Ensulur,fragile,CIF,93410,2,m
+8,60,dry bulk,Ensulur,fragile,CIF,108230,2,m
+8,70,break bulk,Ensulur,none,CIF,124037,2,m
+8,40,dry bulk,Ensulur,none,CIF,70413,2,m
+8,10,break bulk,Ensulur,none,CIF,10498,2,m
+8,10,wet bulk,Ensulur,none,CIF,15438,2,m
+8,10,break bulk,Ensulur,none,CIF,14820,2,m
+8,50,RO/RO,Ensulur,flamable+++,FOB,73985,2,m
+8,50,break bulk,Ensulur,none,FOB,87062,2,m
+8,50,dry bulk,Ensulur,none,EXW,76700,2,m
+8,70,wet bulk,Ensulur,none,FOB,113413,2,m
+8,10,wet bulk,Ensulur,explosive,FOB,11733,2,m
+8,90,break bulk,Ensulur,none,CIF,159196,2,m
+8,60,break bulk,Ensulur,none,CIF,100820,2,m
+8,60,wet bulk,Ensulur,none,DES,86000,2,m
+8,70,container,Ensulur,none,CIF,111069,2,m
+8,50,break bulk,Ensulur,perishable,FAS,69512,2,m
+8,80,break bulk,Ensulur,none,DEQ,80894,2,m
+8,90,break bulk,Ensulur,none,CIF,164753,2,m
+8,70,break bulk,Ensulur,none,DFD,116915,2,m
+8,40,wet bulk,Ensulur,none,CIF,60533,2,m
+8,50,break bulk,Ensulur,none,CIF,85724,2,m
+8,50,dry bulk,Ensulur,none,CIF,64111,2,m
+8,80,break bulk,Ensulur,none,DES,141069,2,m
+8,50,wet bulk,Ensulur,explosive++,DES,84510,2,m
+8,40,break bulk,Ensulur,none,DEQ,63719,2,m
+8,70,break bulk,Ensulur,flamable+++,CIF,137093,2,m
+8,80,wet bulk,Ensulur,none,CIF,121309,2,m
+8,50,dry bulk,Ensulur,none,FOB,60737,2,m
+8,20,break bulk,Ensulur,none,DFD,16380,2,m
+8,30,break bulk,Ensulur,perishable,DES,53399,2,m
+8,60,dry bulk,Ensulur,none,FOB,70944,2,m
+8,60,break bulk,Ensulur,none,CIF,89705,2,m
+8,30,break bulk,Ensulur,none,DES,47024,2,m
+8,20,container,Ensulur,perishable, explosive,DFD,17199,2,m
+8,50,break bulk,Ensulur,perishable++,CIF,93485,2,m
+8,70,wet bulk,Ensulur,none,CIF,137004,2,m
+8,80,break bulk,Ensulur,none,CIF,150949,2,m
+8,10,wet bulk,Ensulur,none,DES,14820,2,m
+8,50,container,Ensulur,none,CIF,85724,2,m
+8,40,break bulk,Ensulur,perishable+,CIF,71519,2,m
+8,60,dry bulk,Ensulur,none,CIF,82295,2,m
+8,70,dry bulk,Ensulur,none,DES,128359,2,m
+8,50,dry bulk,Ensulur,perishable,CIF,79549,2,m
+8,70,dry bulk,Ensulur,none,DFD,126015,2,m
+8,80,wet bulk,Ensulur,flamable,CIF,121309,2,m
+8,30,wet bulk,Ensulur,flamable+++,DEQ,58739,2,m
+8,80,break bulk,Ensulur,none,FOB,96204,2,m
+8,60,break bulk,Ensulur,none,DFD,110026,2,m
+8,50,break bulk,Ensulur,perishable+++,CIF,98160,2,m
+8,10,break bulk,Ensulur,none,FAS,14625,2,m
+8,20,container,Ensulur,none,CIF,19266,2,m
+8,60,container,Ensulur,none,CIF,93410,2,m
+8,60,break bulk,Ensulur,none,FOB,84984,2,m
+8,70,break bulk,Ensulur,none,CIF,132682,2,m
+8,80,break bulk,Ensulur,none,FOB,82164,2,m
+8,80,break bulk,Ensulur,none,CIF,101549,2,m
+8,60,dry bulk,Ensulur,flamable+++,FOB,94426,2,m
+8,30,wet bulk,Ensulur,none,CIF,45172,2,m
+8,30,wet bulk,Ensulur,corrosive+++,EXW,56287,2,m
+8,60,dry bulk,Ensulur,none,CIF,97115,2,m
+8,30,break bulk,Ensulur,none,CIF,39614,2,m
+8,40,break bulk,Ensulur,biohazard,CIF,67943,2,m
+8,40,break bulk,Ensulur,none,CIF,75353,2,m
+8,30,container,Ensulur,perishable,DFD,41737,2,m
+8,100,dry bulk,Ensulur,flamable++,DES,123211,2,m
+8,80,break bulk,Ensulur,none,CIF,111429,2,m
+8,60,RO/RO,Ensulur,explosive,CIF,89705,2,m
+8,100,wet bulk,Ensulur,none,FAS,105610,2,m
+8,100,wet bulk,Ensulur,none,CIF,136177,2,m
+8,50,break bulk,Ensulur,none,CIF,76461,2,m
+8,10,break bulk,Ensulur,valuable,CIF,12350,2,m
+8,30,wet bulk,Ensulur,none,FOB,46304,2,m
+8,10,dry bulk,Ensulur,fragile,CIF,11733,2,m
+8,50,dry bulk,Ensulur,perishable+,CIF,86985,2,m
+8,100,RO/RO,Ensulur,none,FOB,134860,2,m
+8,30,wet bulk,Ensulur,flamable,DEQ,55349,2,m
+8,30,wet bulk,Ensulur,none,CIF,52582,2,m
+8,10,break bulk,Ensulur,fragile,CIF,11115,2,m
+8,10,break bulk,Dashinur,corrosive,CIF,30875,5,mmm
+8,40,dry bulk,Dashinur,flamable+++,CIF,160437,5,mmm
+8,20,break bulk,Dashinur,flamable+,CIF,57200,5,mmm
+8,40,dry bulk,Dashinur,none,DFD,159297,5,mmm
+8,60,dry bulk,Urima,none,FOB,461399,9,mmmmmmm
+8,80,break bulk,Urima,none,CIF,545889,9,mmmmmmm
+8,80,RO/RO,Urima,biohazard++,DEQ,603351,9,mmmmmmm
+8,50,break bulk,Urima,none,CIF,385755,9,mmmmmmm
+8,50,break bulk,Urima,none,CIF,427436,9,mmmmmmm
+8,30,break bulk,Urima,none,CIF,219944,9,mmmmmmm
+8,50,break bulk,Urima,fragile,EXW,273315,9,mmmmmmm
+8,50,break bulk,Urima,living++,CIF,391433,9,mmmmmmm
+8,90,break bulk,Shashamak,living+,CIF,207486,3,mm
+8,50,wet bulk,Shashamak,none,DFD,149978,3,mm
+8,70,break bulk,Shashamak,living++,CIF,202672,3,mm
+8,60,wet bulk,Shashamak,corrosive++,DEQ,130293,3,mm
+8,70,RO/RO,Shashamak,corrosive+++,DEQ,207924,3,mm
+8,50,wet bulk,Shashamak,perishable,CIF,133217,3,mm
+8,50,break bulk,Shashamak,flamable+++,DES,152358,3,mm
+8,70,break bulk,Shashamak,none,CIF,173087,3,mm
+8,60,break bulk,Tunshaon Tyo,none,CIF,313573,6,mmmm
+9,50,break bulk,Ensulur,fragile+++,CIF,84510,2,m
+9,80,break bulk,Ensulur,fragile,CIF,106489,2,m
+9,90,break bulk,Ensulur,none,CIF,170311,2,m
+9,60,RO/RO,Ensulur,flamable+,CIF,110026,2,m
+9,40,break bulk,Ensulur,living+,CIF,71519,2,m
+9,50,break bulk,Ensulur,none,CIF,76461,2,m
+9,50,break bulk,Ensulur,fragile+++,CIF,94747,2,m
+9,60,break bulk,Ensulur,flamable+,DES,113926,2,m
+9,40,break bulk,Ensulur,perishable+++,DES,69635,2,m
+9,20,RO/RO,Ensulur,corrosive++,CIF,15080,2,m
+9,40,break bulk,Ensulur,none,CIF,58063,2,m
+9,80,break bulk,Ensulur,none,DFD,127694,2,m
+9,40,break bulk,Ensulur,none,FOB,55007,2,m
+9,90,break bulk,Ensulur,fragile++,FOB,161724,2,m
+9,60,break bulk,Ensulur,none,DEQ,98326,2,m
+9,40,wet bulk,Ensulur,none,CIF,63003,2,m
+9,20,dry bulk,Ensulur,none,CIF,26676,2,m
+9,40,break bulk,Ensulur,none,CIF,63003,2,m
+9,60,dry bulk,Ensulur,none,DEQ,94426,2,m
+9,50,dry bulk,Ensulur,radioactive+,CIF,77235,2,m
+9,60,break bulk,Ensulur,flamable,CIF,108230,2,m
+9,80,RO/RO,Ensulur,valuable++,DFD,151903,2,m
+9,50,RO/RO,Ensulur,none,CIF,76461,2,m
+9,60,RO/RO,Ensulur,none,DFD,98326,2,m
+9,70,dry bulk,Ensulur,fragile+,CIF,144215,2,m
+9,30,break bulk,Ensulur,none,CIF,50729,2,m
+9,80,container,Ensulur,none,FOB,91524,2,m
+9,10,dry bulk,Ensulur,perishable,CIF,12968,2,m
+9,80,dry bulk,Ensulur,none,DEQ,143294,2,m
+9,60,container,Ensulur,none,DFD,102226,2,m
+9,80,dry bulk,Ensulur,none,CIF,121309,2,m
+9,30,break bulk,Ensulur,corrosive++,CIF,43649,2,m
+9,40,break bulk,Ensulur,valuable++,CIF,66319,2,m
+9,70,break bulk,Ensulur,none,CIF,115392,2,m
+9,30,container,Ensulur,none,CIF,58139,2,m
+9,40,wet bulk,Ensulur,none,FOB,64367,2,m
+9,70,break bulk,Ensulur,none,CIF,111069,2,m
+9,10,wet bulk,Ensulur,none,DES,12350,2,m
+9,30,break bulk,Ensulur,none,CIF,45172,2,m
+9,50,dry bulk,Ensulur,none,CIF,76461,2,m
+9,70,break bulk,Ensulur,explosive+,DES,144215,2,m
+9,60,dry bulk,Ensulur,fragile++,CIF,121726,2,m
+9,30,break bulk,Ensulur,none,DEQ,49499,2,m
+9,30,break bulk,Ensulur,perishable,CIF,45172,2,m
+9,10,break bulk,Ensulur,flamable+,CIF,17550,2,m
+9,40,break bulk,Ensulur,flamable++,DEQ,72365,2,m
+9,60,break bulk,Ensulur,perishable,CIF,108230,2,m
+9,70,break bulk,Ensulur,none,FAS,101128,2,m
+9,50,break bulk,Ensulur,flamable++,CIF,83735,2,m
+9,30,break bulk,Ensulur,none,FAS,49814,2,m
+9,90,dry bulk,Ensulur,none,FOB,150817,2,m
+9,50,RO/RO,Ensulur,corrosive++,CIF,80485,2,m
+9,20,RO/RO,Ensulur,none,CIF,20501,2,m
+9,40,dry bulk,Ensulur,none,CIF,55593,2,m
+9,80,container,Ensulur,living+,CIF,86094,2,m
+9,50,break bulk,Ensulur,none,CIF,82636,2,m
+9,60,break bulk,Ensulur,none,CIF,93410,2,m
+9,100,break bulk,Ensulur,none,CIF,92952,2,m
+9,10,break bulk,Ensulur,none,CIF,14820,2,m
+9,70,break bulk,Ensulur,valuable+,FOB,128359,2,m
+9,30,break bulk,Ensulur,none,CIF,50729,2,m
+9,50,RO/RO,Ensulur,none,CIF,82636,2,m
+9,50,break bulk,Ensulur,flamable+,EXW,89987,2,m
+9,50,break bulk,Ensulur,corrosive++,FOB,70735,2,m
+9,30,break bulk,Ensulur,flamable,DFD,47879,2,m
+9,60,break bulk,Ensulur,restricted+,CIF,393303,2,m
+9,10,RO/RO,Ensulur,fragile+,CIF,10400,2,m
+9,60,break bulk,Ensulur,living+++,DES,103242,2,m
+9,90,dry bulk,Ensulur,none,FOB,156082,2,m
+9,50,RO/RO,Ensulur,explosive+++,CIF,77685,2,m
+9,70,break bulk,Ensulur,none,CIF,111069,2,m
+9,50,break bulk,Ensulur,flamable,EXW,89987,2,m
+9,30,wet bulk,Ensulur,none,DES,35909,2,m
+9,70,break bulk,Ensulur,none,CIF,124037,2,m
+9,60,RO/RO,Ensulur,perishable+++,DEQ,116739,2,m
+9,60,container,Ensulur,fragile+,DES,125626,2,m
+9,70,break bulk,Ensulur,fragile+++,CIF,146648,2,m
+9,70,break bulk,Ensulur,perishable++,CIF,121465,2,m
+9,60,dry bulk,Ensulur,none,CIF,104525,2,m
+9,60,break bulk,Ensulur,valuable+++,CIF,107337,2,m
+9,50,break bulk,Ensulur,none,CIF,67199,2,m
+9,60,break bulk,Ensulur,none,DES,89705,2,m
+9,20,break bulk,Ensulur,explosive+,DES,24180,2,m
+9,100,RO/RO,Ensulur,none,CIF,111477,2,m
+9,20,RO/RO,Ensulur,none,FOB,8892,2,m
+9,70,dry bulk,Ensulur,perishable+,CIF,116915,2,m
+9,60,wet bulk,Ensulur,none,DEQ,102226,2,m
+9,20,break bulk,Ensulur,fragile++,FOB,15080,2,m
+9,20,container,Ensulur,flamable++,CIF,25480,2,m
+9,50,break bulk,Dashinur,none,FOB,181092,5,mmm
+9,100,dry bulk,Dashinur,none,CIF,232379,5,mmm
+9,40,break bulk,Dashinur,corrosive+++,CIF,180912,5,mmm
+9,40,container,Urima,none,DES,283513,9,mmmmmmm
+9,30,dry bulk,Urima,none,CIF,228280,9,mmmmmmm
+9,40,dry bulk,Urima,none,CIF,272398,9,mmmmmmm
+9,40,wet bulk,Urima,fragile,DES,251635,9,mmmmmmm
+9,60,dry bulk,Urima,none,CIF,487032,9,mmmmmmm
+9,70,wet bulk,Urima,flamable+++,DES,509424,9,mmmmmmm
+9,30,break bulk,Urima,none,CIF,219944,9,mmmmmmm
+9,70,break bulk,Shashamak,none,FAS,182405,3,mm
+9,80,container,Shashamak,none,DES,159733,3,mm
+9,50,dry bulk,Shashamak,none,CIF,133217,3,mm
+10,70,break bulk,Ensulur,none,FAS,97033,2,m
+10,40,break bulk,Ensulur,none,DES,67943,2,m
+10,70,break bulk,Ensulur,none,CIF,132682,2,m
+10,60,break bulk,Ensulur,none,DES,108230,2,m
+10,40,wet bulk,Ensulur,none,FOB,69047,2,m
+10,30,break bulk,Ensulur,corrosive+,CIF,47549,2,m
+10,30,dry bulk,Ensulur,none,DFD,53399,2,m
+10,60,RO/RO,Ensulur,perishable+,CIF,102226,2,m
+10,40,wet bulk,Ensulur,none,CIF,65473,2,m
+10,20,RO/RO,Ensulur,corrosive++,CIF,15080,2,m
+10,50,dry bulk,Ensulur,none,CIF,73374,2,m
+10,70,break bulk,Ensulur,flamable+++,CIF,127538,2,m
+10,20,wet bulk,Ensulur,none,CIF,19266,2,m
+10,50,break bulk,Ensulur,none,CIF,85724,2,m
+10,50,container,Ensulur,radioactive++,CIF,93485,2,m
+10,50,break bulk,Ensulur,none,DES,85724,2,m
+10,60,break bulk,Ensulur,none,CIF,93410,2,m
+10,50,break bulk,Ensulur,none,CIF,91899,2,m
+10,80,break bulk,Ensulur,perishable+,CIF,117294,2,m
+10,20,dry bulk,Ensulur,fragile+++,CIF,24024,2,m
+10,60,break bulk,Ensulur,none,FOB,84984,2,m
+10,40,dry bulk,Ensulur,none,CIF,63003,2,m
+10,20,break bulk,Ensulur,perishable+,CIF,22880,2,m
+10,30,break bulk,Ensulur,none,CIF,45172,2,m
+10,30,wet bulk,Ensulur,flamable+,DEQ,45832,2,m
+10,30,break bulk,Ensulur,none,CIF,43319,2,m
+10,10,break bulk,Ensulur,none,CIF,14820,2,m
+10,90,break bulk,Ensulur,corrosive+,CIF,150024,2,m
+10,80,dry bulk,Ensulur,none,CIF,96609,2,m
+10,20,break bulk,Ensulur,none,FAS,18252,2,m
+10,60,break bulk,Ensulur,none,EXW,76947,2,m
+10,40,break bulk,Ensulur,none,CIF,65473,2,m
+10,50,break bulk,Ensulur,none,CIF,88811,2,m
+10,80,break bulk,Ensulur,none,FOB,119604,2,m
+10,10,break bulk,Ensulur,none,CIF,14203,2,m
+10,70,break bulk,Ensulur,perishable++,CIF,126015,2,m
+10,20,dry bulk,Ensulur,fragile++,CIF,18980,2,m
+10,70,dry bulk,Ensulur,none,CIF,119714,2,m
+10,50,break bulk,Ensulur,none,DFD,80485,2,m
+10,50,container,Ensulur,none,CIF,82636,2,m
+10,100,dry bulk,Ensulur,flamable,DEQ,149844,2,m
+10,60,container,Ensulur,none,CIF,108230,2,m
+10,70,break bulk,Ensulur,none,CIF,119714,2,m
+10,60,break bulk,Ensulur,living+,DEQ,123717,2,m
+10,60,wet bulk,Ensulur,living+,FAS,108230,2,m
+10,20,container,Ensulur,none,CIF,15561,2,m
+10,40,wet bulk,Ensulur,none,EXW,49741,2,m
+10,20,break bulk,Ensulur,fragile,FOB,13091,2,m
+10,50,break bulk,Ensulur,none,FOB,75362,2,m
+10,40,break bulk,Ensulur,radioactive++,CIF,68919,2,m
+10,90,break bulk,Ensulur,none,CIF,192541,2,m
+10,40,break bulk,Ensulur,perishable,CIF,55593,2,m
+10,70,RO/RO,Ensulur,none,DFD,157865,2,m
+10,40,dry bulk,Ensulur,none,FOB,59687,2,m
+10,30,break bulk,Ensulur,none,CIF,37762,2,m
+10,70,container,Ensulur,explosive,DES,103265,2,m
+10,60,container,Ensulur,valuable,CIF,78590,2,m
+10,90,break bulk,Ensulur,valuable+++,CIF,145241,2,m
+10,30,break bulk,Ensulur,corrosive+++,CIF,58117,2,m
+10,40,break bulk,Ensulur,none,DES,65473,2,m
+10,40,break bulk,Ensulur,none,DES,67943,2,m
+10,60,container,Ensulur,flamable+,CIF,94426,2,m
+10,20,break bulk,Ensulur,none,CIF,21736,2,m
+10,60,container,Ensulur,none,DFD,94426,2,m
+10,10,break bulk,Ensulur,corrosive+,DES,14950,2,m
+10,100,break bulk,Ensulur,none,CIF,111477,2,m
+10,40,wet bulk,Ensulur,none,CIF,77823,2,m
+10,70,dry bulk,Ensulur,none,CIF,111069,2,m
+10,30,container,Ensulur,fragile+++,FOB,41699,2,m
+10,70,dry bulk,Ensulur,flamable+,DES,116915,2,m
+10,50,break bulk,Ensulur,none,CIF,73374,2,m
+10,60,dry bulk,Ensulur,none,FOB,77964,2,m
+10,60,break bulk,Ensulur,living++,CIF,98326,2,m
+10,40,wet bulk,Ensulur,valuable,CIF,58063,2,m
+10,30,dry bulk,Ensulur,none,DEQ,49499,2,m
+10,30,RO/RO,Ensulur,corrosive,CIF,47024,2,m
+10,70,dry bulk,Ensulur,fragile+,CIF,135115,2,m
+10,70,dry bulk,Ensulur,perishable,CIF,128359,2,m
+10,90,break bulk,Ensulur,none,CIF,181426,2,m
+10,80,wet bulk,Ensulur,none,CIF,96609,2,m
+10,90,dry bulk,Ensulur,none,FOB,135022,2,m
+10,60,wet bulk,Ensulur,radioactive+,CIF,90526,2,m
+10,80,break bulk,Ensulur,none,CIF,136129,2,m
+10,100,break bulk,Ensulur,none,DFD,136844,2,m
+10,50,break bulk,Ensulur,none,DEQ,77235,2,m
+10,40,container,Ensulur,perishable,DES,66319,2,m
+10,80,RO/RO,Ensulur,corrosive,FAS,77484,2,m
+10,70,break bulk,Ensulur,none,DEQ,148765,2,m
+10,10,break bulk,Ensulur,living+,CIF,11700,2,m
+10,70,break bulk,Ensulur,none,CIF,115392,2,m
+10,70,dry bulk,Ensulur,none,CIF,124037,2,m
+10,40,break bulk,Ensulur,none,CIF,60533,2,m
+10,50,RO/RO,Ensulur,biohazard,DFD,94747,2,m
+10,50,container,Ensulur,none,CIF,76461,2,m
+10,30,break bulk,Urima,fragile+++,CIF,206241,9,mmmmmmm
+10,40,break bulk,Urima,perishable+++,CIF,313356,9,mmmmmmm
+10,50,break bulk,Urima,none,DEQ,332933,9,mmmmmmm
+10,50,break bulk,Urima,none,CIF,455224,9,mmmmmmm
+10,40,container,Urima,radioactive,DEQ,310135,9,mmmmmmm
+10,60,break bulk,Urima,none,CIF,503705,9,mmmmmmm
+10,30,break bulk,Urima,none,DES,211608,9,mmmmmmm
+10,50,container,Shashamak,none,DFD,135353,3,mm
+10,90,dry bulk,Shashamak,none,DES,247130,3,mm
+10,20,break bulk,Shashamak,none,DES,19637,3,mm
+10,30,break bulk,Shashamak,none,CIF,81651,3,mm
+10,20,dry bulk,Shashamak,none,FOB,30888,3,mm
+10,50,break bulk,Shashamak,none,DEQ,120728,3,mm
+10,80,wet bulk,Shashamak,fragile++,CIF,214940,3,mm
+10,30,break bulk,Tunshaon Tyo,perishable,DFD,162064,6,mmmm
+11,50,break bulk,Ensulur,perishable,CIF,82636,2,m
+11,40,wet bulk,Ensulur,none,CIF,63003,2,m
+11,50,break bulk,Ensulur,none,DFD,93485,2,m
+11,90,dry bulk,Ensulur,none,DES,148081,2,m
+11,70,dry bulk,Ensulur,none,CIF,124037,2,m
+11,40,wet bulk,Ensulur,none,CIF,50653,2,m
+11,30,break bulk,Ensulur,none,CIF,56287,2,m
+11,70,dry bulk,Ensulur,none,CIF,106747,2,m
+11,60,container,Ensulur,none,CIF,97115,2,m
+11,60,break bulk,Ensulur,valuable+,CIF,94426,2,m
+11,30,break bulk,Ensulur,perishable+,CIF,57299,2,m
+11,80,dry bulk,Ensulur,none,DES,141069,2,m
+11,70,dry bulk,Ensulur,none,EXW,107113,2,m
+11,30,dry bulk,Ensulur,none,DES,50729,2,m
+11,20,container,Ensulur,none,CIF,20501,2,m
+11,90,break bulk,Ensulur,none,FOB,166612,2,m
+11,50,break bulk,Ensulur,fragile++,DFD,95684,2,m
+11,60,break bulk,Ensulur,fragile+++,FOB,102226,2,m
+11,40,break bulk,Ensulur,none,CIF,60533,2,m
+11,40,break bulk,Ensulur,none,CIF,65473,2,m
+11,30,break bulk,Ensulur,none,CIF,50729,2,m
+11,90,container,Ensulur,none,CIF,164753,2,m
+11,60,break bulk,Ensulur,none,CIF,89705,2,m
+11,80,break bulk,Ensulur,none,CIF,121309,2,m
+11,40,break bulk,Ensulur,none,CIF,70413,2,m
+11,40,wet bulk,Ensulur,none,CIF,72883,2,m
+11,50,wet bulk,Ensulur,none,DES,91899,2,m
+11,20,dry bulk,Ensulur,corrosive+++,FAS,21580,2,m
+11,50,break bulk,Ensulur,none,FOB,89987,2,m
+11,80,break bulk,Ensulur,fragile+,CIF,86094,2,m
+11,60,container,Ensulur,none,CIF,108230,2,m
+11,60,wet bulk,Ensulur,living+,CIF,110026,2,m
+11,100,break bulk,Ensulur,none,DFD,123844,2,m
+11,70,wet bulk,Ensulur,none,CIF,141327,2,m
+11,70,wet bulk,Ensulur,none,CIF,145649,2,m
+11,30,container,Ensulur,none,EXW,40417,2,m
+11,40,break bulk,Ensulur,valuable++,CIF,81919,2,m
+11,20,wet bulk,Ensulur,none,EXW,22763,2,m
+11,60,dry bulk,Ensulur,valuable,CIF,93410,2,m
+11,50,dry bulk,Ensulur,flamable++,CIF,77235,2,m
+11,20,break bulk,Ensulur,fragile,CIF,15561,2,m
+11,40,break bulk,Ensulur,none,CIF,67943,2,m
+11,20,container,Ensulur,none,CIF,20501,2,m
+11,50,RO/RO,Ensulur,valuable++,FOB,67485,2,m
+11,70,dry bulk,Ensulur,none,CIF,128359,2,m
+11,20,dry bulk,Ensulur,radioactive+++,CIF,19929,2,m
+11,60,break bulk,Ensulur,none,CIF,97115,2,m
+11,60,break bulk,Ensulur,none,FOB,99024,2,m
+11,10,break bulk,Ensulur,fragile,CIF,15438,2,m
+11,50,dry bulk,Ensulur,none,CIF,79549,2,m
+11,50,container,Ensulur,living+++,DFD,106409,2,m
+11,70,break bulk,Ensulur,none,DEQ,148765,2,m
+11,50,break bulk,Ensulur,none,FOB,60737,2,m
+11,100,break bulk,Ensulur,radioactive+,CIF,110844,2,m
+11,40,break bulk,Ensulur,none,CIF,75353,2,m
+11,50,container,Ensulur,none,CIF,76461,2,m
+11,60,break bulk,Ensulur,explosive+,CIF,94426,2,m
+11,20,wet bulk,Ensulur,none,CIF,16796,2,m
+11,50,wet bulk,Ensulur,valuable+,DES,73985,2,m
+11,80,dry bulk,Ensulur,valuable+++,CIF,128618,2,m
+11,60,container,Ensulur,none,CIF,104525,2,m
+11,30,dry bulk,Ensulur,none,DES,54434,2,m
+11,40,break bulk,Ensulur,none,CIF,55593,2,m
+11,50,dry bulk,Ensulur,none,DEQ,109735,2,m
+11,30,break bulk,Ensulur,none,EXW,42074,2,m
+11,50,break bulk,Ensulur,living,CIF,73374,2,m
+11,50,break bulk,Ensulur,fragile+,CIF,73985,2,m
+11,100,break bulk,Ensulur,none,FAS,117310,2,m
+11,10,break bulk,Ensulur,none,DEQ,12350,2,m
+11,20,break bulk,Ensulur,none,CIF,16796,2,m
+11,60,break bulk,Ensulur,explosive+,FAS,89705,2,m
+11,30,container,Ensulur,corrosive+++,FAS,57299,2,m
+11,40,dry bulk,Ensulur,none,FOB,66707,2,m
+11,60,break bulk,Ensulur,flamable++,CIF,117826,2,m
+11,60,break bulk,Ensulur,none,CIF,100820,2,m
+11,70,break bulk,Ensulur,none,CIF,115392,2,m
+11,50,break bulk,Ensulur,none,DES,85724,2,m
+11,30,container,Ensulur,none,CIF,48877,2,m
+11,30,container,Ensulur,flamable,DES,47549,2,m
+11,50,break bulk,Ensulur,none,CIF,76461,2,m
+11,60,break bulk,Ensulur,flamable++,FAS,78590,2,m
+11,10,break bulk,Ensulur,none,CIF,10498,2,m
+11,90,dry bulk,Ensulur,none,DFD,185124,2,m
+11,70,break bulk,Ensulur,fragile+,CIF,135115,2,m
+11,50,container,Ensulur,perishable,FOB,88811,2,m
+11,20,container,Ensulur,none,CIF,15561,2,m
+11,10,break bulk,Ensulur,none,CIF,15438,2,m
+11,90,wet bulk,Ensulur,living+,CIF,167574,2,m
+11,30,container,Ensulur,none,CIF,56287,2,m
+11,30,break bulk,Ensulur,flamable+++,FAS,39749,2,m
+11,70,RO/RO,Ensulur,fragile,CIF,119714,2,m
+11,60,wet bulk,Ensulur,flamable++,DES,86862,2,m
+11,30,container,Ensulur,none,DFD,55349,2,m
+11,50,break bulk,Ensulur,none,CIF,85724,2,m
+11,20,container,Ensulur,none,CIF,22971,2,m
+11,90,wet bulk,Ensulur,none,CIF,164753,2,m
+11,60,RO/RO,Ensulur,perishable,CIF,111935,2,m
+11,10,wet bulk,Ensulur,none,FAS,11115,2,m
+11,50,break bulk,Ensulur,none,FAS,92912,2,m
+11,60,dry bulk,Ensulur,living+,CIF,110026,2,m
+11,30,break bulk,Ensulur,none,DES,37762,2,m
+11,50,dry bulk,Ensulur,none,CIF,88811,2,m
+11,30,RO/RO,Dashinur,flamable+,CIF,133498,5,mmm
+11,70,container,Dashinur,fragile+,CIF,326412,5,mmm
+11,50,wet bulk,Urima,none,CIF,302393,9,mmmmmmm
+11,70,break bulk,Urima,none,CIF,460907,9,mmmmmmm
+11,40,dry bulk,Urima,none,CIF,294628,9,mmmmmmm
+11,60,break bulk,Urima,fragile+,CIF,565316,9,mmmmmmm
+11,20,break bulk,Urima,flamable++,CIF,114660,9,mmmmmmm
+11,100,dry bulk,Urima,valuable,DFD,585162,9,mmmmmmm
+11,70,dry bulk,Shashamak,none,FOB,176262,3,mm
+11,30,dry bulk,Shashamak,none,FAS,64191,3,mm
+11,30,break bulk,Shashamak,none,CIF,73315,3,mm
+11,50,break bulk,Tunshaon Tyo,radioactive,EXW,252410,6,mmmm
+12,50,break bulk,Ensulur,none,CIF,76461,2,m
+12,40,wet bulk,Ensulur,none,CIF,70413,2,m
+12,40,wet bulk,Ensulur,fragile,DES,66319,2,m
+12,60,dry bulk,Ensulur,fragile+++,CIF,107337,2,m
+12,10,break bulk,Ensulur,none,CIF,14203,2,m
+12,30,break bulk,Ensulur,none,CIF,56287,2,m
+12,90,break bulk,Ensulur,none,CIF,142523,2,m
+12,60,wet bulk,Ensulur,none,CIF,86000,2,m
+12,40,RO/RO,Ensulur,none,CIF,55593,2,m
+12,10,RO/RO,Ensulur,none,CIF,14203,2,m
+12,50,dry bulk,Ensulur,perishable,CIF,98074,2,m
+12,80,wet bulk,Ensulur,perishable+,EXW,124284,2,m
+12,20,break bulk,Ensulur,valuable+++,DFD,23739,2,m
+12,100,wet bulk,Ensulur,none,DFD,123844,2,m
+12,50,break bulk,Ensulur,living++,CIF,90235,2,m
+12,30,dry bulk,Ensulur,corrosive++,CIF,47549,2,m
+12,30,dry bulk,Ensulur,flamable,CIF,47024,2,m
+12,40,dry bulk,Ensulur,none,CIF,60533,2,m
+12,50,dry bulk,Ensulur,none,CIF,91899,2,m
+12,60,wet bulk,Ensulur,perishable+++,DES,111432,2,m
+12,30,RO/RO,Ensulur,none,CIF,47024,2,m
+12,20,dry bulk,Ensulur,none,CIF,13091,2,m
+12,20,break bulk,Ensulur,none,CIF,15561,2,m
+12,70,break bulk,Ensulur,flamable+++,FOB,153315,2,m
+12,20,dry bulk,Ensulur,none,FOB,14742,2,m
+12,90,break bulk,Ensulur,none,CIF,142523,2,m
+12,60,break bulk,Ensulur,fragile+++,CIF,119622,2,m
+12,100,break bulk,Ensulur,none,CIF,148527,2,m
+12,20,break bulk,Ensulur,none,CIF,20501,2,m
+12,20,break bulk,Ensulur,none,CIF,19266,2,m
+12,50,dry bulk,Ensulur,valuable,CIF,82636,2,m
+12,70,wet bulk,Ensulur,none,CIF,128359,2,m
+12,80,break bulk,Ensulur,none,CIF,111429,2,m
+12,70,wet bulk,Ensulur,flamable++,DES,151426,2,m
+12,10,RO/RO,Ensulur,living+++,CIF,17745,2,m
+12,30,dry bulk,Ensulur,none,DEQ,43649,2,m
+12,50,break bulk,Ensulur,none,CIF,94986,2,m
+12,80,break bulk,Ensulur,none,EXW,90860,2,m
+12,30,RO/RO,Ensulur,none,DES,41467,2,m
+12,20,RO/RO,Ensulur,flamable+++,CIF,18564,2,m
+12,50,wet bulk,Ensulur,none,DFD,93485,2,m
+12,70,container,Ensulur,fragile,CIF,98102,2,m
+12,70,break bulk,Ensulur,corrosive+,FAS,106747,2,m
+12,60,break bulk,Ensulur,corrosive+++,CIF,119622,2,m
+12,20,break bulk,Ensulur,none,DEQ,21580,2,m
+12,70,break bulk,Ensulur,perishable++,CIF,103265,2,m
+12,50,wet bulk,Ensulur,corrosive++,DEQ,77685,2,m
+12,100,break bulk,Ensulur,none,CIF,142352,2,m
+12,80,dry bulk,Ensulur,living+++,CIF,123158,2,m
+12,20,dry bulk,Ensulur,radioactive+,CIF,20280,2,m
+12,30,dry bulk,Ensulur,none,FOB,42794,2,m
+12,80,break bulk,Ensulur,perishable++,FAS,106489,2,m
+12,40,container,Ensulur,none,DES,63003,2,m
+12,50,break bulk,Ensulur,none,CIF,98074,2,m
+12,90,container,Ensulur,living+++,DFD,210072,2,m
+12,90,break bulk,Ensulur,perishable+++,DES,182096,2,m
+12,20,dry bulk,Ensulur,none,CIF,18031,2,m
+12,70,dry bulk,Ensulur,none,CIF,132682,2,m
+12,50,break bulk,Ensulur,none,CIF,85724,2,m
+12,60,dry bulk,Ensulur,none,FAS,95514,2,m
+12,60,break bulk,Ensulur,none,DES,108230,2,m
+12,70,wet bulk,Ensulur,none,CIF,106747,2,m
+12,20,break bulk,Ensulur,none,DEQ,20280,2,m
+12,20,dry bulk,Ensulur,none,CIF,19266,2,m
+12,40,break bulk,Ensulur,none,CIF,58063,2,m
+12,30,container,Ensulur,none,FAS,48059,2,m
+12,30,break bulk,Ensulur,none,CIF,52582,2,m
+12,30,break bulk,Ensulur,biohazard+,DEQ,45832,2,m
+12,100,dry bulk,Ensulur,none,DES,117652,2,m
+12,70,break bulk,Ensulur,none,FOB,117508,2,m
+12,80,break bulk,Ensulur,none,CIF,101549,2,m
+12,70,RO/RO,Ensulur,perishable+,DFD,122761,2,m
+12,60,dry bulk,Ensulur,none,DFD,121726,2,m
+12,10,break bulk,Ensulur,none,DFD,11050,2,m
+12,50,break bulk,Ensulur,none,EXW,93275,2,m
+12,50,wet bulk,Ensulur,perishable,CIF,67199,2,m
+12,70,wet bulk,Ensulur,none,DFD,126015,2,m
+12,40,RO/RO,Ensulur,none,CIF,58063,2,m
+12,10,break bulk,Ensulur,flamable+,CIF,12350,2,m
+12,80,RO/RO,Ensulur,none,CIF,150949,2,m
+12,30,wet bulk,Ensulur,fragile,CIF,37762,2,m
+12,60,break bulk,Ensulur,none,CIF,104525,2,m
+12,30,wet bulk,Ensulur,none,DFD,53399,2,m
+12,60,container,Ensulur,none,DES,104525,2,m
+12,70,break bulk,Ensulur,none,DEQ,126015,2,m
+12,40,container,Ensulur,flamable,DES,68919,2,m
+12,30,break bulk,Ensulur,living+++,CIF,51974,2,m
+12,10,dry bulk,Ensulur,none,CIF,14203,2,m
+12,60,break bulk,Ensulur,none,CIF,89705,2,m
+12,90,dry bulk,Ensulur,none,FAS,140287,2,m
+12,70,break bulk,Ensulur,none,DES,145649,2,m
+12,70,break bulk,Ensulur,perishable+++,DES,151426,2,m
+12,90,container,Ensulur,none,CIF,153638,2,m
+12,70,wet bulk,Ensulur,valuable++,FAS,115392,2,m
+12,90,dry bulk,Ensulur,none,CIF,175868,2,m
+12,50,dry bulk,Ensulur,none,CIF,91899,2,m
+12,20,wet bulk,Ensulur,valuable,CIF,20501,2,m
+12,60,RO/RO,Ensulur,none,CIF,97115,2,m
+12,70,break bulk,Ensulur,fragile+,DEQ,151426,2,m
+12,40,wet bulk,Ensulur,none,CIF,63003,2,m
+12,70,dry bulk,Ensulur,none,DFD,135115,2,m
+12,40,break bulk,Ensulur,none,CIF,60533,2,m
+12,20,break bulk,Ensulur,flamable++,DEQ,15834,2,m
+12,30,wet bulk,Ensulur,corrosive+,CIF,61199,2,m
+12,60,wet bulk,Ensulur,living+,FOB,111935,2,m
+12,30,break bulk,Ensulur,none,DES,43319,2,m
+12,50,break bulk,Ensulur,restricted++,CIF,773880,2,m
+12,20,break bulk,Ensulur,fragile++,CIF,22880,2,m
+12,60,dry bulk,Urima,none,DES,470360,9,mmmmmmm
+12,50,break bulk,Urima,none,DFD,406058,9,mmmmmmm
+12,90,dry bulk,Urima,none,CIF,641353,9,mmmmmmm
+12,60,break bulk,Urima,none,FAS,461399,9,mmmmmmm
+12,30,break bulk,Urima,biohazard++,CIF,213970,9,mmmmmmm
+12,70,break bulk,Urima,none,CIF,538712,9,mmmmmmm
+12,30,wet bulk,Urima,none,FOB,200471,9,mmmmmmm
+12,10,dry bulk,Urima,fragile,CIF,52797,9,mmmmmmm
+12,80,break bulk,Urima,none,DES,412509,9,mmmmmmm
+12,40,break bulk,Shashamak,none,CIF,101915,3,mm
+12,30,break bulk,Shashamak,none,CIF,70536,3,mm
+13,60,break bulk,Ensulur,none,CIF,104525,2,m
+13,10,break bulk,Ensulur,none,CIF,14820,2,m
+13,40,container,Ensulur,none,CIF,60533,2,m
+13,50,break bulk,Ensulur,none,CIF,73374,2,m
+13,60,wet bulk,Ensulur,fragile,FOB,86000,2,m
+13,30,container,Ensulur,fragile,DES,51449,2,m
+13,60,break bulk,Ensulur,none,DFD,110026,2,m
+13,20,RO/RO,Ensulur,none,CIF,20501,2,m
+13,10,break bulk,Ensulur,flamable++,CIF,13000,2,m
+13,50,container,Ensulur,perishable+++,CIF,87922,2,m
+13,100,container,Ensulur,none,DFD,149844,2,m
+13,70,container,Ensulur,flamable++,CIF,116915,2,m
+13,70,break bulk,Ensulur,fragile,FAS,109318,2,m
+13,60,wet bulk,Ensulur,fragile,FOB,97115,2,m
+13,20,dry bulk,Ensulur,none,DEQ,25480,2,m
+13,90,break bulk,Ensulur,none,CIF,153638,2,m
+13,70,dry bulk,Ensulur,perishable++,DES,146648,2,m
+13,60,dry bulk,Ensulur,none,DES,86000,2,m
+13,30,break bulk,Ensulur,none,CIF,54434,2,m
+13,60,dry bulk,Ensulur,none,CIF,93410,2,m
+13,20,wet bulk,Ensulur,none,CIF,13091,2,m
+13,60,dry bulk,Ensulur,none,CIF,97115,2,m
+13,60,break bulk,Ensulur,perishable+,CIF,106126,2,m
+13,30,break bulk,Ensulur,none,CIF,47024,2,m
+13,90,break bulk,Ensulur,corrosive,CIF,142523,2,m
+13,80,break bulk,Ensulur,none,CIF,101549,2,m
+13,50,RO/RO,Ensulur,corrosive,DEQ,83735,2,m
+13,70,break bulk,Ensulur,none,CIF,149972,2,m
+13,20,dry bulk,Ensulur,none,FAS,12402,2,m
+13,60,dry bulk,Ensulur,fragile,CIF,100820,2,m
+13,30,break bulk,Ensulur,none,CIF,52582,2,m
+13,20,break bulk,Ensulur,none,CIF,25441,2,m
+13,50,container,Ensulur,fragile++,DES,98160,2,m
+13,70,break bulk,Ensulur,none,CIF,115392,2,m
+13,90,dry bulk,Ensulur,none,CIF,164753,2,m
+13,40,break bulk,Ensulur,flamable+++,CIF,66905,2,m
+13,80,break bulk,Ensulur,fragile++,DES,128618,2,m
+13,10,break bulk,Ensulur,living+,CIF,15600,2,m
+13,50,break bulk,Ensulur,none,DEQ,90235,2,m
+13,80,break bulk,Ensulur,none,CIF,116369,2,m
+13,40,break bulk,Ensulur,none,DFD,76719,2,m
+13,50,wet bulk,Ensulur,perishable+,CIF,83735,2,m
+13,70,wet bulk,Ensulur,corrosive++,CIF,126015,2,m
+13,70,break bulk,Ensulur,none,EXW,95510,2,m
+13,20,break bulk,Ensulur,none,CIF,18031,2,m
+13,40,RO/RO,Ensulur,none,CIF,63003,2,m
+13,10,break bulk,Ensulur,none,DES,17290,2,m
+13,40,dry bulk,Ensulur,none,CIF,67943,2,m
+13,50,break bulk,Ensulur,valuable+++,CIF,87922,2,m
+13,90,break bulk,Ensulur,fragile+++,CIF,188238,2,m
+13,90,break bulk,Ensulur,fragile++,EXW,159196,2,m
+13,70,break bulk,Ensulur,none,CIF,106747,2,m
+13,50,container,Ensulur,flamable+++,DFD,88534,2,m
+13,50,wet bulk,Ensulur,none,CIF,88811,2,m
+13,60,break bulk,Ensulur,corrosive+++,EXW,89705,2,m
+13,40,break bulk,Ensulur,none,CIF,65473,2,m
+13,40,dry bulk,Ensulur,living+++,DES,66905,2,m
+13,30,break bulk,Ensulur,radioactive+++,DEQ,60884,2,m
+13,80,break bulk,Ensulur,none,CIF,111429,2,m
+13,20,dry bulk,Ensulur,none,CIF,19266,2,m
+13,90,dry bulk,Ensulur,flamable+,CIF,179274,2,m
+13,100,break bulk,Ensulur,none,DEQ,104344,2,m
+13,30,wet bulk,Ensulur,perishable++,FAS,35909,2,m
+13,30,break bulk,Ensulur,none,CIF,43319,2,m
+13,30,dry bulk,Ensulur,none,CIF,43319,2,m
+13,90,wet bulk,Ensulur,none,CIF,181426,2,m
+13,10,break bulk,Ensulur,radioactive+,CIF,14301,2,m
+13,20,dry bulk,Ensulur,none,CIF,24206,2,m
+13,100,wet bulk,Ensulur,fragile+,DES,143344,2,m
+13,90,wet bulk,Ensulur,none,CIF,153638,2,m
+13,90,RO/RO,Ensulur,none,CIF,170311,2,m
+13,60,break bulk,Ensulur,flamable++,CIF,98326,2,m
+13,90,RO/RO,Ensulur,living++,CIF,179274,2,m
+13,50,wet bulk,Ensulur,none,CIF,91899,2,m
+13,50,break bulk,Ensulur,none,CIF,94986,2,m
+13,20,break bulk,Ensulur,none,DES,21736,2,m
+13,30,break bulk,Ensulur,none,CIF,48877,2,m
+13,40,container,Ensulur,none,EXW,60791,2,m
+13,40,wet bulk,Ensulur,living+,DEQ,64175,2,m
+13,50,RO/RO,Ensulur,none,DEQ,80485,2,m
+13,50,break bulk,Ensulur,none,CIF,67199,2,m
+13,50,break bulk,Ensulur,none,DES,104249,2,m
+13,70,break bulk,Ensulur,radioactive+,CIF,112365,2,m
+13,30,break bulk,Ensulur,flamable+++,CIF,60164,2,m
+13,100,wet bulk,Ensulur,flamable+++,CIF,130036,2,m
+13,40,container,Ensulur,radioactive++,DEQ,72365,2,m
+13,60,RO/RO,Ensulur,none,DEQ,106126,2,m
+13,20,break bulk,Ensulur,none,CIF,19266,2,m
+13,50,break bulk,Ensulur,none,CIF,79549,2,m
+13,20,dry bulk,Ensulur,explosive,EXW,13572,2,m
+13,60,dry bulk,Ensulur,none,FAS,88494,2,m
+13,60,wet bulk,Ensulur,fragile++,CIF,78826,2,m
+13,80,break bulk,Ensulur,none,FAS,105564,2,m
+13,50,break bulk,Ensulur,none,DFD,99985,2,m
+13,60,break bulk,Ensulur,none,DES,115640,2,m
+13,70,container,Ensulur,none,CIF,115392,2,m
+13,20,wet bulk,Ensulur,none,CIF,16796,2,m
+13,20,dry bulk,Ensulur,perishable++,CIF,15080,2,m
+13,30,wet bulk,Ensulur,none,FOB,39284,2,m
+13,30,break bulk,Ensulur,radioactive,CIF,52582,2,m
+13,50,break bulk,Ensulur,none,CIF,88811,2,m
+13,80,RO/RO,Ensulur,perishable++,FAS,126249,2,m
+13,60,container,Ensulur,explosive+++,CIF,111432,2,m
+13,100,dry bulk,Ensulur,perishable,DES,143344,2,m
+13,40,break bulk,Larimshar,none,CIF,261892,8,mmmmmm
+13,50,dry bulk,Dashinur,flamable+,DFD,262461,5,mmm
+13,70,container,Dashinur,radioactive+++,CIF,283013,5,mmm
+13,50,break bulk,Urima,perishable+++,CIF,441717,9,mmmmmmm
+13,90,break bulk,Urima,none,CIF,541318,9,mmmmmmm
+13,40,break bulk,Urima,none,DES,261283,9,mmmmmmm
+13,30,wet bulk,Urima,perishable,CIF,211608,9,mmmmmmm
+13,50,wet bulk,Urima,valuable++,CIF,350721,9,mmmmmmm
+13,50,wet bulk,Shashamak,fragile+++,CIF,162596,3,mm
+13,30,break bulk,Shashamak,none,CIF,78873,3,mm
+13,50,break bulk,Shashamak,corrosive,CIF,96167,3,mm
+13,80,dry bulk,Shashamak,none,CIF,144913,3,mm
+13,60,break bulk,Shashamak,none,FOB,143270,3,mm
+13,60,dry bulk,Shashamak,none,EXW,153712,3,mm
+13,60,break bulk,Tunshaon Tyo,none,CIF,291865,6,mmmm
+14,80,wet bulk,Ensulur,none,DFD,94653,2,m
+14,30,wet bulk,Ensulur,none,CIF,57563,2,m
+14,80,break bulk,Ensulur,valuable++,CIF,109173,2,m
+14,60,break bulk,Ensulur,none,FOB,92168,2,m
+14,80,wet bulk,Ensulur,living++,DEQ,89222,2,m
+14,60,break bulk,Ensulur,none,FOB,75833,2,m
+14,70,break bulk,Ensulur,none,CIF,83264,2,m
+14,80,wet bulk,Ensulur,fragile+,CIF,99493,2,m
+14,20,dry bulk,Urima,none,CIF,91041,9,mmmmmmm
+14,50,break bulk,Urima,living+++,CIF,382550,9,mmmmmmm
+14,40,break bulk,Shashamak,perishable++,DEQ,104844,3,mm
+14,90,break bulk,Shashamak,none,DEQ,209457,3,mm
+15,20,break bulk,Ensulur,none,CIF,14484,2,m
+15,50,wet bulk,Ensulur,none,DFD,77938,2,m
+15,20,break bulk,Ensulur,none,CIF,21381,2,m
+15,60,dry bulk,Ensulur,none,CIF,104186,2,m
+15,90,dry bulk,Ensulur,flamable,FOB,137829,2,m
+15,50,container,Ensulur,none,FAS,70145,2,m
+15,80,break bulk,Ensulur,none,CIF,122107,2,m
+15,60,break bulk,Ensulur,fragile,FOB,93840,2,m
+15,10,container,Dashinur,living,CIF,37359,5,mmm
+15,40,dry bulk,Tunshaon Tyo,none,DFD,156143,6,mmmm
+16,60,break bulk,Ensulur,none,CIF,100737,2,m
+16,60,break bulk,Dashinur,none,CIF,182872,5,mmm
+16,50,break bulk,Dashinur,perishable,DFD,180766,5,mmm
+16,30,break bulk,Urima,none,CIF,204717,9,mmmmmmm
+16,50,RO/RO,Urima,none,CIF,307321,9,mmmmmmm
+16,40,break bulk,Urima,none,CIF,253540,9,mmmmmmm
+16,50,break bulk,Shashamak,perishable+++,DES,122753,3,mm
+17,40,dry bulk,Ensulur,fragile,DEQ,71408,2,m
+17,40,break bulk,Ensulur,none,CIF,47147,2,m
+17,30,break bulk,Ensulur,none,CIF,45493,2,m
+17,30,break bulk,Ensulur,none,CIF,40320,2,m
+17,30,break bulk,Ensulur,living+,DES,46072,2,m
+17,20,dry bulk,Ensulur,none,CIF,17933,2,m
+17,50,break bulk,Ensulur,none,FOB,86480,2,m
+17,60,wet bulk,Ensulur,none,FOB,85634,2,m
+17,80,break bulk,Urima,corrosive+,DEQ,538711,9,mmmmmmm
+17,50,wet bulk,Tunshaon Tyo,none,CIF,230745,6,mmmm
+17,60,wet bulk,Tunshaon Tyo,none,CIF,322901,6,mmmm
+18,50,break bulk,Ensulur,none,CIF,91284,2,m
+18,30,break bulk,Ensulur,explosive+,CIF,36997,2,m
+18,60,break bulk,Ensulur,explosive+,DEQ,88472,2,m
+18,30,wet bulk,Ensulur,living+,DES,42442,2,m
+18,50,container,Ensulur,none,DFD,93063,2,m
+18,50,break bulk,Ensulur,perishable+,CIF,80963,2,m
+18,50,break bulk,Ensulur,flamable,CIF,71168,2,m
+18,80,container,Ensulur,none,CIF,80725,2,m
+18,30,break bulk,Dashinur,none,EXW,94047,5,mmm
+18,80,RO/RO,Urima,none,DES,528788,9,mmmmmmm
+18,30,dry bulk,Shashamak,none,CIF,70826,3,mm
+19,90,RO/RO,Ensulur,none,CIF,143002,2,m
+19,90,wet bulk,Ensulur,none,DFD,161418,2,m
+19,40,break bulk,Ensulur,corrosive+++,DES,67355,2,m
+19,50,break bulk,Ensulur,none,CIF,71168,2,m
+19,80,dry bulk,Ensulur,none,CIF,99117,2,m
+19,50,container,Ensulur,flamable+++,CIF,91364,2,m
+19,40,dry bulk,Ensulur,none,CIF,54044,2,m
+19,60,wet bulk,Dashinur,explosive+,CIF,265097,5,mmm
+19,40,break bulk,Shashamak,none,CIF,98308,3,mm
+19,40,container,Tunshaon Tyo,none,CIF,196615,6,mmmm
+20,40,break bulk,Ensulur,none,CIF,60941,2,m
+20,50,wet bulk,Ensulur,none,CIF,85537,2,m
+20,5,break bulk,Larimshar,none,CIF,19460,8,mmmmmm
+20,70,break bulk,Dashinur,flamable++,DFD,287610,5,mmm
+20,60,break bulk,Urima,corrosive,CIF,453315,9,mmmmmmm
+20,60,dry bulk,Shashamak,none,CIF,120069,3,mm
+20,30,break bulk,Tunshaon Tyo,none,CIF,131306,6,mmmm

@@ -1,0 +1,36 @@
+11	Heavy Metal	20000000	Ex-3	1d	25	bb	345
+12	Industrial Crystals	2000000	In+3,Na-3	1d	10	bb,db	345
+13	Radioisotopes	100000	In+4,Na-3	1d	10	bb,db,wb	0123
+14	Petrochemicals	15000	In+3,Na-4	2dX5	7	bb,wb	234
+15	Artwork, Handicrafts	10000	-	2d	5	bb	3456
+16	Wood Products	2000	Ag-4,In+1,Ex+4	5dX10	5	bb,db	45
+21	Industrial Metals	75000	Ex-2	2d	25	bb	345
+22	Ceramics	15000	-	2d	10	bb	3456
+23	Gemstones	10000000	In+4,Ni-2	1d	0.5	bb	56
+24	Spices	6000	Ag-2,Ex+1,Na+2	1dX5	7	bb,db	56
+25	Alcoholic Beverages	7500	Ag-3,In+1,Ni-1	2d	7	bb,wb	3456
+26	Perishables	2400	Ag-2,In+3,Ex+2,Na+2	4dX10	5	bb,db,wb	56
+31	Special Minerals	750000	In+1,Na-3	1d	10	bb,db,wb	2345
+32	Lanthanum	5000000	In+2,Na-3	1d	10	bb,db	34
+33	Polymers	12000	In-2	3dX5	5	bb,db,wb	2345
+34	Light Metals	10000	-	2dX5	25	bb,db	45
+35	Textiles	30000	Ag-2,Ex+2,In-1	3dX5	4	bb	3456
+36	Livestock	1000	Ex+4,Ni-2	3dX5	1	RO,bb,wb	345
+41	Shelters	12000	Ex+1,In-1,Na+2	3d	8	bb	3456
+42	Computers	250000	In-2	2d	5	bb	345
+43	Ammunition	120000	-	1d	7	bb	1234
+44	Artwork, Media	50000	Ni+2	1d	2	bb	3456
+45	Pharmaceuticals	120000	Ag-1,In+3,Ni-3	1d	2	bb	12345
+46	Baked goods	5000	Ag-2,Ex+2,Na+2	2dX5	10	bb,db	56
+51	Protective Equipment	400000	Ag-4,Ex+4,In-2,Ni+1	1d	2	bb	345
+52	Tools	20000	In-1	1dX5	10	bb	3456
+53	Manufactured Goods	50000	In-1,Ni+1	3d	8	bb	23456
+54	Entertainment Gears	50000	Ni+3	2d	5	bb	3456
+55	Entertainment Devices	50000	Ni+3	1dX5	4	bb	3456
+56	Meat, Fish	20000	Ag-2,In+2,Ex+2,Na+2	1dX5	8	bb	456
+61	Precision Instruments	400000	In-3,Ni+3	2d	7	bb	456
+62	Electronic Parts	50000	In-1,Ni+1	1dX5	2	bb	23456
+63	Ground Vehicles	40000	In-2,Ni+2	3dX5	3	RO	34
+64	Grav Vehicles	250000	In-2,Ni+2	1dX5	3	RO	34
+65	Gravitic Units	160000	In-2,Ni+2	1dX5	4	bb	345
+66	Machinery, Parts	50000	In-1Ni+1	4dX10	8	bb	345

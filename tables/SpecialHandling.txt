@@ -1,0 +1,12 @@
+3	restricted
+4	biohazard
+5	valuable
+6	living
+7	perishable
+8-12	none
+13	fragile
+14	flamable
+15	corrosive
+16	explosive
+17	radioactive
+18+	2X
