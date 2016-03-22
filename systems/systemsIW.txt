@@ -67,7 +67,7 @@ f	Hades	Inferno	1
 -	Inferno	Hephaistos	2
 -	Forlorn	Calgary	1
 -	Calgary	Hephaistos	2
--	Hephaistos	Procyon 1
+-	Hephaistos	Procyon	1
 f	Procyon	Ys	2
 f	Ys	Sarpedon	2
 f	Sarpedon	Mirabilis	2

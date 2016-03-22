@@ -1,0 +1,1125 @@
+Day,dT,Type,Destination,Handling,Terms,Expected bid,Distance,route
+0,40,container,Junction,valuable+,FOB,32328,2,f
+0,60,break bulk,Nusku,fragile+++,CIF,166679,6,MMM
+0,70,wet bulk,Nusku,none,CIF,232893,6,MMM
+0,80,container,Nusku,explosive+++,CIF,155469,6,MMM
+0,40,wet bulk,Nusku,none,FOB,108955,6,MMM
+0,20,wet bulk,Nusku,none,DEQ,62244,6,MMM
+0,20,break bulk,Prometheus,corrosive++,CIF,27027,2,f
+0,20,wet bulk,Prometheus,none,CIF,24440,2,f
+0,20,wet bulk,Prometheus,perishable,CIF,25740,2,f
+0,70,break bulk,Prometheus,none,DES,90807,2,f
+0,40,break bulk,Prometheus,fragile+,CIF,47594,2,f
+0,80,break bulk,Prometheus,none,CIF,36223,2,f
+0,100,dry bulk,Prometheus,flamable++,DEQ,87163,2,f
+0,40,break bulk,Prometheus,none,CIF,40128,2,f
+0,70,break bulk,Prometheus,none,CIF,90807,2,f
+0,10,wet bulk,Prometheus,radioactive+++,CIF,13586,2,f
+0,20,break bulk,Prometheus,none,DFD,31122,2,f
+0,60,RO/RO,Prometheus,none,DES,82860,2,f
+0,30,dry bulk,Prometheus,none,EXW,24205,2,f
+0,40,break bulk,Prometheus,none,CIF,37528,2,f
+0,50,break bulk,Prometheus,none,DFD,39440,2,f
+0,20,break bulk,Prometheus,fragile,EXW,21983,2,f
+0,30,wet bulk,Prometheus,none,DEQ,26192,2,f
+0,60,dry bulk,Prometheus,none,DFD,74718,2,f
+0,40,break bulk,Prometheus,none,DES,50528,2,f
+0,15,dry bulk,Peraspera,none,DEQ,23342,2,f
+0,8,wet bulk,Procyon,none,CIF,17680,4,ff
+1,80,break bulk,Nusku,fragile++,DFD,146863,6,MMM
+1,60,break bulk,Nusku,none,CIF,234251,6,MMM
+1,40,dry bulk,Nusku,corrosive,CIF,108344,6,MMM
+1,50,break bulk,Nusku,explosive,FAS,104071,6,MMM
+1,30,container,Prometheus,explosive++,CIF,32335,2,f
+1,50,break bulk,Prometheus,none,CIF,44062,2,f
+1,30,wet bulk,Prometheus,fragile+,DES,26192,2,f
+1,40,wet bulk,Prometheus,none,DFD,50324,2,f
+1,70,break bulk,Prometheus,fragile++,CIF,95347,2,f
+1,30,break bulk,Prometheus,none,CIF,30795,2,f
+1,70,dry bulk,Prometheus,none,CIF,109007,2,f
+1,80,container,Prometheus,valuable++,CIF,43495,2,f
+1,20,wet bulk,Prometheus,none,CIF,24440,2,f
+1,30,wet bulk,Prometheus,none,CIF,30795,2,f
+1,70,wet bulk,Prometheus,none,FOB,68977,2,f
+1,70,wet bulk,Prometheus,none,DES,72607,2,f
+1,15,break bulk,Peraspera,none,CIF,23205,2,f
+2,25,break bulk,Barnard,fragile+,DFD,18265,2,M
+2,40,wet bulk,Nusku,none,CIF,73244,6,MMM
+2,90,break bulk,Nusku,none,FAS,92083,6,MMM
+2,80,break bulk,Nusku,none,CIF,41642,6,MMM
+2,50,wet bulk,Nusku,none,CIF,118968,6,MMM
+2,50,break bulk,Nusku,none,DFD,107052,6,MMM
+2,50,container,Nusku,none,DEQ,153364,6,MMM
+2,20,break bulk,Nusku,none,CIF,73008,6,MMM
+2,3,dry bulk,Inferno,none,DES,9705,5,f--
+2,20,container,Prometheus,flamable+,DFD,26885,2,f
+2,40,RO/RO,Prometheus,flamable+++,CIF,64161,2,f
+2,50,break bulk,Prometheus,fragile+++,DEQ,73097,2,f
+2,50,dry bulk,Prometheus,living,CIF,31062,2,f
+2,30,break bulk,Prometheus,none,CIF,30795,2,f
+2,80,container,Prometheus,none,CIF,51823,2,f
+2,60,container,Prometheus,none,CIF,63360,2,f
+2,40,dry bulk,Prometheus,none,DEQ,47594,2,f
+2,50,RO/RO,Prometheus,none,CIF,31062,2,f
+2,30,wet bulk,Prometheus,none,CIF,40545,2,f
+2,10,dry bulk,Prometheus,none,CIF,12350,2,f
+2,60,wet bulk,Prometheus,perishable+++,CIF,73986,2,f
+2,40,dry bulk,Prometheus,none,FOB,40591,2,f
+2,20,break bulk,Prometheus,fragile++,FAS,23140,2,f
+2,30,dry bulk,Prometheus,none,EXW,36490,2,f
+2,50,dry bulk,Prometheus,none,DFD,46265,2,f
+2,80,break bulk,Prometheus,none,FAS,19592,2,f
+2,50,wet bulk,Prometheus,living+++,CIF,59194,2,f
+2,50,break bulk,Prometheus,biohazard++,CIF,42853,2,f
+2,60,wet bulk,Prometheus,none,CIF,67260,2,f
+2,90,container,Prometheus,none,CIF,36111,2,f
+2,5,dry bulk,Calgary,none,DES,16174,5,f--
+2,10,container,Peraspera,none,CIF,11700,2,f
+2,5,dry bulk,Procyon,none,CIF,14239,4,ff
+3,25,break bulk,Junction,none,DFD,17472,2,f
+3,30,container,Nusku,living++,CIF,71092,6,MMM
+3,40,wet bulk,Nusku,perishable,CIF,115364,6,MMM
+3,30,break bulk,Nusku,none,CIF,77880,6,MMM
+3,90,break bulk,Nusku,none,CIF,239654,6,MMM
+3,50,break bulk,Nusku,fragile+,CIF,153364,6,MMM
+3,60,wet bulk,Nusku,perishable+++,DEQ,211868,6,MMM
+3,20,dry bulk,Prometheus,none,FAS,34333,2,f
+3,60,RO/RO,Prometheus,none,CIF,67260,2,f
+3,20,dry bulk,Prometheus,fragile++,CIF,28392,2,f
+3,60,dry bulk,Prometheus,perishable++,DFD,63894,2,f
+3,50,break bulk,Prometheus,valuable++,CIF,53090,2,f
+3,70,container,Prometheus,none,CIF,104457,2,f
+3,70,break bulk,Prometheus,none,DFD,71460,2,f
+3,60,break bulk,Prometheus,fragile,CIF,43860,2,f
+3,30,dry bulk,Prometheus,none,CIF,32745,2,f
+3,70,wet bulk,Prometheus,valuable++,FAS,104457,2,f
+3,80,RO/RO,Prometheus,perishable+++,CIF,39846,2,f
+3,70,break bulk,Prometheus,none,CIF,90807,2,f
+3,20,dry bulk,Prometheus,none,DEQ,31122,2,f
+3,40,break bulk,Prometheus,flamable+,CIF,53054,2,f
+3,70,break bulk,Prometheus,none,FAS,99234,2,f
+3,70,dry bulk,Prometheus,corrosive+++,CIF,94882,2,f
+3,20,wet bulk,Prometheus,corrosive+++,EXW,17940,2,f
+3,40,break bulk,Prometheus,perishable,CIF,45328,2,f
+3,70,break bulk,Prometheus,living,EXW,68977,2,f
+3,90,wet bulk,Prometheus,flamable+++,CIF,71897,2,f
+3,4,break bulk,Ys,none,CIF,14747,6,fff
+4,2,break bulk,Forlorn,radioactive+,EXW,7746,6,f--
+4,50,break bulk,Nusku,living++,CIF,97789,6,MMM
+4,30,dry bulk,Nusku,fragile+++,CIF,74834,6,MMM
+4,50,dry bulk,Nusku,flamable+++,FOB,97789,6,MMM
+4,60,dry bulk,Nusku,none,CIF,150011,6,MMM
+4,60,wet bulk,Nusku,perishable++,FOB,113885,6,MMM
+4,70,break bulk,Nusku,none,DES,245178,6,MMM
+4,50,break bulk,Nusku,none,CIF,145293,6,MMM
+4,70,container,Prometheus,flamable+++,CIF,89877,2,f
+4,30,dry bulk,Prometheus,none,DEQ,36430,2,f
+4,90,break bulk,Prometheus,none,DFD,37917,2,f
+4,50,break bulk,Prometheus,none,CIF,53812,2,f
+4,60,dry bulk,Prometheus,fragile++,CIF,58338,2,f
+4,10,break bulk,Prometheus,valuable+,FOB,11050,2,f
+4,10,wet bulk,Prometheus,none,CIF,12350,2,f
+4,50,break bulk,Prometheus,none,FOB,38772,2,f
+4,50,wet bulk,Prometheus,none,CIF,47312,2,f
+4,60,dry bulk,Prometheus,valuable+,DFD,69696,2,f
+4,30,break bulk,Prometheus,none,CIF,28845,2,f
+4,60,break bulk,Prometheus,perishable+,CIF,62433,2,f
+4,40,dry bulk,Prometheus,none,DFD,33944,2,f
+4,80,wet bulk,Prometheus,none,CIF,36223,2,f
+4,70,break bulk,Prometheus,flamable,CIF,63507,2,f
+4,80,break bulk,Prometheus,none,CIF,41423,2,f
+4,80,RO/RO,Prometheus,fragile,CIF,46623,2,f
+4,80,RO/RO,Prometheus,none,DFD,27115,2,f
+4,100,dry bulk,Prometheus,perishable,CIF,59739,2,f
+4,90,dry bulk,Prometheus,none,FOB,100996,2,f
+4,100,break bulk,Prometheus,none,DFD,103676,2,f
+4,50,container,Prometheus,none,FAS,44947,2,f
+4,30,break bulk,Peraspera,none,CIF,19095,2,f
+5,35,break bulk,Barnard,none,CIF,33648,2,M
+5,45,break bulk,Barnard,valuable++,EXW,57776,2,M
+5,50,break bulk,Nusku,none,CIF,136518,6,MMM
+5,50,dry bulk,Nusku,fragile+,DEQ,190686,6,MMM
+5,30,break bulk,Nusku,none,CIF,62085,6,MMM
+5,50,RO/RO,Nusku,none,FAS,128933,6,MMM
+5,60,break bulk,Prometheus,none,CIF,39960,2,f
+5,90,break bulk,Prometheus,none,CIF,82911,2,f
+5,80,container,Prometheus,none,CIF,36223,2,f
+5,30,container,Prometheus,flamable+,CIF,24145,2,f
+5,60,wet bulk,Prometheus,none,CIF,67260,2,f
+5,40,container,Prometheus,corrosive+++,CIF,47001,2,f
+5,40,break bulk,Prometheus,none,CIF,32328,2,f
+5,50,container,Prometheus,corrosive++,CIF,42853,2,f
+5,50,break bulk,Prometheus,none,CIF,53812,2,f
+5,40,dry bulk,Prometheus,perishable+,CIF,42134,2,f
+5,100,break bulk,Prometheus,none,DFD,124151,2,f
+5,100,dry bulk,Prometheus,living+++,DFD,143450,2,f
+5,60,break bulk,Prometheus,explosive+++,DES,56826,2,f
+5,60,dry bulk,Prometheus,living++,CIF,70623,2,f
+5,20,dry bulk,Prometheus,none,DEQ,25662,2,f
+5,30,break bulk,Prometheus,corrosive,EXW,36665,2,f
+5,8,break bulk,Procyon,perishable+++,CIF,12585,4,ff
+6,5,RO/RO,Junction,none,CIF,7120,2,f
+6,90,break bulk,Nusku,perishable,CIF,208064,6,MMM
+6,70,dry bulk,Nusku,explosive+++,CIF,286070,6,MMM
+6,40,wet bulk,Nusku,none,DES,108344,6,MMM
+6,60,break bulk,Nusku,none,DFD,169460,6,MMM
+6,90,container,Nusku,none,DFD,319658,6,MMM
+6,20,wet bulk,Nusku,living+++,DFD,105651,6,MMM
+6,70,wet bulk,Nusku,none,DEQ,271766,6,MMM
+6,30,break bulk,Nusku,none,CIF,98940,6,MMM
+6,90,container,Prometheus,flamable,DEQ,80914,2,f
+6,100,break bulk,Prometheus,none,FAS,69102,2,f
+6,70,RO/RO,Prometheus,none,DFD,95347,2,f
+6,10,break bulk,Prometheus,none,FAS,11733,2,f
+6,70,dry bulk,Prometheus,none,FOB,68977,2,f
+6,50,dry bulk,Prometheus,none,CIF,50562,2,f
+6,20,dry bulk,Prometheus,none,CIF,27040,2,f
+6,40,break bulk,Prometheus,none,DFD,53054,2,f
+6,30,wet bulk,Prometheus,radioactive++,CIF,28240,2,f
+6,40,container,Prometheus,none,DFD,31214,2,f
+6,60,break bulk,Prometheus,valuable++,FAS,59460,2,f
+6,90,break bulk,Prometheus,none,CIF,82911,2,f
+6,30,RO/RO,Prometheus,none,CIF,24945,2,f
+6,80,dry bulk,Prometheus,flamable+++,CIF,79886,2,f
+6,50,wet bulk,Prometheus,none,CIF,47312,2,f
+6,50,break bulk,Prometheus,none,DEQ,42853,2,f
+6,40,wet bulk,Prometheus,flamable++,DES,44141,2,f
+6,20,break bulk,Prometheus,none,DEQ,22932,2,f
+6,70,break bulk,Prometheus,corrosive++,CIF,100125,2,f
+6,50,wet bulk,Prometheus,valuable+,DEQ,37744,2,f
+6,50,break bulk,Peraspera,none,CIF,37562,2,f
+7,20,RO/RO,Junction,none,DFD,25662,2,f
+7,50,break bulk,Nusku,living++,CIF,199677,6,MMM
+7,90,dry bulk,Nusku,none,DES,176474,6,MMM
+7,40,wet bulk,Nusku,none,CIF,122384,6,MMM
+7,20,break bulk,Nusku,none,CIF,76518,6,MMM
+7,80,RO/RO,Nusku,none,CIF,153962,6,MMM
+7,70,break bulk,Nusku,fragile+,CIF,232864,6,MMM
+7,40,wet bulk,Nusku,fragile+,CIF,106953,6,MMM
+7,40,break bulk,Nusku,none,DES,73244,6,MMM
+7,60,wet bulk,Nusku,none,CIF,181601,6,MMM
+7,80,break bulk,Nusku,none,CIF,111842,6,MMM
+7,50,break bulk,Nusku,none,DEQ,116314,6,MMM
+7,40,break bulk,Nusku,flamable++,DEQ,104783,6,MMM
+7,20,dry bulk,Nusku,perishable,DFD,85020,6,MMM
+7,10,dry bulk,Nusku,radioactive+++,FOB,40755,6,MMM
+7,30,break bulk,Nusku,none,CIF,88410,6,MMM
+7,40,break bulk,Nusku,none,DES,101324,6,MMM
+7,100,wet bulk,Nusku,flamable++,FOB,318456,6,MMM
+7,50,dry bulk,Nusku,corrosive++,CIF,134839,6,MMM
+7,80,break bulk,Nusku,explosive++,CIF,206976,6,MMM
+7,70,RO/RO,Nusku,corrosive,DFD,340670,6,MMM
+7,50,break bulk,Nusku,perishable+++,FOB,107052,6,MMM
+7,10,dry bulk,Nusku,living+++,CIF,39000,6,MMM
+7,70,break bulk,Nusku,corrosive++,CIF,232864,6,MMM
+7,4,RO/RO,Inferno,flamable+++,CIF,14233,5,f--
+7,6,dry bulk,Inferno,none,DES,22334,5,f--
+7,10,dry bulk,Prometheus,none,FOB,12968,2,f
+7,60,dry bulk,Prometheus,none,CIF,71160,2,f
+7,70,break bulk,Prometheus,corrosive+,CIF,95347,2,f
+7,20,dry bulk,Prometheus,none,CIF,23140,2,f
+7,60,dry bulk,Prometheus,none,FOB,67602,2,f
+7,60,break bulk,Prometheus,explosive,CIF,43860,2,f
+7,30,break bulk,Prometheus,none,DES,30795,2,f
+7,30,wet bulk,Prometheus,explosive,CIF,36645,2,f
+7,10,break bulk,Prometheus,none,EXW,11700,2,f
+7,20,break bulk,Prometheus,none,CIF,24440,2,f
+7,50,break bulk,Prometheus,radioactive+,CIF,25790,2,f
+7,80,break bulk,Prometheus,fragile++,CIF,27115,2,f
+7,90,dry bulk,Prometheus,explosive+,DFD,91202,2,f
+7,60,dry bulk,Prometheus,fragile,DES,66528,2,f
+7,90,container,Prometheus,flamable+,CIF,50202,2,f
+7,20,wet bulk,Prometheus,none,FOB,26924,2,f
+7,60,wet bulk,Prometheus,perishable+++,CIF,61116,2,f
+7,50,container,Prometheus,none,CIF,47312,2,f
+7,90,RO/RO,Prometheus,none,FOB,100996,2,f
+7,30,dry bulk,Prometheus,none,CIF,22995,2,f
+7,30,RO/RO,Prometheus,none,CIF,36645,2,f
+7,20,wet bulk,Prometheus,flamable,EXW,23218,2,f
+7,30,container,Prometheus,perishable++,FAS,28845,2,f
+7,30,dry bulk,Prometheus,valuable+,DES,32335,2,f
+7,60,RO/RO,Prometheus,none,CIF,86760,2,f
+7,50,break bulk,Prometheus,living,CIF,57062,2,f
+7,50,wet bulk,Prometheus,flamable++,EXW,37562,2,f
+7,30,break bulk,Prometheus,none,DEQ,22097,2,f
+7,50,container,Prometheus,corrosive,CIF,47312,2,f
+7,60,RO/RO,Prometheus,none,CIF,43860,2,f
+7,50,dry bulk,Prometheus,none,EXW,33806,2,f
+7,100,break bulk,Prometheus,none,DFD,83201,2,f
+7,30,break bulk,Prometheus,none,CIF,36645,2,f
+7,20,wet bulk,Prometheus,radioactive++,CIF,27027,2,f
+7,80,wet bulk,Prometheus,none,DEQ,48955,2,f
+7,80,wet bulk,Prometheus,perishable,DES,65335,2,f
+7,3,break bulk,Calgary,none,CIF,11655,5,f--
+7,3,break bulk,Ys,none,FAS,10507,6,fff
+8,5,break bulk,Hephaistos,none,DES,15362,5,f--
+8,20,dry bulk,Barnard,none,CIF,20826,2,M
+8,80,dry bulk,Nusku,fragile++,FOB,58776,6,MMM
+8,100,break bulk,Nusku,living+,CIF,262881,6,MMM
+8,20,break bulk,Nusku,none,CIF,83538,6,MMM
+8,50,dry bulk,Nusku,explosive+,CIF,125577,6,MMM
+8,10,break bulk,Nusku,perishable++,CIF,33345,6,MMM
+8,80,break bulk,Nusku,none,CIF,125882,6,MMM
+8,40,container,Nusku,perishable+++,DES,159383,6,MMM
+8,70,dry bulk,Nusku,none,DES,183753,6,MMM
+8,60,dry bulk,Nusku,none,CIF,181601,6,MMM
+8,30,break bulk,Prometheus,flamable++,CIF,36430,2,f
+8,20,dry bulk,Prometheus,none,CIF,28341,2,f
+8,40,wet bulk,Prometheus,perishable+++,CIF,47001,2,f
+8,40,break bulk,Prometheus,none,CIF,42728,2,f
+8,30,wet bulk,Prometheus,none,CIF,28845,2,f
+8,30,container,Prometheus,none,DES,34695,2,f
+8,20,RO/RO,Prometheus,none,DEQ,22932,2,f
+8,60,break bulk,Prometheus,none,CIF,67260,2,f
+8,70,break bulk,Prometheus,corrosive++,CIF,66682,2,f
+8,70,RO/RO,Prometheus,corrosive,CIF,68057,2,f
+8,70,break bulk,Prometheus,none,DEQ,104902,2,f
+8,10,break bulk,Prometheus,none,DFD,12285,2,f
+9,2,break bulk,Hephaistos,none,CIF,7445,5,f--
+9,15,wet bulk,Junction,none,EXW,16497,2,f
+9,10,break bulk,Nusku,corrosive+++,CIF,29250,6,MMM
+9,70,break bulk,Nusku,flamable,CIF,171468,6,MMM
+9,50,break bulk,Nusku,explosive,CIF,136518,6,MMM
+9,80,break bulk,Nusku,none,CIF,182042,6,MMM
+9,80,wet bulk,Nusku,flamable+++,CIF,171069,6,MMM
+9,40,break bulk,Nusku,none,CIF,87284,6,MMM
+9,4,break bulk,Inferno,flamable,CIF,12939,5,f--
+9,6,wet bulk,Inferno,corrosive+++,CIF,24567,5,f--
+9,6,break bulk,Inferno,flamable+++,CIF,22422,5,f--
+9,70,break bulk,Prometheus,none,CIF,95357,2,f
+9,70,break bulk,Prometheus,none,DEQ,76237,2,f
+9,20,break bulk,Prometheus,fragile,DFD,26885,2,f
+9,30,break bulk,Prometheus,none,DEQ,32335,2,f
+9,50,break bulk,Prometheus,none,CIF,66812,2,f
+9,60,break bulk,Prometheus,none,CIF,67260,2,f
+9,20,break bulk,Prometheus,none,DES,25740,2,f
+9,40,break bulk,Prometheus,fragile,DES,36674,2,f
+9,80,wet bulk,Prometheus,none,DEQ,43495,2,f
+9,100,wet bulk,Prometheus,none,DEQ,110501,2,f
+9,20,break bulk,Prometheus,none,CIF,21840,2,f
+9,20,wet bulk,Prometheus,none,CIF,33540,2,f
+9,100,wet bulk,Prometheus,fragile++,DES,80013,2,f
+9,70,dry bulk,Prometheus,none,CIF,72607,2,f
+9,30,container,Prometheus,living++,CIF,34382,2,f
+9,30,break bulk,Prometheus,none,FOB,29255,2,f
+9,60,dry bulk,Prometheus,none,CIF,43860,2,f
+9,40,break bulk,Prometheus,explosive+,CIF,44864,2,f
+9,40,container,Prometheus,explosive+++,CIF,41281,2,f
+9,80,break bulk,Prometheus,flamable+,CIF,38035,2,f
+9,45,wet bulk,Peraspera,none,CIF,49570,2,f
+9,15,wet bulk,Peraspera,radioactive++,CIF,23342,2,f
+9,6,wet bulk,Procyon,perishable+,DFD,16222,4,ff
+10,25,wet bulk,Barnard,perishable+,DFD,19890,2,M
+10,60,container,Nusku,none,DEQ,180575,6,MMM
+10,50,dry bulk,Nusku,flamable++,CIF,79264,6,MMM
+10,80,wet bulk,Nusku,none,CIF,83762,6,MMM
+10,40,dry bulk,Nusku,valuable+++,EXW,73244,6,MMM
+10,50,break bulk,Nusku,living,CIF,110193,6,MMM
+10,60,wet bulk,Nusku,fragile+,CIF,102770,6,MMM
+10,40,container,Nusku,perishable+,FAS,94304,6,MMM
+10,50,container,Nusku,none,FAS,112358,6,MMM
+10,20,RO/RO,Nusku,none,FAS,55692,6,MMM
+10,50,wet bulk,Nusku,none,CIF,145293,6,MMM
+10,100,dry bulk,Nusku,none,CIF,231495,6,MMM
+10,50,dry bulk,Nusku,flamable,CIF,127743,6,MMM
+10,10,wet bulk,Nusku,fragile,CIF,33345,6,MMM
+10,30,break bulk,Nusku,fragile+++,FOB,93322,6,MMM
+10,70,dry bulk,Prometheus,fragile++,FOB,104902,2,f
+10,50,container,Prometheus,valuable+++,DEQ,54409,2,f
+10,40,dry bulk,Prometheus,none,DFD,47594,2,f
+10,60,break bulk,Prometheus,none,CIF,63360,2,f
+10,20,container,Prometheus,living,CIF,33540,2,f
+10,30,container,Prometheus,none,EXW,31225,2,f
+10,50,break bulk,Prometheus,none,FOB,54209,2,f
+10,20,wet bulk,Prometheus,none,CIF,28341,2,f
+10,30,dry bulk,Prometheus,fragile++,CIF,28240,2,f
+10,40,dry bulk,Prometheus,flamable+,CIF,61244,2,f
+10,80,RO/RO,Prometheus,none,FOB,59112,2,f
+10,90,break bulk,Prometheus,flamable++,DES,91202,2,f
+10,40,break bulk,Prometheus,perishable,DEQ,47594,2,f
+10,10,dry bulk,Peraspera,none,CIF,11700,2,f
+10,4,break bulk,Procyon,none,FOB,7858,4,ff
+10,3,dry bulk,Procyon,biohazard+,DEQ,9827,4,ff
+11,5,container,Junction,radioactive+++,DES,8547,2,f
+11,10,break bulk,Nusku,fragile++,CIF,31493,6,MMM
+11,20,wet bulk,Nusku,none,FOB,75582,6,MMM
+11,30,break bulk,Nusku,corrosive+++,DES,86534,6,MMM
+11,2,break bulk,Hades,fragile+++,CIF,6552,4,f-
+11,50,RO/RO,Prometheus,living++,CIF,42853,2,f
+11,100,break bulk,Prometheus,none,CIF,72739,2,f
+11,20,dry bulk,Prometheus,perishable,DEQ,24297,2,f
+11,50,break bulk,Prometheus,none,CIF,37562,2,f
+11,60,break bulk,Prometheus,living+++,DES,61116,2,f
+11,60,break bulk,Prometheus,none,CIF,78960,2,f
+11,20,break bulk,Prometheus,perishable++,DFD,40066,2,f
+11,100,wet bulk,Prometheus,perishable+,CIF,90026,2,f
+11,50,RO/RO,Prometheus,none,FOB,48034,2,f
+11,30,break bulk,Prometheus,radioactive+,FAS,21045,2,f
+11,40,dry bulk,Prometheus,none,CIF,34928,2,f
+11,30,wet bulk,Prometheus,perishable+,DFD,33874,2,f
+11,3,break bulk,Ys,fragile++,FAS,11060,6,fff
+12,4,break bulk,Hephaistos,none,CIF,16189,5,f--
+12,5,RO/RO,Hephaistos,none,FOB,14594,5,f--
+12,70,break bulk,Nusku,none,DEQ,206929,6,MMM
+12,70,dry bulk,Nusku,none,CIF,245178,6,MMM
+12,20,wet bulk,Nusku,perishable+,CIF,99294,6,MMM
+12,50,wet bulk,Nusku,none,CIF,92643,6,MMM
+12,50,break bulk,Nusku,none,DFD,107052,6,MMM
+12,70,dry bulk,Prometheus,valuable++,CIF,119235,2,f
+12,30,break bulk,Prometheus,flamable,CIF,40545,2,f
+12,10,break bulk,Prometheus,fragile+++,DFD,11213,2,f
+12,60,RO/RO,Prometheus,none,CIF,71160,2,f
+12,10,dry bulk,Prometheus,corrosive++,CIF,11603,2,f
+12,10,break bulk,Prometheus,none,CIF,14301,2,f
+12,80,break bulk,Prometheus,none,CIF,72623,2,f
+12,20,dry bulk,Prometheus,flamable+,CIF,29758,2,f
+12,40,dry bulk,Prometheus,none,DEQ,47594,2,f
+12,30,break bulk,Prometheus,flamable++,DFD,35414,2,f
+12,40,wet bulk,Prometheus,none,CIF,50528,2,f
+12,50,break bulk,Prometheus,fragile+++,DEQ,43197,2,f
+12,60,dry bulk,Prometheus,fragile+++,CIF,65406,2,f
+12,40,break bulk,Prometheus,valuable+++,CIF,32701,2,f
+12,60,break bulk,Prometheus,radioactive,DFD,91146,2,f
+12,40,break bulk,Prometheus,none,CIF,42728,2,f
+12,50,dry bulk,Prometheus,flamable+,CIF,42853,2,f
+12,30,RO/RO,Prometheus,none,CIF,38595,2,f
+12,20,dry bulk,Prometheus,explosive+++,FAS,32487,2,f
+12,70,dry bulk,Prometheus,none,DES,63507,2,f
+12,50,break bulk,Prometheus,none,CIF,57062,2,f
+12,70,break bulk,Prometheus,none,CIF,68057,2,f
+12,40,break bulk,Prometheus,none,FOB,43061,2,f
+13,30,wet bulk,Nusku,none,DES,77880,6,MMM
+13,50,dry bulk,Nusku,none,CIF,118968,6,MMM
+13,70,break bulk,Nusku,perishable++,CIF,310669,6,MMM
+13,6,break bulk,Inferno,none,DFD,21403,5,f--
+13,20,break bulk,Prometheus,none,DFD,24297,2,f
+13,50,wet bulk,Prometheus,none,CIF,40812,2,f
+13,50,dry bulk,Prometheus,explosive,CIF,24562,2,f
+13,60,break bulk,Prometheus,none,CIF,71160,2,f
+13,50,break bulk,Prometheus,fragile+,CIF,56503,2,f
+13,40,wet bulk,Prometheus,perishable+++,FOB,53054,2,f
+13,50,container,Prometheus,perishable,CIF,44062,2,f
+13,60,break bulk,Prometheus,restricted,DES,108485,2,f
+13,60,dry bulk,Prometheus,none,EXW,60534,2,f
+13,60,break bulk,Prometheus,none,CIF,71160,2,f
+13,80,break bulk,Prometheus,none,CIF,72623,2,f
+13,30,dry bulk,Prometheus,none,DFD,34382,2,f
+13,60,break bulk,Prometheus,radioactive,CIF,59460,2,f
+13,70,wet bulk,Prometheus,none,FOB,64654,2,f
+13,90,break bulk,Prometheus,none,EXW,74620,2,f
+13,20,dry bulk,Prometheus,none,DFD,27027,2,f
+13,100,wet bulk,Prometheus,none,CIF,92239,2,f
+13,60,dry bulk,Prometheus,perishable+,CIF,62433,2,f
+13,40,dry bulk,Prometheus,none,CIF,37528,2,f
+13,70,break bulk,Prometheus,none,CIF,72607,2,f
+13,20,break bulk,Prometheus,none,CIF,24440,2,f
+13,50,break bulk,Prometheus,none,CIF,57062,2,f
+13,70,wet bulk,Prometheus,none,CIF,99907,2,f
+13,30,break bulk,Prometheus,none,CIF,24945,2,f
+13,70,dry bulk,Prometheus,none,DEQ,85792,2,f
+13,80,break bulk,Prometheus,perishable,DFD,79886,2,f
+13,40,break bulk,Peraspera,fragile+,FOB,53128,2,f
+14,2,break bulk,Sarpedon,none,CIF,10352,8,ffff
+14,6,break bulk,Hephaistos,none,CIF,23510,5,f--
+14,15,break bulk,Junction,none,CIF,22230,2,f
+14,30,break bulk,Junction,restricted+,FOB,115378,2,f
+14,40,break bulk,Junction,perishable+,CIF,50324,2,f
+14,25,wet bulk,Barnard,perishable++,CIF,17588,2,M
+14,30,break bulk,Barnard,fragile+++,DFD,33908,2,M
+14,20,break bulk,Nusku,none,DEQ,80769,6,MMM
+14,60,break bulk,Nusku,none,CIF,150011,6,MMM
+14,100,dry bulk,Nusku,none,CIF,249045,6,MMM
+14,80,break bulk,Nusku,living,CIF,208644,6,MMM
+14,40,container,Nusku,none,CIF,81242,6,MMM
+14,10,break bulk,Nusku,none,CIF,27770,6,MMM
+14,60,dry bulk,Nusku,none,CIF,159228,6,MMM
+14,40,break bulk,Nusku,none,DEQ,134034,6,MMM
+14,20,break bulk,Nusku,living++,DFD,86903,6,MMM
+14,30,break bulk,Nusku,none,CIF,92091,6,MMM
+14,60,break bulk,Nusku,none,CIF,139626,6,MMM
+14,10,RO/RO,Nusku,perishable++,CIF,29313,6,MMM
+14,60,break bulk,Nusku,explosive+++,DFD,105724,6,MMM
+14,50,dry bulk,Nusku,none,CIF,118899,6,MMM
+14,20,break bulk,Nusku,biohazard+++,CIF,71874,6,MMM
+14,40,break bulk,Nusku,none,CIF,100844,6,MMM
+14,50,wet bulk,Nusku,none,FOB,73725,6,MMM
+14,3,break bulk,Inferno,flamable,DEQ,8055,5,f--
+14,7,break bulk,Hades,corrosive++,CIF,16898,4,f-
+14,4,wet bulk,Hades,none,CIF,11571,4,f-
+14,8,wet bulk,Hades,none,FOB,20232,4,f-
+14,30,wet bulk,Prometheus,none,FOB,25550,2,f
+14,60,break bulk,Prometheus,flamable,FAS,75012,2,f
+14,90,RO/RO,Prometheus,none,CIF,36111,2,f
+14,40,break bulk,Prometheus,none,CIF,40128,2,f
+14,50,break bulk,Prometheus,flamable+,FAS,34312,2,f
+14,40,container,Prometheus,fragile,CIF,45328,2,f
+14,60,wet bulk,Prometheus,none,CIF,71160,2,f
+14,50,wet bulk,Prometheus,none,DFD,49678,2,f
+14,10,dry bulk,Prometheus,none,CIF,9100,2,f
+14,40,break bulk,Prometheus,none,FOB,35651,2,f
+14,30,dry bulk,Prometheus,corrosive,CIF,24945,2,f
+14,50,wet bulk,Prometheus,biohazard+++,CIF,41319,2,f
+14,80,container,Prometheus,none,CIF,67423,2,f
+14,20,break bulk,Prometheus,none,CIF,33540,2,f
+14,60,break bulk,Prometheus,none,DEQ,66528,2,f
+14,40,break bulk,Prometheus,none,DEQ,55784,2,f
+14,50,container,Prometheus,living+++,CIF,34169,2,f
+14,40,break bulk,Prometheus,none,DEQ,42134,2,f
+14,20,break bulk,Prometheus,none,CIF,20540,2,f
+14,30,dry bulk,Prometheus,fragile+++,FOB,34382,2,f
+14,60,dry bulk,Prometheus,corrosive+,EXW,38782,2,f
+14,60,break bulk,Prometheus,none,DFD,77168,2,f
+14,80,break bulk,Prometheus,none,FOB,55020,2,f
+14,80,container,Prometheus,living+,CIF,55729,2,f
+14,10,break bulk,Prometheus,none,DES,10285,2,f
+14,30,RO/RO,Prometheus,restricted+++,CIF,536404,2,f
+14,60,dry bulk,Prometheus,none,DFD,65734,2,f
+14,40,wet bulk,Prometheus,fragile,CIF,34930,2,f
+14,10,break bulk,Prometheus,none,CIF,9075,2,f
+14,90,break bulk,Prometheus,none,CIF,60836,2,f
+14,40,wet bulk,Prometheus,none,DES,44610,2,f
+14,40,dry bulk,Prometheus,none,CIF,39770,2,f
+14,60,container,Prometheus,none,CIF,44453,2,f
+14,70,container,Prometheus,fragile,CIF,88755,2,f
+14,40,wet bulk,Prometheus,explosive,FAS,35482,2,f
+14,20,break bulk,Prometheus,none,FOB,23910,2,f
+14,100,wet bulk,Prometheus,flamable,FOB,67703,2,f
+14,100,wet bulk,Prometheus,none,CIF,73753,2,f
+14,20,break bulk,Prometheus,fragile+,CIF,21345,2,f
+14,60,break bulk,Prometheus,none,DES,55343,2,f
+14,30,break bulk,Prometheus,restricted+,CIF,97514,2,f
+14,70,break bulk,Prometheus,living++,CIF,84300,2,f
+14,40,break bulk,Prometheus,none,CIF,39770,2,f
+14,70,break bulk,Prometheus,none,DFD,93193,2,f
+14,40,break bulk,Prometheus,explosive+++,CIF,43747,2,f
+14,60,break bulk,Prometheus,none,DES,58973,2,f
+14,80,break bulk,Prometheus,none,EXW,21632,2,f
+14,40,wet bulk,Prometheus,none,CIF,34930,2,f
+14,60,RO/RO,Prometheus,living,CIF,66233,2,f
+14,80,wet bulk,Prometheus,perishable,DES,50647,2,f
+14,30,break bulk,Prometheus,none,FOB,22057,2,f
+14,40,break bulk,Prometheus,none,CIF,37350,2,f
+14,70,break bulk,Prometheus,none,FOB,80294,2,f
+14,20,container,Prometheus,none,FOB,29658,2,f
+14,50,break bulk,Prometheus,none,FOB,33214,2,f
+14,50,dry bulk,Prometheus,none,CIF,53112,2,f
+14,80,RO/RO,Prometheus,fragile+,CIF,60811,2,f
+14,60,dry bulk,Prometheus,none,DFD,73357,2,f
+14,50,wet bulk,Prometheus,none,CIF,47062,2,f
+14,30,RO/RO,Prometheus,fragile+,CIF,22473,2,f
+14,40,dry bulk,Prometheus,none,FOB,35482,2,f
+14,90,break bulk,Prometheus,living,CIF,55391,2,f
+14,30,break bulk,Prometheus,none,CIF,41368,2,f
+14,90,container,Prometheus,none,CIF,93506,2,f
+14,40,dry bulk,Prometheus,none,CIF,51870,2,f
+14,40,RO/RO,Prometheus,none,CIF,51870,2,f
+14,30,break bulk,Prometheus,none,DEQ,33908,2,f
+14,40,wet bulk,Prometheus,none,CIF,49450,2,f
+14,50,dry bulk,Prometheus,none,CIF,34962,2,f
+14,70,dry bulk,Prometheus,none,CIF,63345,2,f
+14,70,wet bulk,Prometheus,fragile+++,CIF,78997,2,f
+14,60,break bulk,Prometheus,fragile++,DEQ,64871,2,f
+14,60,dry bulk,Prometheus,none,DFD,65734,2,f
+14,60,dry bulk,Prometheus,flamable++,CIF,42865,2,f
+14,50,wet bulk,Prometheus,fragile++,FAS,19837,2,f
+14,90,wet bulk,Prometheus,fragile++,DFD,57438,2,f
+14,50,dry bulk,Prometheus,none,DEQ,49415,2,f
+14,100,break bulk,Prometheus,living++,CIF,90146,2,f
+14,60,break bulk,Prometheus,none,CIF,55343,2,f
+14,90,RO/RO,Prometheus,fragile++,EXW,77171,2,f
+14,10,break bulk,Prometheus,living++,CIF,10800,2,f
+14,70,break bulk,Prometheus,corrosive,CIF,67580,2,f
+14,50,break bulk,Prometheus,none,CIF,50087,2,f
+14,40,break bulk,Prometheus,none,CIF,44610,2,f
+14,90,wet bulk,Prometheus,biohazard,CIF,88061,2,f
+14,15,break bulk,Peraspera,flamable+,CIF,24585,2,f
+15,2,dry bulk,Hephaistos,none,DES,6022,5,f--
+15,35,break bulk,Junction,valuable+,CIF,36539,2,f
+15,20,break bulk,Barnard,none,DES,18296,2,M
+15,35,wet bulk,Barnard,none,CIF,33225,2,M
+15,60,dry bulk,Nusku,fragile++,CIF,106001,6,MMM
+15,80,wet bulk,Nusku,flamable++,DES,101146,6,MMM
+15,80,break bulk,Nusku,perishable++,EXW,117168,6,MMM
+15,40,wet bulk,Nusku,none,DEQ,127137,6,MMM
+15,50,dry bulk,Nusku,none,CIF,110731,6,MMM
+15,50,break bulk,Nusku,explosive+,DFD,159335,6,MMM
+15,50,break bulk,Nusku,valuable++,CIF,116883,6,MMM
+15,40,dry bulk,Nusku,none,FOB,107583,6,MMM
+15,6,break bulk,Inferno,none,CIF,18973,5,f--
+15,6,break bulk,Inferno,none,CIF,20788,5,f--
+15,2,wet bulk,Ember,none,CIF,5302,4,f-
+15,40,container,Prometheus,none,CIF,42190,2,f
+15,80,dry bulk,Prometheus,valuable+++,CIF,53059,2,f
+15,60,break bulk,Prometheus,none,DFD,80980,2,f
+15,30,break bulk,Prometheus,fragile+++,DEQ,24613,2,f
+15,30,wet bulk,Prometheus,none,FAS,25506,2,f
+15,30,break bulk,Prometheus,none,CIF,39553,2,f
+15,70,container,Prometheus,none,CIF,105695,2,f
+15,70,break bulk,Prometheus,flamable++,CIF,62066,2,f
+15,50,dry bulk,Prometheus,fragile+,CIF,39886,2,f
+15,10,break bulk,Prometheus,fragile++,DFD,9045,2,f
+15,70,break bulk,Prometheus,none,DEQ,97640,2,f
+15,40,dry bulk,Prometheus,none,CIF,34930,2,f
+15,80,break bulk,Prometheus,fragile+,CIF,45565,2,f
+15,50,wet bulk,Prometheus,fragile+,CIF,49415,2,f
+15,50,break bulk,Prometheus,none,FOB,33214,2,f
+15,20,dry bulk,Prometheus,flamable,CIF,31218,2,f
+15,50,break bulk,Prometheus,fragile,DEQ,46239,2,f
+15,50,container,Prometheus,radioactive+,CIF,49415,2,f
+15,40,dry bulk,Prometheus,fragile+,CIF,49381,2,f
+15,40,break bulk,Prometheus,none,EXW,27081,2,f
+15,70,break bulk,Prometheus,none,DES,71815,2,f
+15,20,break bulk,Prometheus,none,CIF,26379,2,f
+15,40,container,Prometheus,flamable++,EXW,39770,2,f
+15,50,break bulk,Prometheus,flamable,FAS,47583,2,f
+15,30,container,Prometheus,none,CIF,25033,2,f
+15,60,break bulk,Prometheus,none,DES,66233,2,f
+15,50,dry bulk,Prometheus,none,FAS,53330,2,f
+15,20,dry bulk,Prometheus,corrosive+++,FOB,25156,2,f
+15,40,break bulk,Prometheus,none,CIF,44610,2,f
+15,50,container,Prometheus,none,CIF,44037,2,f
+15,40,break bulk,Prometheus,valuable+++,DFD,40169,2,f
+15,60,break bulk,Prometheus,fragile++,FOB,69545,2,f
+15,90,wet bulk,Prometheus,valuable++,CIF,86747,2,f
+15,30,container,Prometheus,perishable++,CIF,28190,2,f
+15,60,break bulk,Prometheus,none,DFD,69545,2,f
+15,60,dry bulk,Prometheus,none,CIF,55343,2,f
+15,50,dry bulk,Prometheus,none,CIF,34962,2,f
+15,50,wet bulk,Prometheus,flamable+,CIF,46239,2,f
+15,70,break bulk,Prometheus,perishable+++,CIF,92972,2,f
+15,60,dry bulk,Prometheus,valuable+,FAS,33563,2,f
+15,80,wet bulk,Prometheus,none,CIF,72436,2,f
+15,60,break bulk,Prometheus,corrosive,CIF,62603,2,f
+15,40,break bulk,Prometheus,fragile+++,CIF,46409,2,f
+15,80,dry bulk,Prometheus,none,CIF,67596,2,f
+15,40,dry bulk,Prometheus,corrosive,CIF,39770,2,f
+15,30,RO/RO,Prometheus,fragile,CIF,30478,2,f
+15,80,container,Prometheus,none,CIF,53076,2,f
+15,60,wet bulk,Prometheus,none,DFD,80980,2,f
+15,40,dry bulk,Prometheus,perishable+,EXW,33183,2,f
+15,80,break bulk,Prometheus,explosive++,DES,58383,2,f
+15,90,wet bulk,Prometheus,biohazard,DFD,84888,2,f
+15,30,break bulk,Prometheus,none,CIF,23218,2,f
+15,50,break bulk,Prometheus,none,CIF,37987,2,f
+15,90,container,Prometheus,none,FOB,99176,2,f
+15,30,break bulk,Prometheus,valuable+++,CIF,27536,2,f
+15,40,break bulk,Prometheus,none,CIF,39770,2,f
+15,50,break bulk,Prometheus,none,EXW,31466,2,f
+15,50,RO/RO,Prometheus,none,FOB,50456,2,f
+15,90,RO/RO,Prometheus,fragile,CIF,71726,2,f
+15,40,wet bulk,Prometheus,none,EXW,37971,2,f
+15,50,break bulk,Prometheus,none,CIF,41012,2,f
+15,60,wet bulk,Prometheus,none,DFD,50488,2,f
+15,30,break bulk,Prometheus,radioactive+,FAS,30478,2,f
+15,50,break bulk,Prometheus,none,DEQ,30358,2,f
+15,10,break bulk,Prometheus,none,CIF,10285,2,f
+15,60,break bulk,Prometheus,none,DEQ,65734,2,f
+15,40,dry bulk,Prometheus,explosive++,DEQ,27775,2,f
+15,40,wet bulk,Prometheus,none,CIF,34930,2,f
+15,60,wet bulk,Prometheus,none,DES,51713,2,f
+15,80,break bulk,Prometheus,none,DES,28876,2,f
+15,5,break bulk,Calgary,valuable,EXW,11428,5,f--
+15,5,dry bulk,Calgary,none,CIF,14298,5,f--
+15,40,break bulk,Peraspera,perishable+,CIF,41758,2,f
+15,4,container,Procyon,corrosive++,CIF,8592,4,ff
+16,20,break bulk,Barnard,none,FOB,15222,2,M
+16,25,break bulk,Barnard,none,DES,23468,2,M
+16,30,break bulk,Barnard,none,CIF,32331,2,M
+16,40,break bulk,Barnard,none,DES,46683,2,M
+16,2,break bulk,Agidda,none,DFD,5037,4,MM
+16,2,break bulk,Agidda,none,DES,5207,4,MM
+16,40,break bulk,Nusku,none,CIF,140048,6,MMM
+16,30,dry bulk,Nusku,none,CIF,77389,6,MMM
+16,70,break bulk,Nusku,flamable,EXW,204727,6,MMM
+16,30,break bulk,Nusku,none,CIF,96991,6,MMM
+16,60,dry bulk,Nusku,corrosive++,EXW,159228,6,MMM
+16,80,dry bulk,Nusku,none,DES,130236,6,MMM
+16,30,RO/RO,Nusku,valuable,CIF,77389,6,MMM
+16,50,dry bulk,Nusku,none,FOB,127721,6,MMM
+16,60,break bulk,Nusku,flamable,DFD,166029,6,MMM
+16,50,break bulk,Nusku,living+++,CIF,141185,6,MMM
+16,70,break bulk,Nusku,none,CIF,193900,6,MMM
+16,40,break bulk,Nusku,none,CIF,140048,6,MMM
+16,6,dry bulk,Hades,perishable+,CIF,18986,4,f-
+16,50,dry bulk,Prometheus,perishable+,CIF,58944,2,f
+16,40,dry bulk,Prometheus,corrosive,CIF,47030,2,f
+16,80,dry bulk,Prometheus,fragile,DFD,21115,2,f
+16,70,break bulk,Prometheus,corrosive+,CIF,88746,2,f
+16,60,dry bulk,Prometheus,none,CIF,55343,2,f
+16,70,container,Prometheus,none,DFD,106533,2,f
+16,50,dry bulk,Prometheus,none,CIF,37987,2,f
+16,40,break bulk,Prometheus,none,FAS,42379,2,f
+16,40,break bulk,Prometheus,none,CIF,34930,2,f
+16,50,break bulk,Prometheus,fragile,CIF,53112,2,f
+16,60,break bulk,Prometheus,fragile++,CIF,77168,2,f
+16,50,break bulk,Prometheus,none,CIF,34962,2,f
+16,70,break bulk,Prometheus,none,CIF,76050,2,f
+16,40,wet bulk,Prometheus,none,EXW,37971,2,f
+16,40,break bulk,Prometheus,none,CIF,39770,2,f
+16,100,break bulk,Prometheus,none,CIF,85853,2,f
+16,20,break bulk,Prometheus,none,CIF,20328,2,f
+16,40,dry bulk,Prometheus,none,CIF,37350,2,f
+16,60,break bulk,Prometheus,fragile,CIF,33563,2,f
+16,50,break bulk,Prometheus,corrosive,CIF,28912,2,f
+16,20,break bulk,Prometheus,fragile+,CIF,22615,2,f
+16,70,dry bulk,Prometheus,explosive+,DES,53172,2,f
+16,40,break bulk,Prometheus,none,CIF,27670,2,f
+16,50,dry bulk,Prometheus,none,DEQ,36710,2,f
+16,60,break bulk,Prometheus,none,FAS,62922,2,f
+16,20,container,Prometheus,radioactive,DEQ,30238,2,f
+16,30,RO/RO,Prometheus,none,CIF,21403,2,f
+16,60,break bulk,Prometheus,radioactive+,FAS,51713,2,f
+16,50,wet bulk,Prometheus,valuable+++,EXW,47062,2,f
+16,90,dry bulk,Prometheus,none,CIF,98951,2,f
+16,10,break bulk,Prometheus,biohazard,CIF,7260,2,f
+16,50,container,Prometheus,perishable+,CIF,52591,2,f
+16,30,break bulk,Prometheus,fragile+,DEQ,29533,2,f
+16,70,break bulk,Prometheus,none,FAS,80294,2,f
+16,80,wet bulk,Prometheus,none,CIF,33716,2,f
+16,60,break bulk,Prometheus,living,DES,50488,2,f
+16,70,dry bulk,Prometheus,none,CIF,97225,2,f
+16,90,RO/RO,Prometheus,flamable++,CIF,69595,2,f
+16,80,container,Prometheus,none,CIF,43396,2,f
+16,40,break bulk,Prometheus,none,EXW,33615,2,f
+16,60,break bulk,Prometheus,flamable++,CIF,58111,2,f
+16,30,container,Prometheus,living,DES,28190,2,f
+16,60,wet bulk,Prometheus,fragile,CIF,69863,2,f
+16,70,break bulk,Prometheus,none,FOB,72248,2,f
+16,80,break bulk,Prometheus,none,EXW,52124,2,f
+16,30,dry bulk,Prometheus,none,DFD,30096,2,f
+16,20,wet bulk,Prometheus,none,CIF,23958,2,f
+16,60,break bulk,Prometheus,perishable+,CIF,73357,2,f
+16,60,RO/RO,Prometheus,valuable+++,CIF,72857,2,f
+16,20,RO/RO,Prometheus,none,CIF,25168,2,f
+16,20,RO/RO,Prometheus,none,CIF,21538,2,f
+16,70,container,Prometheus,flamable,CIF,63345,2,f
+16,10,dry bulk,Prometheus,none,CIF,9075,2,f
+16,40,RO/RO,Prometheus,none,DES,39770,2,f
+16,70,dry bulk,Prometheus,corrosive,DFD,88314,2,f
+16,30,container,Prometheus,none,CIF,17773,2,f
+16,30,break bulk,Prometheus,radioactive++,CIF,24379,2,f
+16,50,break bulk,Prometheus,none,CIF,37987,2,f
+16,70,RO/RO,Prometheus,biohazard++,CIF,106533,2,f
+16,90,break bulk,Prometheus,none,FOB,42276,2,f
+16,10,dry bulk,Prometheus,perishable,DES,8259,2,f
+16,80,break bulk,Prometheus,living+++,DEQ,49905,2,f
+16,30,break bulk,Prometheus,none,CIF,32293,2,f
+16,20,break bulk,Prometheus,none,CIF,22748,2,f
+16,60,break bulk,Prometheus,none,CIF,55343,2,f
+16,20,break bulk,Prometheus,fragile+,CIF,22615,2,f
+16,10,break bulk,Prometheus,fragile++,CIF,8894,2,f
+16,70,wet bulk,Prometheus,valuable+,FOB,80285,2,f
+16,80,dry bulk,Prometheus,none,CIF,48236,2,f
+16,60,break bulk,Prometheus,none,CIF,73493,2,f
+16,50,wet bulk,Prometheus,none,DEQ,46239,2,f
+16,20,break bulk,Prometheus,none,CIF,17908,2,f
+16,50,dry bulk,Prometheus,perishable+,DEQ,48441,2,f
+16,50,dry bulk,Prometheus,perishable+++,DFD,61079,2,f
+16,6,wet bulk,Calgary,none,CIF,20788,5,f--
+16,9,dry bulk,Calgary,none,CIF,27225,5,f--
+16,10,dry bulk,Calgary,flamable++,DEQ,29948,5,f--
+16,15,break bulk,Mirabilis,flamable+++,CIF,108810,10,fffff
+17,2,break bulk,Sarpedon,none,DEQ,9100,8,ffff
+17,5,break bulk,Hephaistos,none,DEQ,19777,5,f--
+17,30,container,Barnard,explosive++,CIF,23781,2,M
+17,30,RO/RO,Nusku,living++,CIF,117898,6,MMM
+17,70,dry bulk,Nusku,none,FAS,193927,6,MMM
+17,100,break bulk,Nusku,none,DES,182798,6,MMM
+17,80,break bulk,Nusku,flamable+,EXW,110658,6,MMM
+17,50,break bulk,Nusku,perishable++,CIF,116883,6,MMM
+17,70,wet bulk,Nusku,explosive,CIF,193900,6,MMM
+17,50,dry bulk,Nusku,none,CIF,135234,6,MMM
+17,50,wet bulk,Nusku,valuable+++,DEQ,129187,6,MMM
+17,30,wet bulk,Nusku,none,DES,57787,6,MMM
+17,50,break bulk,Nusku,none,CIF,135234,6,MMM
+17,20,container,Nusku,corrosive++,CIF,78626,6,MMM
+17,50,break bulk,Nusku,none,CIF,94396,6,MMM
+17,70,wet bulk,Nusku,none,CIF,205335,6,MMM
+17,90,break bulk,Nusku,fragile+,FAS,193660,6,MMM
+17,30,break bulk,Nusku,explosive,FOB,67588,6,MMM
+17,20,break bulk,Nusku,none,FAS,61093,6,MMM
+17,70,dry bulk,Nusku,none,DEQ,228812,6,MMM
+17,80,break bulk,Nusku,flamable++,DFD,136695,6,MMM
+17,40,dry bulk,Nusku,none,CIF,126980,6,MMM
+17,7,RO/RO,Hades,none,FAS,16898,4,f-
+17,50,break bulk,Prometheus,perishable+++,CIF,51768,2,f
+17,10,break bulk,Prometheus,flamable+,CIF,9529,2,f
+17,70,wet bulk,Prometheus,fragile+,CIF,62066,2,f
+17,40,dry bulk,Prometheus,none,DFD,36676,2,f
+17,60,wet bulk,Prometheus,living+++,CIF,80843,2,f
+17,70,container,Prometheus,perishable++,CIF,93193,2,f
+17,50,break bulk,Prometheus,none,FAS,47583,2,f
+17,50,dry bulk,Prometheus,living+,CIF,43063,2,f
+17,20,dry bulk,Prometheus,explosive+++,DEQ,27552,2,f
+17,20,break bulk,Prometheus,none,FOB,23910,2,f
+17,30,break bulk,Prometheus,none,DFD,32002,2,f
+17,30,break bulk,Prometheus,corrosive,DFD,29533,2,f
+17,90,dry bulk,Prometheus,none,CIF,104396,2,f
+17,30,container,Prometheus,none,DES,37738,2,f
+17,60,break bulk,Prometheus,living++,CIF,46676,2,f
+17,100,break bulk,Prometheus,none,DFD,71089,2,f
+17,50,dry bulk,Prometheus,none,CIF,41012,2,f
+17,60,RO/RO,Prometheus,none,CIF,48083,2,f
+17,50,break bulk,Prometheus,none,DFD,33534,2,f
+17,80,container,Prometheus,none,DEQ,40483,2,f
+17,10,break bulk,Prometheus,none,CIF,10285,2,f
+17,80,wet bulk,Prometheus,living,FOB,48236,2,f
+17,50,break bulk,Prometheus,none,CIF,41012,2,f
+17,60,container,Prometheus,fragile+++,DFD,63645,2,f
+17,20,break bulk,Prometheus,none,DEQ,23886,2,f
+17,40,dry bulk,Prometheus,none,CIF,51870,2,f
+17,60,dry bulk,Prometheus,corrosive,CIF,73493,2,f
+17,70,break bulk,Prometheus,none,DFD,84300,2,f
+17,40,break bulk,Prometheus,none,CIF,32510,2,f
+17,50,dry bulk,Prometheus,none,CIF,53112,2,f
+17,80,break bulk,Prometheus,perishable++,CIF,35401,2,f
+17,10,break bulk,Prometheus,none,DES,7865,2,f
+17,50,dry bulk,Prometheus,radioactive+,CIF,36710,2,f
+17,70,dry bulk,Prometheus,fragile++,CIF,70959,2,f
+17,70,break bulk,Prometheus,none,CIF,84520,2,f
+17,40,dry bulk,Prometheus,none,DEQ,39217,2,f
+17,80,break bulk,Prometheus,valuable,DEQ,40483,2,f
+17,50,container,Prometheus,none,DFD,52591,2,f
+17,60,dry bulk,Prometheus,perishable,DES,42865,2,f
+17,60,break bulk,Prometheus,fragile+,CIF,65734,2,f
+17,100,RO/RO,Prometheus,fragile+++,CIF,94439,2,f
+17,60,dry bulk,Prometheus,radioactive,FOB,48083,2,f
+17,50,dry bulk,Prometheus,none,FOB,36088,2,f
+17,20,dry bulk,Prometheus,flamable+++,CIF,25023,2,f
+17,20,dry bulk,Prometheus,perishable+++,DES,22361,2,f
+17,70,wet bulk,Prometheus,flamable++,FOB,75406,2,f
+17,100,break bulk,Prometheus,none,CIF,79803,2,f
+17,40,break bulk,Prometheus,perishable+,CIF,41758,2,f
+17,60,break bulk,Prometheus,none,CIF,55343,2,f
+17,60,dry bulk,Prometheus,none,DES,73493,2,f
+17,30,break bulk,Prometheus,none,EXW,32331,2,f
+17,30,RO/RO,Prometheus,none,CIF,41368,2,f
+17,30,dry bulk,Mirabilis,none,CIF,125163,10,fffff
+18,30,break bulk,Junction,none,CIF,28663,2,f
+18,10,container,Barnard,valuable++,DES,10890,2,M
+18,20,break bulk,Barnard,none,CIF,19385,2,M
+18,2,break bulk,Forlorn,none,CIF,7952,6,f--
+18,70,wet bulk,Nusku,perishable,CIF,182466,6,MMM
+18,70,dry bulk,Nusku,living++,FAS,239638,6,MMM
+18,40,break bulk,Nusku,corrosive++,FOB,140931,6,MMM
+18,40,container,Nusku,flamable+,CIF,127137,6,MMM
+18,10,dry bulk,Nusku,none,DFD,27588,6,MMM
+18,40,break bulk,Nusku,none,DEQ,99549,6,MMM
+18,90,wet bulk,Nusku,none,CIF,178958,6,MMM
+18,100,RO/RO,Nusku,none,CIF,264473,6,MMM
+18,40,break bulk,Nusku,fragile,DEQ,78858,6,MMM
+18,40,dry bulk,Nusku,flamable,DFD,104788,6,MMM
+18,80,wet bulk,Nusku,biohazard,CIF,104100,6,MMM
+18,3,break bulk,Inferno,corrosive+,CIF,10914,5,f--
+18,5,dry bulk,Hades,explosive+,CIF,13281,4,f-
+18,40,break bulk,Prometheus,none,CIF,42190,2,f
+18,70,container,Prometheus,none,CIF,88755,2,f
+18,10,break bulk,Prometheus,valuable+++,DFD,9045,2,f
+18,80,break bulk,Prometheus,none,DFD,55729,2,f
+18,80,wet bulk,Prometheus,none,CIF,62756,2,f
+18,50,wet bulk,Prometheus,none,CIF,41012,2,f
+18,40,break bulk,Prometheus,none,CIF,32510,2,f
+18,60,wet bulk,Prometheus,none,FOB,49128,2,f
+18,10,dry bulk,Prometheus,none,CIF,12705,2,f
+18,100,break bulk,Prometheus,none,DEQ,45679,2,f
+18,40,break bulk,Prometheus,restricted,CIF,74699,2,f
+18,30,break bulk,Prometheus,none,CIF,30478,2,f
+18,80,wet bulk,Prometheus,valuable,FOB,28876,2,f
+18,60,RO/RO,Prometheus,none,DES,48083,2,f
+18,10,dry bulk,Prometheus,fragile+,DFD,9983,2,f
+18,40,break bulk,Prometheus,none,CIF,42190,2,f
+18,60,wet bulk,Prometheus,none,CIF,77123,2,f
+18,30,dry bulk,Prometheus,none,CIF,26848,2,f
+18,50,break bulk,Prometheus,valuable,FOB,50087,2,f
+18,70,wet bulk,Prometheus,living+,DES,79853,2,f
+18,80,RO/RO,Prometheus,fragile+++,DES,58383,2,f
+18,80,break bulk,Prometheus,fragile+++,CIF,37087,2,f
+18,60,wet bulk,Prometheus,perishable+++,FOB,73357,2,f
+18,80,RO/RO,Prometheus,flamable+,CIF,40483,2,f
+18,60,wet bulk,Prometheus,none,CIF,48083,2,f
+18,90,wet bulk,Prometheus,living+++,CIF,114836,2,f
+18,20,break bulk,Prometheus,perishable+++,CIF,30347,2,f
+18,40,dry bulk,Prometheus,fragile+,CIF,44299,2,f
+18,70,break bulk,Prometheus,flamable,DFD,92972,2,f
+18,70,break bulk,Prometheus,perishable++,DES,78997,2,f
+18,60,break bulk,Prometheus,living+,CIF,50488,2,f
+18,80,break bulk,Prometheus,none,CIF,53076,2,f
+18,50,wet bulk,Prometheus,biohazard+++,DES,51768,2,f
+18,30,break bulk,Prometheus,radioactive+++,DFD,26701,2,f
+18,30,wet bulk,Prometheus,fragile+,CIF,24379,2,f
+18,10,dry bulk,Prometheus,none,EXW,8168,2,f
+18,50,break bulk,Prometheus,fragile+++,CIF,48441,2,f
+18,70,dry bulk,Prometheus,none,DES,54875,2,f
+18,70,dry bulk,Prometheus,none,FOB,72248,2,f
+18,50,break bulk,Prometheus,living+,CIF,46239,2,f
+18,50,dry bulk,Prometheus,perishable,CIF,47062,2,f
+18,40,break bulk,Prometheus,fragile,EXW,30884,2,f
+18,60,wet bulk,Prometheus,none,CIF,48083,2,f
+18,50,break bulk,Prometheus,none,CIF,44037,2,f
+18,30,wet bulk,Prometheus,flamable,FAS,16884,2,f
+18,100,dry bulk,Prometheus,none,CIF,73753,2,f
+18,50,wet bulk,Prometheus,none,CIF,56137,2,f
+18,40,wet bulk,Prometheus,none,CIF,39770,2,f
+18,30,break bulk,Prometheus,none,DEQ,20567,2,f
+18,50,container,Prometheus,fragile++,CIF,52591,2,f
+18,50,break bulk,Prometheus,fragile,DFD,68406,2,f
+18,70,dry bulk,Prometheus,none,DFD,84300,2,f
+18,40,container,Prometheus,none,CIF,27670,2,f
+18,60,dry bulk,Prometheus,flamable+,CIF,58111,2,f
+18,30,break bulk,Prometheus,none,DFD,32002,2,f
+18,40,RO/RO,Prometheus,none,CIF,27670,2,f
+18,50,container,Prometheus,none,CIF,41012,2,f
+18,30,container,Prometheus,restricted++,DES,252230,2,f
+18,20,dry bulk,Prometheus,none,CIF,25168,2,f
+18,40,break bulk,Prometheus,valuable+++,CIF,49071,2,f
+18,60,dry bulk,Prometheus,none,CIF,58973,2,f
+18,40,break bulk,Prometheus,none,DFD,51922,2,f
+18,60,wet bulk,Prometheus,corrosive,CIF,66233,2,f
+18,70,break bulk,Prometheus,living,CIF,71815,2,f
+18,40,wet bulk,Prometheus,none,CIF,51870,2,f
+18,50,break bulk,Prometheus,living++,FAS,47062,2,f
+18,70,dry bulk,Prometheus,none,DFD,88746,2,f
+19,10,break bulk,Junction,none,FOB,9196,2,f
+19,30,wet bulk,Barnard,none,CIF,22530,2,M
+19,50,break bulk,Nusku,none,CIF,135234,6,MMM
+19,100,break bulk,Nusku,none,CIF,215468,6,MMM
+19,70,wet bulk,Nusku,flamable,CIF,228204,6,MMM
+19,70,dry bulk,Nusku,none,CIF,148162,6,MMM
+19,50,wet bulk,Nusku,fragile+,DFD,150260,6,MMM
+19,70,break bulk,Nusku,none,CIF,273942,6,MMM
+19,40,dry bulk,Nusku,living++,DFD,125274,6,MMM
+19,50,dry bulk,Nusku,none,DES,69894,6,MMM
+19,70,break bulk,Nusku,none,EXW,233340,6,MMM
+19,7,container,Inferno,none,CIF,19058,5,f--
+19,7,break bulk,Inferno,biohazard,CIF,14823,5,f--
+19,40,break bulk,Prometheus,fragile+++,EXW,34930,2,f
+19,20,break bulk,Prometheus,none,EXW,24830,2,f
+19,60,break bulk,Prometheus,valuable++,FAS,62603,2,f
+19,70,break bulk,Prometheus,none,CIF,71815,2,f
+19,60,wet bulk,Prometheus,none,CIF,62603,2,f
+19,60,wet bulk,Prometheus,corrosive,CIF,66233,2,f
+19,90,break bulk,Prometheus,corrosive++,CIF,58161,2,f
+19,60,wet bulk,Prometheus,none,FOB,38782,2,f
+19,90,wet bulk,Prometheus,none,CIF,77171,2,f
+19,80,container,Prometheus,none,CIF,62756,2,f
+19,40,container,Prometheus,perishable+++,DES,62381,2,f
+19,20,break bulk,Prometheus,radioactive,DES,18804,2,f
+19,80,break bulk,Prometheus,corrosive+,CIF,45565,2,f
+19,50,RO/RO,Prometheus,none,CIF,56137,2,f
+19,20,dry bulk,Prometheus,none,CIF,20328,2,f
+19,70,break bulk,Prometheus,none,CIF,71815,2,f
+19,30,break bulk,Prometheus,none,CIF,25033,2,f
+19,50,wet bulk,Prometheus,none,FOB,18845,2,f
+19,40,break bulk,Prometheus,perishable,DEQ,26512,2,f
+19,70,RO/RO,Prometheus,perishable+++,CIF,74338,2,f
+19,50,wet bulk,Prometheus,none,FOB,36088,2,f
+19,100,break bulk,Prometheus,none,DES,91903,2,f
+19,50,wet bulk,Prometheus,corrosive++,CIF,43063,2,f
+19,90,dry bulk,Prometheus,none,DEQ,81030,2,f
+19,30,wet bulk,Prometheus,biohazard+++,DES,31529,2,f
+19,30,break bulk,Prometheus,living,DES,41531,2,f
+19,10,dry bulk,Prometheus,none,DES,10890,2,f
+19,20,break bulk,Prometheus,none,DES,19118,2,f
+19,30,break bulk,Prometheus,none,CIF,30478,2,f
+19,30,container,Prometheus,none,CIF,34108,2,f
+19,10,break bulk,Prometheus,none,CIF,11495,2,f
+19,20,break bulk,Prometheus,none,DFD,27697,2,f
+19,60,break bulk,Prometheus,none,CIF,73493,2,f
+19,100,wet bulk,Prometheus,fragile++,EXW,61653,2,f
+19,60,wet bulk,Prometheus,none,CIF,55343,2,f
+19,70,container,Prometheus,none,FAS,68225,2,f
+19,50,wet bulk,Prometheus,perishable++,FOB,36710,2,f
+19,60,break bulk,Prometheus,none,FOB,56025,2,f
+19,60,dry bulk,Prometheus,fragile++,CIF,69545,2,f
+19,20,break bulk,Prometheus,none,DFD,23886,2,f
+19,80,dry bulk,Prometheus,none,DES,14356,2,f
+19,60,break bulk,Prometheus,living++,CIF,46676,2,f
+19,40,wet bulk,Prometheus,none,FOB,40080,2,f
+19,80,break bulk,Prometheus,living++,CIF,50647,2,f
+19,50,wet bulk,Prometheus,none,DES,25887,2,f
+19,60,break bulk,Prometheus,perishable+++,CIF,72857,2,f
+19,70,break bulk,Prometheus,fragile+++,FOB,66513,2,f
+19,100,wet bulk,Prometheus,corrosive,CIF,110053,2,f
+19,10,break bulk,Prometheus,fragile+,CIF,9529,2,f
+19,10,wet bulk,Prometheus,fragile++,CIF,12705,2,f
+19,60,break bulk,Prometheus,flamable+,CIF,65734,2,f
+19,20,dry bulk,Prometheus,none,DFD,22615,2,f
+19,40,wet bulk,Prometheus,none,DEQ,51922,2,f
+19,60,break bulk,Prometheus,none,CIF,51713,2,f
+19,40,break bulk,Prometheus,perishable+++,CIF,33099,2,f
+19,30,break bulk,Prometheus,fragile,DFD,33526,2,f
+19,40,break bulk,Prometheus,fragile,FOB,30090,2,f
+19,10,dry bulk,Prometheus,none,CIF,15125,2,f
+19,50,break bulk,Prometheus,none,CIF,31937,2,f
+19,30,break bulk,Prometheus,none,CIF,21403,2,f
+19,40,break bulk,Prometheus,corrosive,CIF,34930,2,f
+19,60,dry bulk,Prometheus,none,FAS,62922,2,f
+19,50,dry bulk,Prometheus,none,CIF,53112,2,f
+19,70,break bulk,Prometheus,none,DES,88755,2,f
+19,80,dry bulk,Prometheus,none,CIF,62756,2,f
+19,10,break bulk,Prometheus,perishable++,FOB,6988,2,f
+19,20,container,Prometheus,none,FAS,19312,2,f
+19,30,break bulk,Prometheus,none,CIF,34108,2,f
+19,30,break bulk,Prometheus,perishable++,CIF,26285,2,f
+19,2,wet bulk,Loki,living++,CIF,4550,4,f-
+19,25,break bulk,Peraspera,perishable+,CIF,16263,2,f
+19,8,break bulk,Procyon,none,FOB,14714,4,ff
+20,50,break bulk,Junction,none,CIF,41012,2,f
+20,35,wet bulk,Junction,none,DFD,23198,2,f
+20,30,dry bulk,Barnard,none,CIF,29064,2,M
+20,60,wet bulk,Nusku,none,DES,149427,6,MMM
+20,60,wet bulk,Nusku,flamable+,CIF,178419,6,MMM
+20,50,break bulk,Nusku,none,CIF,159736,6,MMM
+20,70,dry bulk,Nusku,none,CIF,251073,6,MMM
+20,80,wet bulk,Nusku,none,CIF,117168,6,MMM
+20,70,container,Nusku,corrosive,CIF,251073,6,MMM
+20,60,break bulk,Nusku,perishable+,EXW,122612,6,MMM
+20,2,dry bulk,Hades,corrosive+++,FOB,5313,4,f-
+20,3,wet bulk,Hades,fragile+++,EXW,6500,4,f-
+20,50,wet bulk,Prometheus,perishable,CIF,37987,2,f
+20,60,break bulk,Prometheus,biohazard+++,DEQ,63645,2,f
+20,70,wet bulk,Prometheus,none,DFD,70959,2,f
+20,50,break bulk,Prometheus,none,CIF,31937,2,f
+20,50,wet bulk,Prometheus,none,CIF,47062,2,f
+20,40,break bulk,Prometheus,fragile+++,CIF,43747,2,f
+20,40,break bulk,Prometheus,none,DFD,31594,2,f
+20,20,break bulk,Prometheus,none,FOB,18163,2,f
+20,40,break bulk,Prometheus,fragile+,DFD,46409,2,f
+20,90,break bulk,Prometheus,none,DES,60836,2,f
+20,90,break bulk,Prometheus,none,CIF,49946,2,f
+20,70,break bulk,Prometheus,explosive+++,DFD,82587,2,f
+20,60,dry bulk,Prometheus,none,EXW,53076,2,f
+20,30,break bulk,Prometheus,none,CIF,21403,2,f
+20,20,wet bulk,Prometheus,explosive+++,CIF,29016,2,f
+20,90,break bulk,Prometheus,none,CIF,66281,2,f
+20,60,break bulk,Prometheus,living++,CIF,65734,2,f
+20,70,dry bulk,Prometheus,none,DEQ,75406,2,f
+20,60,break bulk,Prometheus,none,CIF,51713,2,f
+20,60,wet bulk,Prometheus,living++,DEQ,68864,2,f
+20,20,dry bulk,Prometheus,none,CIF,21538,2,f
+20,70,dry bulk,Prometheus,none,DFD,93193,2,f
+20,40,container,Prometheus,explosive+++,CIF,38423,2,f
+20,60,wet bulk,Prometheus,living,DFD,44906,2,f
+20,60,break bulk,Prometheus,none,CIF,66233,2,f
+20,60,break bulk,Prometheus,biohazard++,DFD,42772,2,f
+20,80,break bulk,Prometheus,none,CIF,67596,2,f
+20,50,wet bulk,Prometheus,none,DES,34962,2,f
+20,30,RO/RO,Prometheus,none,DES,21403,2,f
+20,20,RO/RO,Prometheus,fragile++,DEQ,25023,2,f
+20,70,dry bulk,Prometheus,none,DFD,84300,2,f
+20,40,dry bulk,Prometheus,none,CIF,27670,2,f
+20,40,break bulk,Prometheus,fragile++,FOB,44299,2,f
+20,70,wet bulk,Prometheus,none,CIF,92990,2,f
+20,70,break bulk,Prometheus,none,FOB,84318,2,f
+20,20,dry bulk,Prometheus,none,CIF,28798,2,f
+20,50,dry bulk,Prometheus,none,CIF,34962,2,f
+20,40,break bulk,Prometheus,none,CIF,44610,2,f
+20,40,dry bulk,Prometheus,living+,CIF,39217,2,f
+20,40,break bulk,Prometheus,explosive,FOB,42190,2,f
+20,80,dry bulk,Prometheus,none,FOB,36628,2,f
+20,50,break bulk,Prometheus,none,CIF,50087,2,f
+20,60,break bulk,Prometheus,valuable+++,CIF,76850,2,f
+20,70,break bulk,Prometheus,none,FOB,60178,2,f
+20,60,RO/RO,Prometheus,none,CIF,48083,2,f
+20,70,wet bulk,Prometheus,none,CIF,88755,2,f
+20,50,break bulk,Prometheus,none,CIF,41012,2,f
+20,80,break bulk,Prometheus,none,EXW,47768,2,f
+20,70,dry bulk,Prometheus,none,CIF,92990,2,f
+20,100,dry bulk,Prometheus,none,CIF,85853,2,f
+20,60,break bulk,Prometheus,perishable+++,DEQ,63645,2,f
+20,70,break bulk,Prometheus,none,FOB,72248,2,f
+20,90,dry bulk,Prometheus,flamable++,CIF,86747,2,f
+20,60,break bulk,Prometheus,none,CIF,66233,2,f
+20,80,break bulk,Prometheus,perishable,DEQ,30319,2,f
+20,40,break bulk,Prometheus,flamable+,DES,46840,2,f
+20,80,break bulk,Prometheus,none,DFD,45565,2,f
+20,30,container,Prometheus,perishable++,DES,23543,2,f
+20,30,container,Prometheus,flamable+++,CIF,27536,2,f
+20,45,break bulk,Peraspera,flamable+++,DEQ,49928,2,f
+20,8,break bulk,Procyon,none,CIF,23232,4,ff
+20,6,container,Procyon,radioactive+,CIF,18986,4,ff
+21,20,break bulk,Barnard,fragile+,CIF,25060,2,M
+21,2,dry bulk,Agidda,none,CIF,3247,4,MM
+21,20,break bulk,Nusku,explosive,DEQ,85523,6,MMM
+21,90,break bulk,Nusku,fragile+,DEQ,264183,6,MMM
+21,50,break bulk,Nusku,flamable,EXW,150862,6,MMM
+21,50,wet bulk,Nusku,perishable++,EXW,118899,6,MMM
+21,60,break bulk,Nusku,none,DES,110223,6,MMM
+21,60,break bulk,Nusku,none,CIF,120024,6,MMM
+21,70,break bulk,Nusku,none,CIF,193900,6,MMM
+21,40,break bulk,Nusku,none,CIF,126980,6,MMM
+21,70,RO/RO,Nusku,radioactive++,CIF,204673,6,MMM
+21,50,break bulk,Nusku,perishable+,CIF,108262,6,MMM
+21,20,RO/RO,Nusku,biohazard+,DEQ,79134,6,MMM
+21,40,wet bulk,Nusku,none,CIF,87776,6,MMM
+21,50,dry bulk,Nusku,none,CIF,102564,6,MMM
+21,10,break bulk,Nusku,fragile++,DES,36300,6,MMM
+21,70,wet bulk,Nusku,none,DFD,192603,6,MMM
+21,90,break bulk,Nusku,explosive,CIF,193660,6,MMM
+21,60,break bulk,Nusku,none,FOB,104099,6,MMM
+21,10,wet bulk,Nusku,flamable++,CIF,32761,6,MMM
+21,50,wet bulk,Prometheus,valuable,CIF,41012,2,f
+21,40,dry bulk,Prometheus,none,FAS,44678,2,f
+21,20,dry bulk,Prometheus,none,CIF,23958,2,f
+21,80,break bulk,Prometheus,none,CIF,43396,2,f
+21,40,wet bulk,Prometheus,corrosive+++,CIF,46409,2,f
+21,70,break bulk,Prometheus,none,DEQ,79853,2,f
+21,90,RO/RO,Prometheus,none,CIF,66281,2,f
+21,30,break bulk,Prometheus,none,CIF,32293,2,f
+21,20,break bulk,Prometheus,restricted,CIF,40656,2,f
+21,80,break bulk,Prometheus,flamable,DES,30319,2,f
+21,20,container,Prometheus,radioactive+,CIF,26427,2,f
+21,10,break bulk,Prometheus,none,EXW,9257,2,f
+21,50,wet bulk,Prometheus,none,DFD,55768,2,f
+21,80,dry bulk,Prometheus,perishable,DEQ,55729,2,f
+21,50,dry bulk,Prometheus,none,CIF,41012,2,f
+21,40,wet bulk,Prometheus,none,CIF,47030,2,f
+21,30,container,Prometheus,radioactive+,CIF,26285,2,f
+21,70,break bulk,Prometheus,none,CIF,80285,2,f
+21,50,break bulk,Prometheus,living+,FOB,44037,2,f
+21,60,dry bulk,Prometheus,fragile,EXW,42231,2,f
+21,90,dry bulk,Prometheus,fragile+,EXW,62967,2,f
+21,80,break bulk,Prometheus,none,DES,38556,2,f
+21,60,break bulk,Prometheus,none,CIF,69863,2,f
+21,50,break bulk,Prometheus,corrosive+,CIF,36710,2,f
+21,50,RO/RO,Prometheus,none,DFD,30358,2,f
+21,50,wet bulk,Prometheus,none,DEQ,30358,2,f
+21,40,container,Prometheus,none,CIF,42190,2,f
+21,60,wet bulk,Prometheus,perishable+++,DFD,71994,2,f
+21,40,break bulk,Prometheus,none,CIF,49450,2,f
+21,50,break bulk,Prometheus,none,FAS,36088,2,f
+21,60,wet bulk,Prometheus,corrosive++,CIF,65734,2,f
+21,60,break bulk,Prometheus,none,CIF,66233,2,f
+21,20,break bulk,Prometheus,none,CIF,23958,2,f
+21,40,dry bulk,Prometheus,none,CIF,25250,2,f
+21,20,break bulk,Prometheus,none,CIF,25168,2,f
+21,20,break bulk,Prometheus,none,CIF,17908,2,f
+21,70,wet bulk,Prometheus,none,DES,76050,2,f
+21,70,break bulk,Prometheus,fragile++,CIF,53172,2,f
+21,60,wet bulk,Prometheus,none,DFD,54299,2,f
+21,30,container,Prometheus,none,CIF,34108,2,f
+21,70,break bulk,Prometheus,none,CIF,97225,2,f
+21,30,dry bulk,Prometheus,corrosive++,DES,27536,2,f
+21,100,break bulk,Prometheus,none,EXW,88158,2,f
+21,50,dry bulk,Prometheus,fragile++,CIF,46239,2,f
+21,50,RO/RO,Prometheus,flamable,DES,46239,2,f
+21,80,break bulk,Prometheus,none,CIF,67596,2,f
+21,30,break bulk,Prometheus,none,CIF,32293,2,f
+21,50,wet bulk,Prometheus,fragile,CIF,34962,2,f
+21,50,break bulk,Prometheus,corrosive++,FAS,37987,2,f
+21,50,break bulk,Prometheus,flamable++,DFD,54121,2,f
+21,30,break bulk,Prometheus,none,FOB,27230,2,f
+21,20,wet bulk,Prometheus,fragile,CIF,26379,2,f
+21,30,wet bulk,Prometheus,flamable,DFD,27536,2,f
+21,80,break bulk,Prometheus,none,CIF,72436,2,f
+21,30,break bulk,Prometheus,none,DFD,39625,2,f
+21,20,break bulk,Prometheus,radioactive,CIF,23958,2,f
+21,90,wet bulk,Prometheus,none,DES,60836,2,f
+21,40,container,Prometheus,none,CIF,30090,2,f
+21,10,break bulk,Prometheus,living+++,CIF,11979,2,f
+21,70,break bulk,Prometheus,none,FAS,80294,2,f
+21,40,wet bulk,Prometheus,none,CIF,39770,2,f
+21,70,wet bulk,Prometheus,none,CIF,59110,2,f
+21,50,RO/RO,Prometheus,none,CIF,37987,2,f
+21,100,break bulk,Prometheus,none,CIF,67703,2,f
+21,15,break bulk,Peraspera,none,DES,21599,2,f
