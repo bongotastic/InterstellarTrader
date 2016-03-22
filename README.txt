@@ -7,3 +7,8 @@ The files called lib_* shouldn't be touched unless you really know what you are 
 Random tables are encoded as simple text files in the tables folder. Look for examples and replicate.
 
 Systems are clunkily described at the moment. I'll get a fix for this soon enough. 
+
+This code was written using Python 2.7. It probably will complain with Python 3.X. I hope that I cared 
+enough to test the code and probably will soon.
+
+Christian
