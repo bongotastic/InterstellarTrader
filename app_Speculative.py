@@ -26,6 +26,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 # Name of the table
 outfile_name = '500cargoes.txt'
 
+# Number of cargoes
+N = 500
+
 
 ## Script ( No need to edit below this) ########################################
 ##
@@ -37,7 +40,7 @@ import lib_Speculative as libS
 import os.path
 
 fout = open(os.path.join('outputs', '500cargoes.txt'), 'w')
-for i in range(500):
+for i in range(N):
     stock = libS.GetOneCargo()
     fout.write('Cargo %d -------------------------\n'%(i+1)  + libS.PrettyPrint(stock) + '\n\n')
 fout.close()
