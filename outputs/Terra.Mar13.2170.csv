@@ -1,0 +1,46 @@
+Day,dT,Type,Destination,Handling,Terms,Expected bid,Distance,route
+0,3,container,Nusku,none,DES,13640,6,MMM
+0,2,break bulk,Nusku,perishable++,DFD,11428,6,MMM
+0,3,break bulk,Prometheus,fragile,CIF,3882,2,f
+0,4,RO/RO,Prometheus,none,CIF,5696,2,f
+0,2,container,Dismal,none,EXW,7338,6,f--
+2,2,wet bulk,Forlorn,fragile++,DFD,11619,6,f--
+3,2,RO/RO,Prometheus,none,CIF,2848,2,f
+4,2,break bulk,Prometheus,none,DES,2718,2,f
+5,4,break bulk,Prometheus,none,DFD,5435,2,f
+6,2,break bulk,Inferno,corrosive+++,CIF,7117,5,f--
+7,2,break bulk,Agidda,explosive+++,DEQ,7619,4,MM
+7,4,break bulk,Prometheus,flamable+++,CIF,5122,2,f
+8,2,wet bulk,Barnard,fragile+++,CIF,2718,2,M
+8,3,break bulk,Prometheus,flamable+,CIF,3052,2,f
+8,2,break bulk,Peraspera,fragile++,CIF,2854,2,f
+9,2,wet bulk,Remulak,corrosive+,EXW,9834,8,fff-
+9,2,break bulk,Hades,none,CIF,5956,4,f-
+9,4,dry bulk,Prometheus,flamable+++,FOB,6254,2,f
+10,2,break bulk,Prometheus,none,DEQ,2718,2,f
+10,3,break bulk,Prometheus,none,DEQ,3257,2,f
+11,2,break bulk,Nusku,none,DES,8742,6,MMM
+11,2,break bulk,Peraspera,flamable,FOB,3498,2,f
+13,5,break bulk,Nusku,none,CIF,15713,6,MMM
+13,2,break bulk,Ys,none,DEQ,9493,6,fff
+14,2,break bulk,Prometheus,none,CIF,2651,2,f
+14,4,dry bulk,Prometheus,living+++,EXW,6270,2,f
+14,2,break bulk,Prometheus,none,CIF,2530,2,f
+14,2,dry bulk,Procyon,corrosive++,FOB,3534,4,ff
+15,2,break bulk,Hephaistos,none,FAS,6008,5,f--
+15,2,wet bulk,Junction,flamable+,CIF,2275,2,f
+15,3,dry bulk,Nusku,none,CIF,9265,6,MMM
+16,3,break bulk,Prometheus,corrosive+++,CIF,4773,2,f
+16,4,RO/RO,Prometheus,none,CIF,4576,2,f
+17,3,container,Prometheus,none,DES,3795,2,f
+17,2,container,Prometheus,corrosive++,CIF,2403,2,f
+18,2,dry bulk,Barnard,fragile++,EXW,2168,2,M
+18,4,break bulk,Prometheus,none,DEQ,5313,2,f
+18,3,RO/RO,Prometheus,fragile++,CIF,3794,2,f
+19,2,wet bulk,Prometheus,fragile+,CIF,3038,2,f
+19,3,container,Prometheus,living+,CIF,3222,2,f
+19,4,RO/RO,Prometheus,flamable,DEQ,5567,2,f
+20,2,break bulk,Junction,none,FAS,3093,2,f
+20,4,container,Prometheus,none,DFD,5567,2,f
+20,2,break bulk,Prometheus,none,CIF,1925,2,f
+20,2,break bulk,Midway,none,CIF,3250,3,f-

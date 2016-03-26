@@ -1,0 +1,3 @@
+3-10	male
+11-17	female
+18+	transgender

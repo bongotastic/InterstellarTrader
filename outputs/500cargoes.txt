@@ -1,1758 +1,49 @@
 Cargo 1 -------------------------
-Type: Machinery, Parts [160 dT (1280.0 T)]
-Cost: 8.0 MCr
+Type: Polymers [30 dT (150.0 T)]
+Cost: 360.0 KCr
 Handling: break bulk
-Legality: LC5 - (safe)
+Legality: LC2 - (Military)
 Price Volatility: low
 
 Cargo 2 -------------------------
-Type: Electronic Parts [10 dT (20.0 T)]
-Cost: 500.0 KCr
+Type: Wood Products [110 dT (550.0 T)]
+Cost: 220.0 KCr
 Handling: break bulk
-Legality: LC3 - (Controlled)
+Legality: LC5 - (safe)
 Price Volatility: medium
-Quirk: stigmatized
+Quirk: fragile
 
 Cargo 3 -------------------------
-Type: Computers [8 dT (40.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 4 -------------------------
-Type: Gemstones [6 dT (3.0 T)]
-Cost: 60.0 MCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 5 -------------------------
-Type: Gravitic Units [10 dT (40.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 6 -------------------------
-Type: Entertainment Gears [5 dT (25.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 7 -------------------------
-Type: Heavy Metal [6 dT (150.0 T)]
-Cost: 120.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 8 -------------------------
-Type: Livestock [55 dT (55.0 T)]
-Cost: 55.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 9 -------------------------
-Type: Ceramics [8 dT (80.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 10 -------------------------
 Type: Ground Vehicles [65 dT (195.0 T)]
 Cost: 2.6 MCr
-Handling: RO/RO
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 11 -------------------------
-Type: Manufactured Goods [10 dT (80.0 T)]
-Cost: 500.0 KCr
-Handling: container
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 12 -------------------------
-Type: Special Minerals [1 dT (10.0 T)]
-Cost: 750.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 13 -------------------------
-Type: Heavy Metal [6 dT (150.0 T)]
-Cost: 120.0 MCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 14 -------------------------
-Type: Entertainment Gears [8 dT (40.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 15 -------------------------
-Type: Industrial Metals [6 dT (150.0 T)]
-Cost: 450.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 16 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 17 -------------------------
-Type: Perishables [120 dT (600.0 T)]
-Cost: 288.0 KCr
-Handling: dry bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 18 -------------------------
-Type: Meat, Fish [5 dT (40.0 T)]
-Cost: 100.0 KCr
-Handling: container
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 19 -------------------------
-Type: Lanthanum [1 dT (10.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 20 -------------------------
-Type: Lanthanum [1 dT (10.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 21 -------------------------
-Type: Polymers [55 dT (275.0 T)]
-Cost: 660.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 22 -------------------------
-Type: Perishables [180 dT (900.0 T)]
-Cost: 432.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 23 -------------------------
-Type: Wood Products [230 dT (1150.0 T)]
-Cost: 460.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 24 -------------------------
-Type: Electronic Parts [15 dT (30.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: high
-
-Cargo 25 -------------------------
-Type: Industrial Crystals [2 dT (20.0 T)]
-Cost: 4.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: high
-Quirk: stigmatized
-
-Cargo 26 -------------------------
-Type: Baked goods [40 dT (400.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 27 -------------------------
-Type: Electronic Parts [30 dT (60.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 28 -------------------------
-Type: Special Minerals [5 dT (50.0 T)]
-Cost: 3.8 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 29 -------------------------
-Type: Electronic Parts [25 dT (50.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 30 -------------------------
-Type: Protective Equipment [5 dT (10.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 31 -------------------------
-Type: Special Minerals [6 dT (60.0 T)]
-Cost: 4.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 32 -------------------------
-Type: Manufactured Goods [16 dT (128.0 T)]
-Cost: 800.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 33 -------------------------
-Type: Tools [25 dT (250.0 T)]
-Cost: 500.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 34 -------------------------
-Type: Electronic Parts [25 dT (50.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 35 -------------------------
-Type: Petrochemicals [20 dT (140.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 36 -------------------------
-Type: Perishables [130 dT (650.0 T)]
-Cost: 312.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 37 -------------------------
-Type: Perishables [110 dT (550.0 T)]
-Cost: 264.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high end
-
-Cargo 38 -------------------------
-Type: Light Metals [35 dT (875.0 T)]
-Cost: 350.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 39 -------------------------
-Type: Meat, Fish [5 dT (40.0 T)]
-Cost: 100.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 40 -------------------------
-Type: Lanthanum [2 dT (20.0 T)]
-Cost: 10.0 MCr
-Handling: dry bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 41 -------------------------
-Type: Petrochemicals [55 dT (385.0 T)]
-Cost: 825.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high end
-
-Cargo 42 -------------------------
-Type: Gemstones [2 dT (1.0 T)]
-Cost: 20.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high end
-
-Cargo 43 -------------------------
-Type: Artwork, Handicrafts [10 dT (50.0 T)]
-Cost: 100.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 44 -------------------------
-Type: Alcoholic Beverages [9 dT (63.0 T)]
-Cost: 67.5 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 45 -------------------------
-Type: Petrochemicals [30 dT (210.0 T)]
-Cost: 450.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-
-Cargo 46 -------------------------
-Type: Grav Vehicles [25 dT (75.0 T)]
-Cost: 6.2 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 47 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC1 - (Restricted)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 48 -------------------------
-Type: Entertainment Gears [4 dT (20.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 49 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-
-Cargo 50 -------------------------
-Type: Grav Vehicles [15 dT (45.0 T)]
-Cost: 3.8 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 51 -------------------------
-Type: Industrial Crystals [5 dT (50.0 T)]
-Cost: 10.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 52 -------------------------
-Type: Artwork, Media [6 dT (12.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 53 -------------------------
-Type: Polymers [75 dT (375.0 T)]
-Cost: 900.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: high
-Quirk: radioactive
-
-Cargo 54 -------------------------
-Type: Industrial Crystals [3 dT (30.0 T)]
-Cost: 6.0 MCr
-Handling: dry bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 55 -------------------------
-Type: Pharmaceuticals [3 dT (6.0 T)]
-Cost: 360.0 KCr
-Handling: break bulk
-Legality: LC1 - (Restricted)
-Price Volatility: low
-
-Cargo 56 -------------------------
-Type: Precision Instruments [7 dT (49.0 T)]
-Cost: 2.8 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 57 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: high
-Quirk: low quality
-
-Cargo 58 -------------------------
-Type: Machinery, Parts [120 dT (960.0 T)]
-Cost: 6.0 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 59 -------------------------
-Type: Ceramics [4 dT (40.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 60 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
-Cost: 600.0 KCr
-Handling: container
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 61 -------------------------
-Type: Light Metals [30 dT (750.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 62 -------------------------
-Type: Livestock [65 dT (65.0 T)]
-Cost: 65.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 63 -------------------------
-Type: Protective Equipment [4 dT (8.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 64 -------------------------
-Type: Heavy Metal [2 dT (50.0 T)]
-Cost: 40.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 65 -------------------------
-Type: Electronic Parts [20 dT (40.0 T)]
-Cost: 1.0 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 66 -------------------------
-Type: Special Minerals [3 dT (30.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 67 -------------------------
-Type: Shelters [9 dT (72.0 T)]
-Cost: 108.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 68 -------------------------
-Type: Manufactured Goods [10 dT (80.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 69 -------------------------
-Type: Petrochemicals [35 dT (245.0 T)]
-Cost: 525.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: stigmatized
 
-Cargo 70 -------------------------
-Type: Radioisotopes [4 dT (40.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 71 -------------------------
-Type: Shelters [12 dT (96.0 T)]
-Cost: 144.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 72 -------------------------
-Type: Wood Products [210 dT (1050.0 T)]
-Cost: 420.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: high
-
-Cargo 73 -------------------------
-Type: Protective Equipment [2 dT (4.0 T)]
-Cost: 800.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 74 -------------------------
-Type: Ceramics [7 dT (70.0 T)]
-Cost: 105.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 75 -------------------------
-Type: Manufactured Goods [9 dT (72.0 T)]
-Cost: 450.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-
-Cargo 76 -------------------------
-Type: Baked goods [45 dT (450.0 T)]
-Cost: 225.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 77 -------------------------
-Type: Grav Vehicles [5 dT (15.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 78 -------------------------
-Type: Wood Products [180 dT (900.0 T)]
-Cost: 360.0 KCr
-Handling: dry bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 79 -------------------------
-Type: Livestock [75 dT (75.0 T)]
-Cost: 75.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 80 -------------------------
-Type: Heavy Metal [5 dT (125.0 T)]
-Cost: 100.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 81 -------------------------
-Type: Light Metals [20 dT (500.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 82 -------------------------
-Type: Ammunition [3 dT (21.0 T)]
-Cost: 360.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 83 -------------------------
-Type: Livestock [55 dT (55.0 T)]
-Cost: 55.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 84 -------------------------
-Type: Special Minerals [4 dT (40.0 T)]
-Cost: 3.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 85 -------------------------
-Type: Industrial Metals [7 dT (175.0 T)]
-Cost: 525.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 86 -------------------------
-Type: Manufactured Goods [5 dT (40.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 87 -------------------------
-Type: Computers [9 dT (45.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 88 -------------------------
-Type: Radioisotopes [1 dT (10.0 T)]
-Cost: 100.0 KCr
-Handling: dry bulk
-Legality: LC1 - (Restricted)
-Price Volatility: medium
-
-Cargo 89 -------------------------
-Type: Ground Vehicles [55 dT (165.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 90 -------------------------
+Cargo 4 -------------------------
 Type: Pharmaceuticals [6 dT (12.0 T)]
 Cost: 720.0 KCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 91 -------------------------
-Type: Tools [30 dT (300.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 92 -------------------------
-Type: Artwork, Media [3 dT (6.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 93 -------------------------
-Type: Entertainment Gears [7 dT (35.0 T)]
-Cost: 350.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: high
-Quirk: high tech
-
-Cargo 94 -------------------------
-Type: Gemstones [5 dT (2.5 T)]
-Cost: 50.0 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 95 -------------------------
-Type: Electronic Parts [10 dT (20.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: high
-Quirk: fragile
-
-Cargo 96 -------------------------
-Type: Industrial Crystals [6 dT (60.0 T)]
-Cost: 12.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 97 -------------------------
-Type: Precision Instruments [6 dT (42.0 T)]
-Cost: 2.4 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 98 -------------------------
-Type: Gravitic Units [25 dT (100.0 T)]
-Cost: 4.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 99 -------------------------
-Type: Lanthanum [1 dT (10.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 100 -------------------------
-Type: Textiles [50 dT (200.0 T)]
-Cost: 1.5 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 101 -------------------------
-Type: Computers [7 dT (35.0 T)]
-Cost: 1.8 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 102 -------------------------
-Type: Textiles [65 dT (260.0 T)]
-Cost: 1.9 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 103 -------------------------
-Type: Artwork, Handicrafts [3 dT (15.0 T)]
-Cost: 30.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 104 -------------------------
-Type: Ammunition [1 dT (7.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 105 -------------------------
-Type: Polymers [35 dT (175.0 T)]
-Cost: 420.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 106 -------------------------
-Type: Petrochemicals [40 dT (280.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 107 -------------------------
-Type: Petrochemicals [10 dT (70.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high end
-
-Cargo 108 -------------------------
-Type: Petrochemicals [40 dT (280.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 109 -------------------------
-Type: Entertainment Gears [11 dT (55.0 T)]
-Cost: 550.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 110 -------------------------
-Type: Special Minerals [3 dT (30.0 T)]
-Cost: 2.2 MCr
-Handling: dry bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 111 -------------------------
-Type: Computers [8 dT (40.0 T)]
-Cost: 2.0 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: defective
-
-Cargo 112 -------------------------
-Type: Radioisotopes [2 dT (20.0 T)]
-Cost: 200.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-
-Cargo 113 -------------------------
-Type: Ground Vehicles [45 dT (135.0 T)]
-Cost: 1.8 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 114 -------------------------
-Type: Computers [9 dT (45.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 115 -------------------------
-Type: Petrochemicals [15 dT (105.0 T)]
-Cost: 225.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: high
-Quirk: fragile
-
-Cargo 116 -------------------------
-Type: Ceramics [6 dT (60.0 T)]
-Cost: 90.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 117 -------------------------
-Type: Meat, Fish [20 dT (160.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 118 -------------------------
-Type: Alcoholic Beverages [7 dT (49.0 T)]
-Cost: 52.5 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 119 -------------------------
-Type: Machinery, Parts [150 dT (1200.0 T)]
-Cost: 7.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 120 -------------------------
-Type: Special Minerals [2 dT (20.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 121 -------------------------
-Type: Textiles [45 dT (180.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 122 -------------------------
-Type: Ceramics [9 dT (90.0 T)]
-Cost: 135.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 123 -------------------------
-Type: Radioisotopes [4 dT (40.0 T)]
-Cost: 400.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 124 -------------------------
-Type: Petrochemicals [50 dT (350.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 125 -------------------------
-Type: Baked goods [25 dT (250.0 T)]
-Cost: 125.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 126 -------------------------
-Type: Electronic Parts [15 dT (30.0 T)]
-Cost: 750.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: fragile
 
-Cargo 127 -------------------------
-Type: Ceramics [10 dT (100.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 128 -------------------------
-Type: Ceramics [5 dT (50.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 129 -------------------------
-Type: Gemstones [3 dT (1.5 T)]
-Cost: 30.0 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 130 -------------------------
-Type: Computers [5 dT (25.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 131 -------------------------
-Type: Artwork, Media [3 dT (6.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 132 -------------------------
-Type: Pharmaceuticals [2 dT (4.0 T)]
-Cost: 240.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 133 -------------------------
-Type: Livestock [65 dT (65.0 T)]
-Cost: 65.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 134 -------------------------
-Type: Alcoholic Beverages [7 dT (49.0 T)]
-Cost: 52.5 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 135 -------------------------
-Type: Shelters [10 dT (80.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 136 -------------------------
-Type: Ceramics [7 dT (70.0 T)]
-Cost: 105.0 KCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 137 -------------------------
-Type: Ground Vehicles [35 dT (105.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 138 -------------------------
-Type: Ground Vehicles [60 dT (180.0 T)]
-Cost: 2.4 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 139 -------------------------
-Type: Industrial Crystals [1 dT (10.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 140 -------------------------
-Type: Shelters [12 dT (96.0 T)]
-Cost: 144.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 141 -------------------------
-Type: Pharmaceuticals [2 dT (4.0 T)]
-Cost: 240.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 142 -------------------------
-Type: Ammunition [6 dT (42.0 T)]
-Cost: 720.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 143 -------------------------
-Type: Alcoholic Beverages [8 dT (56.0 T)]
-Cost: 60.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 144 -------------------------
-Type: Light Metals [30 dT (750.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 145 -------------------------
-Type: Ammunition [4 dT (28.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 146 -------------------------
-Type: Livestock [55 dT (55.0 T)]
-Cost: 55.0 KCr
-Handling: wet bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 147 -------------------------
-Type: Spices [10 dT (70.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 148 -------------------------
-Type: Alcoholic Beverages [6 dT (42.0 T)]
-Cost: 45.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 149 -------------------------
-Type: Baked goods [50 dT (500.0 T)]
-Cost: 250.0 KCr
-Handling: dry bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 150 -------------------------
-Type: Spices [30 dT (210.0 T)]
-Cost: 180.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 151 -------------------------
-Type: Industrial Metals [3 dT (75.0 T)]
-Cost: 225.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 152 -------------------------
-Type: Gravitic Units [30 dT (120.0 T)]
-Cost: 4.8 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 153 -------------------------
-Type: Ceramics [5 dT (50.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 154 -------------------------
-Type: Baked goods [35 dT (350.0 T)]
-Cost: 175.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 155 -------------------------
-Type: Ceramics [7 dT (70.0 T)]
-Cost: 105.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 156 -------------------------
-Type: Heavy Metal [6 dT (150.0 T)]
-Cost: 120.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 157 -------------------------
-Type: Textiles [45 dT (180.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: corrosive
-
-Cargo 158 -------------------------
-Type: Ceramics [6 dT (60.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 159 -------------------------
-Type: Gravitic Units [25 dT (100.0 T)]
-Cost: 4.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 160 -------------------------
-Type: Industrial Crystals [6 dT (60.0 T)]
-Cost: 12.0 MCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 161 -------------------------
-Type: Shelters [15 dT (120.0 T)]
-Cost: 180.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 162 -------------------------
+Cargo 5 -------------------------
 Type: Lanthanum [5 dT (50.0 T)]
 Cost: 25.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 163 -------------------------
-Type: Baked goods [45 dT (450.0 T)]
-Cost: 225.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 164 -------------------------
-Type: Polymers [55 dT (275.0 T)]
-Cost: 660.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 165 -------------------------
-Type: Gemstones [4 dT (2.0 T)]
-Cost: 40.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 166 -------------------------
-Type: Tools [30 dT (300.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: corrosive
-
-Cargo 167 -------------------------
-Type: Industrial Crystals [4 dT (40.0 T)]
-Cost: 8.0 MCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 168 -------------------------
-Type: Entertainment Gears [8 dT (40.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 169 -------------------------
-Type: Protective Equipment [4 dT (8.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 170 -------------------------
-Type: Entertainment Devices [30 dT (120.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
 Price Volatility: low
-Quirk: corrosive
 
-Cargo 171 -------------------------
-Type: Machinery, Parts [130 dT (1040.0 T)]
-Cost: 6.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 172 -------------------------
-Type: Livestock [75 dT (75.0 T)]
-Cost: 75.0 KCr
+Cargo 6 -------------------------
+Type: Machinery, Parts [120 dT (960.0 T)]
+Cost: 6.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
-Quirk: radioactive
 
-Cargo 173 -------------------------
-Type: Ground Vehicles [75 dT (225.0 T)]
-Cost: 3.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 174 -------------------------
-Type: Meat, Fish [30 dT (240.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 175 -------------------------
-Type: Textiles [65 dT (260.0 T)]
-Cost: 1.9 MCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 176 -------------------------
-Type: Manufactured Goods [6 dT (48.0 T)]
-Cost: 300.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 177 -------------------------
-Type: Computers [8 dT (40.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: high
-
-Cargo 178 -------------------------
-Type: Meat, Fish [30 dT (240.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 179 -------------------------
-Type: Electronic Parts [15 dT (30.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 180 -------------------------
-Type: Baked goods [50 dT (500.0 T)]
-Cost: 250.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 181 -------------------------
-Type: Computers [6 dT (30.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 182 -------------------------
-Type: Industrial Metals [11 dT (275.0 T)]
-Cost: 825.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 183 -------------------------
-Type: Grav Vehicles [5 dT (15.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 184 -------------------------
-Type: Tools [10 dT (100.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 185 -------------------------
-Type: Gemstones [2 dT (1.0 T)]
-Cost: 20.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 186 -------------------------
-Type: Spices [10 dT (70.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 187 -------------------------
-Type: Machinery, Parts [160 dT (1280.0 T)]
-Cost: 8.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 188 -------------------------
-Type: Special Minerals [6 dT (60.0 T)]
-Cost: 4.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 189 -------------------------
-Type: Livestock [50 dT (50.0 T)]
-Cost: 50.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 190 -------------------------
-Type: Gemstones [1 dT (0.5 T)]
-Cost: 10.0 MCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 191 -------------------------
-Type: Alcoholic Beverages [5 dT (35.0 T)]
-Cost: 37.5 KCr
-Handling: wet bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 192 -------------------------
-Type: Livestock [60 dT (60.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: high
-
-Cargo 193 -------------------------
-Type: Perishables [170 dT (850.0 T)]
-Cost: 408.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high end
-
-Cargo 194 -------------------------
-Type: Gravitic Units [5 dT (20.0 T)]
-Cost: 800.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 195 -------------------------
-Type: Industrial Crystals [2 dT (20.0 T)]
-Cost: 4.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 196 -------------------------
-Type: Artwork, Media [1 dT (2.0 T)]
-Cost: 50.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 197 -------------------------
-Type: Livestock [60 dT (60.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: high
-Quirk: fragile
-
-Cargo 198 -------------------------
-Type: Entertainment Gears [7 dT (35.0 T)]
-Cost: 350.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 199 -------------------------
-Type: Industrial Crystals [1 dT (10.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 200 -------------------------
-Type: Textiles [70 dT (280.0 T)]
-Cost: 2.1 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 201 -------------------------
-Type: Wood Products [170 dT (850.0 T)]
-Cost: 340.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 202 -------------------------
-Type: Meat, Fish [20 dT (160.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 203 -------------------------
-Type: Electronic Parts [30 dT (60.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 204 -------------------------
-Type: Artwork, Handicrafts [7 dT (35.0 T)]
-Cost: 70.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 205 -------------------------
-Type: Protective Equipment [5 dT (10.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 206 -------------------------
-Type: Petrochemicals [45 dT (315.0 T)]
-Cost: 675.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 207 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 208 -------------------------
-Type: Protective Equipment [1 dT (2.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 209 -------------------------
-Type: Baked goods [50 dT (500.0 T)]
-Cost: 250.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 210 -------------------------
-Type: Gravitic Units [5 dT (20.0 T)]
-Cost: 800.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 211 -------------------------
-Type: Machinery, Parts [100 dT (800.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 212 -------------------------
-Type: Alcoholic Beverages [9 dT (63.0 T)]
-Cost: 67.5 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 213 -------------------------
-Type: Petrochemicals [15 dT (105.0 T)]
-Cost: 225.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 214 -------------------------
-Type: Ceramics [5 dT (50.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 215 -------------------------
-Type: Shelters [12 dT (96.0 T)]
-Cost: 144.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 216 -------------------------
-Type: Precision Instruments [4 dT (28.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 217 -------------------------
-Type: Baked goods [35 dT (350.0 T)]
-Cost: 175.0 KCr
-Handling: dry bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 218 -------------------------
-Type: Electronic Parts [25 dT (50.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: high
-Quirk: low tech
-
-Cargo 219 -------------------------
-Type: Ground Vehicles [65 dT (195.0 T)]
-Cost: 2.6 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 220 -------------------------
-Type: Precision Instruments [10 dT (70.0 T)]
-Cost: 4.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 221 -------------------------
-Type: Machinery, Parts [180 dT (1440.0 T)]
-Cost: 9.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 222 -------------------------
-Type: Livestock [80 dT (80.0 T)]
-Cost: 80.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 223 -------------------------
-Type: Computers [8 dT (40.0 T)]
-Cost: 2.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 224 -------------------------
-Type: Industrial Metals [11 dT (275.0 T)]
-Cost: 825.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 225 -------------------------
-Type: Alcoholic Beverages [7 dT (49.0 T)]
-Cost: 52.5 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 226 -------------------------
-Type: Lanthanum [1 dT (10.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: biohazard
-
-Cargo 227 -------------------------
-Type: Tools [10 dT (100.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 228 -------------------------
-Type: Computers [6 dT (30.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 229 -------------------------
+Cargo 7 -------------------------
 Type: Entertainment Gears [9 dT (45.0 T)]
 Cost: 450.0 KCr
 Handling: break bulk
@@ -1760,238 +51,1228 @@ Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: radioactive
 
-Cargo 230 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 231 -------------------------
-Type: Tools [25 dT (250.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 232 -------------------------
-Type: Machinery, Parts [130 dT (1040.0 T)]
-Cost: 6.5 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 233 -------------------------
-Type: Grav Vehicles [15 dT (45.0 T)]
-Cost: 3.8 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 234 -------------------------
-Type: Precision Instruments [11 dT (77.0 T)]
-Cost: 4.4 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 235 -------------------------
-Type: Ground Vehicles [60 dT (180.0 T)]
-Cost: 2.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 236 -------------------------
-Type: Meat, Fish [25 dT (200.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 237 -------------------------
-Type: Spices [25 dT (175.0 T)]
-Cost: 150.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 238 -------------------------
-Type: Artwork, Handicrafts [5 dT (25.0 T)]
-Cost: 50.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 239 -------------------------
-Type: Wood Products [150 dT (750.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 240 -------------------------
-Type: Baked goods [50 dT (500.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 241 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
-Cost: 600.0 KCr
-Handling: dry bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 242 -------------------------
-Type: Gemstones [6 dT (3.0 T)]
-Cost: 60.0 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 243 -------------------------
-Type: Tools [15 dT (150.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 244 -------------------------
-Type: Protective Equipment [2 dT (4.0 T)]
-Cost: 800.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 245 -------------------------
-Type: Precision Instruments [2 dT (14.0 T)]
-Cost: 800.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 246 -------------------------
-Type: Alcoholic Beverages [11 dT (77.0 T)]
-Cost: 82.5 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 247 -------------------------
-Type: Machinery, Parts [120 dT (960.0 T)]
-Cost: 6.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 248 -------------------------
-Type: Meat, Fish [30 dT (240.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 249 -------------------------
-Type: Entertainment Devices [15 dT (60.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 250 -------------------------
-Type: Polymers [25 dT (125.0 T)]
-Cost: 300.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 251 -------------------------
-Type: Lanthanum [5 dT (50.0 T)]
-Cost: 25.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 252 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 253 -------------------------
-Type: Petrochemicals [35 dT (245.0 T)]
-Cost: 525.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 254 -------------------------
-Type: Entertainment Devices [10 dT (40.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 255 -------------------------
-Type: Light Metals [40 dT (1000.0 T)]
+Cargo 8 -------------------------
+Type: Entertainment Gears [8 dT (40.0 T)]
 Cost: 400.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
-Quirk: high tech
 
-Cargo 256 -------------------------
-Type: Livestock [60 dT (60.0 T)]
-Cost: 60.0 KCr
-Handling: wet bulk
+Cargo 9 -------------------------
+Type: Alcoholic Beverages [4 dT (28.0 T)]
+Cost: 30.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 10 -------------------------
+Type: Livestock [50 dT (50.0 T)]
+Cost: 50.0 KCr
+Handling: break bulk
 Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 11 -------------------------
+Type: Industrial Metals [7 dT (175.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 12 -------------------------
+Type: Lanthanum [5 dT (50.0 T)]
+Cost: 25.0 MCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 13 -------------------------
+Type: Light Metals [50 dT (1250.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 14 -------------------------
+Type: Special Minerals [4 dT (40.0 T)]
+Cost: 3.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 15 -------------------------
+Type: Radioisotopes [3 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 16 -------------------------
+Type: Shelters [7 dT (56.0 T)]
+Cost: 84.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 17 -------------------------
+Type: Gemstones [6 dT (3.0 T)]
+Cost: 60.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 18 -------------------------
+Type: Heavy Metal [2 dT (50.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 19 -------------------------
+Type: Computers [3 dT (15.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 20 -------------------------
+Type: Pharmaceuticals [3 dT (6.0 T)]
+Cost: 360.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 21 -------------------------
+Type: Gemstones [4 dT (2.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+
+Cargo 22 -------------------------
+Type: Perishables [120 dT (600.0 T)]
+Cost: 288.0 KCr
+Handling: container
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 23 -------------------------
+Type: Alcoholic Beverages [7 dT (49.0 T)]
+Cost: 52.5 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 24 -------------------------
+Type: Petrochemicals [15 dT (105.0 T)]
+Cost: 225.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 25 -------------------------
+Type: Special Minerals [2 dT (20.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 26 -------------------------
+Type: Artwork, Media [4 dT (8.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 27 -------------------------
+Type: Grav Vehicles [5 dT (15.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 28 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 29 -------------------------
+Type: Ceramics [6 dT (60.0 T)]
+Cost: 90.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 30 -------------------------
+Type: Wood Products [220 dT (1100.0 T)]
+Cost: 440.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 31 -------------------------
+Type: Petrochemicals [50 dT (350.0 T)]
+Cost: 750.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 32 -------------------------
+Type: Industrial Metals [3 dT (75.0 T)]
+Cost: 225.0 KCr
+Handling: container
+Legality: LC5 - (safe)
 Price Volatility: low
 Quirk: high tech
 
-Cargo 257 -------------------------
-Type: Electronic Parts [5 dT (10.0 T)]
-Cost: 250.0 KCr
+Cargo 33 -------------------------
+Type: Computers [9 dT (45.0 T)]
+Cost: 2.2 MCr
 Handling: break bulk
-Legality: LC2 - (Military)
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 34 -------------------------
+Type: Grav Vehicles [5 dT (15.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 35 -------------------------
+Type: Textiles [45 dT (180.0 T)]
+Cost: 1.4 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
 Price Volatility: medium
 
-Cargo 258 -------------------------
+Cargo 36 -------------------------
 Type: Spices [10 dT (70.0 T)]
 Cost: 60.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
 
-Cargo 259 -------------------------
-Type: Petrochemicals [45 dT (315.0 T)]
-Cost: 675.0 KCr
+Cargo 37 -------------------------
+Type: Wood Products [150 dT (750.0 T)]
+Cost: 300.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 38 -------------------------
+Type: Radioisotopes [5 dT (50.0 T)]
+Cost: 500.0 KCr
+Handling: dry bulk
+Legality: LC0 - (WMD)
+Price Volatility: low
+
+Cargo 39 -------------------------
+Type: Livestock [75 dT (75.0 T)]
+Cost: 75.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 40 -------------------------
+Type: Computers [11 dT (55.0 T)]
+Cost: 2.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 41 -------------------------
+Type: Industrial Metals [7 dT (175.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 42 -------------------------
+Type: Special Minerals [5 dT (50.0 T)]
+Cost: 3.8 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 43 -------------------------
+Type: Pharmaceuticals [2 dT (4.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 44 -------------------------
+Type: Special Minerals [3 dT (30.0 T)]
+Cost: 2.2 MCr
+Handling: wet bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+
+Cargo 45 -------------------------
+Type: Computers [8 dT (40.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 46 -------------------------
+Type: Entertainment Gears [4 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 47 -------------------------
+Type: Precision Instruments [9 dT (63.0 T)]
+Cost: 3.6 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 48 -------------------------
+Type: Textiles [50 dT (200.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: high tech
+
+Cargo 49 -------------------------
+Type: Computers [6 dT (30.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 50 -------------------------
+Type: Protective Equipment [1 dT (2.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 51 -------------------------
+Type: Machinery, Parts [130 dT (1040.0 T)]
+Cost: 6.5 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 52 -------------------------
+Type: Artwork, Media [3 dT (6.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: corrosive
+
+Cargo 53 -------------------------
+Type: Artwork, Handicrafts [9 dT (45.0 T)]
+Cost: 90.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 54 -------------------------
+Type: Lanthanum [2 dT (20.0 T)]
+Cost: 10.0 MCr
+Handling: dry bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 55 -------------------------
+Type: Protective Equipment [4 dT (8.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 56 -------------------------
+Type: Wood Products [120 dT (600.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 57 -------------------------
+Type: Polymers [70 dT (350.0 T)]
+Cost: 840.0 KCr
+Handling: wet bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 58 -------------------------
+Type: Polymers [65 dT (325.0 T)]
+Cost: 780.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 59 -------------------------
+Type: Radioisotopes [2 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: high
+Quirk: radioactive
+
+Cargo 60 -------------------------
+Type: Protective Equipment [4 dT (8.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 61 -------------------------
+Type: Grav Vehicles [20 dT (60.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 62 -------------------------
+Type: Meat, Fish [15 dT (120.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 63 -------------------------
+Type: Light Metals [10 dT (250.0 T)]
+Cost: 100.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 64 -------------------------
+Type: Entertainment Gears [7 dT (35.0 T)]
+Cost: 350.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 65 -------------------------
+Type: Industrial Crystals [3 dT (30.0 T)]
+Cost: 6.0 MCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 66 -------------------------
+Type: Lanthanum [6 dT (60.0 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: biohazard
+
+Cargo 67 -------------------------
+Type: Machinery, Parts [120 dT (960.0 T)]
+Cost: 6.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 68 -------------------------
+Type: Computers [6 dT (30.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 69 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 70 -------------------------
+Type: Pharmaceuticals [6 dT (12.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 71 -------------------------
+Type: Polymers [45 dT (225.0 T)]
+Cost: 540.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 72 -------------------------
+Type: Ammunition [3 dT (21.0 T)]
+Cost: 360.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 73 -------------------------
+Type: Machinery, Parts [150 dT (1200.0 T)]
+Cost: 7.5 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 74 -------------------------
+Type: Computers [5 dT (25.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 75 -------------------------
+Type: Ground Vehicles [45 dT (135.0 T)]
+Cost: 1.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 76 -------------------------
+Type: Lanthanum [2 dT (20.0 T)]
+Cost: 10.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: valuable
 
-Cargo 260 -------------------------
+Cargo 77 -------------------------
+Type: Livestock [65 dT (65.0 T)]
+Cost: 65.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 78 -------------------------
+Type: Artwork, Media [3 dT (6.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 79 -------------------------
+Type: Entertainment Gears [10 dT (50.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 80 -------------------------
+Type: Radioisotopes [3 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 81 -------------------------
+Type: Protective Equipment [6 dT (12.0 T)]
+Cost: 2.4 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 82 -------------------------
+Type: Artwork, Media [2 dT (4.0 T)]
+Cost: 100.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 83 -------------------------
+Type: Grav Vehicles [10 dT (30.0 T)]
+Cost: 2.5 MCr
+Handling: RO/RO
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high end
+
+Cargo 84 -------------------------
+Type: Tools [30 dT (300.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: high
+Quirk: radioactive
+
+Cargo 85 -------------------------
+Type: Radioisotopes [4 dT (40.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC0 - (WMD)
+Price Volatility: low
+
+Cargo 86 -------------------------
+Type: Artwork, Media [3 dT (6.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 87 -------------------------
+Type: Wood Products [190 dT (950.0 T)]
+Cost: 380.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 88 -------------------------
+Type: Machinery, Parts [110 dT (880.0 T)]
+Cost: 5.5 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 89 -------------------------
+Type: Entertainment Devices [20 dT (80.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 90 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: dry bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 91 -------------------------
+Type: Wood Products [90 dT (450.0 T)]
+Cost: 180.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 92 -------------------------
+Type: Entertainment Gears [8 dT (40.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 93 -------------------------
+Type: Gravitic Units [10 dT (40.0 T)]
+Cost: 1.6 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 94 -------------------------
+Type: Ceramics [11 dT (110.0 T)]
+Cost: 165.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: biohazard
+
+Cargo 95 -------------------------
+Type: Gemstones [3 dT (1.5 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+
+Cargo 96 -------------------------
+Type: Petrochemicals [55 dT (385.0 T)]
+Cost: 825.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 97 -------------------------
+Type: Electronic Parts [20 dT (40.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 98 -------------------------
+Type: Heavy Metal [4 dT (100.0 T)]
+Cost: 80.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: defective
+
+Cargo 99 -------------------------
+Type: Pharmaceuticals [4 dT (8.0 T)]
+Cost: 480.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 100 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 101 -------------------------
+Type: Textiles [65 dT (260.0 T)]
+Cost: 1.9 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 102 -------------------------
+Type: Pharmaceuticals [2 dT (4.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 103 -------------------------
+Type: Ground Vehicles [60 dT (180.0 T)]
+Cost: 2.4 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 104 -------------------------
+Type: Shelters [17 dT (136.0 T)]
+Cost: 204.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 105 -------------------------
+Type: Heavy Metal [3 dT (75.0 T)]
+Cost: 60.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 106 -------------------------
+Type: Lanthanum [6 dT (60.0 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 107 -------------------------
+Type: Entertainment Gears [6 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 108 -------------------------
+Type: Baked goods [60 dT (600.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 109 -------------------------
+Type: Tools [5 dT (50.0 T)]
+Cost: 100.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 110 -------------------------
+Type: Radioisotopes [3 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: explosive
+
+Cargo 111 -------------------------
+Type: Ceramics [7 dT (70.0 T)]
+Cost: 105.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 112 -------------------------
+Type: Grav Vehicles [20 dT (60.0 T)]
+Cost: 5.0 MCr
+Handling: RO/RO
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 113 -------------------------
+Type: Gravitic Units [10 dT (40.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 114 -------------------------
+Type: Gravitic Units [10 dT (40.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 115 -------------------------
+Type: Shelters [9 dT (72.0 T)]
+Cost: 108.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 116 -------------------------
+Type: Protective Equipment [3 dT (6.0 T)]
+Cost: 1.2 MCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 117 -------------------------
+Type: Entertainment Devices [15 dT (60.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 118 -------------------------
+Type: Artwork, Media [1 dT (2.0 T)]
+Cost: 50.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 119 -------------------------
+Type: Livestock [35 dT (35.0 T)]
+Cost: 35.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 120 -------------------------
+Type: Lanthanum [1 dT (10.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 121 -------------------------
+Type: Electronic Parts [30 dT (60.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 122 -------------------------
+Type: Precision Instruments [3 dT (21.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 123 -------------------------
+Type: Lanthanum [1 dT (10.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 124 -------------------------
+Type: Ground Vehicles [90 dT (270.0 T)]
+Cost: 3.6 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 125 -------------------------
+Type: Meat, Fish [10 dT (80.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 126 -------------------------
+Type: Perishables [120 dT (600.0 T)]
+Cost: 288.0 KCr
+Handling: dry bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 127 -------------------------
+Type: Manufactured Goods [11 dT (88.0 T)]
+Cost: 550.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 128 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 129 -------------------------
+Type: Artwork, Handicrafts [8 dT (40.0 T)]
+Cost: 80.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 130 -------------------------
+Type: Machinery, Parts [150 dT (1200.0 T)]
+Cost: 7.5 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 131 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 132 -------------------------
+Type: Precision Instruments [6 dT (42.0 T)]
+Cost: 2.4 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 133 -------------------------
+Type: Gemstones [4 dT (2.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+
+Cargo 134 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 135 -------------------------
+Type: Precision Instruments [3 dT (21.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 136 -------------------------
+Type: Alcoholic Beverages [8 dT (56.0 T)]
+Cost: 60.0 KCr
+Handling: container
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 137 -------------------------
+Type: Industrial Metals [7 dT (175.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 138 -------------------------
+Type: Heavy Metal [2 dT (50.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 139 -------------------------
+Type: Radioisotopes [6 dT (60.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: high
+
+Cargo 140 -------------------------
+Type: Ammunition [1 dT (7.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+
+Cargo 141 -------------------------
+Type: Electronic Parts [15 dT (30.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 142 -------------------------
+Type: Petrochemicals [30 dT (210.0 T)]
+Cost: 450.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 143 -------------------------
+Type: Polymers [45 dT (225.0 T)]
+Cost: 540.0 KCr
+Handling: wet bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 144 -------------------------
+Type: Gravitic Units [30 dT (120.0 T)]
+Cost: 4.8 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 145 -------------------------
+Type: Baked goods [35 dT (350.0 T)]
+Cost: 175.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 146 -------------------------
+Type: Alcoholic Beverages [5 dT (35.0 T)]
+Cost: 37.5 KCr
+Handling: wet bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 147 -------------------------
+Type: Ammunition [5 dT (35.0 T)]
+Cost: 600.0 KCr
+Handling: container
+Legality: LC1 - (Restricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 148 -------------------------
+Type: Ammunition [2 dT (14.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high end
+
+Cargo 149 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 150 -------------------------
+Type: Baked goods [10 dT (100.0 T)]
+Cost: 50.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 151 -------------------------
+Type: Gemstones [3 dT (1.5 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: valuable
+
+Cargo 152 -------------------------
+Type: Light Metals [35 dT (875.0 T)]
+Cost: 350.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 153 -------------------------
+Type: Computers [8 dT (40.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 154 -------------------------
+Type: Manufactured Goods [11 dT (88.0 T)]
+Cost: 550.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 155 -------------------------
+Type: Gemstones [1 dT (0.5 T)]
+Cost: 10.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 156 -------------------------
+Type: Special Minerals [6 dT (60.0 T)]
+Cost: 4.5 MCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 157 -------------------------
+Type: Polymers [50 dT (250.0 T)]
+Cost: 600.0 KCr
+Handling: wet bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 158 -------------------------
+Type: Machinery, Parts [160 dT (1280.0 T)]
+Cost: 8.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 159 -------------------------
+Type: Grav Vehicles [15 dT (45.0 T)]
+Cost: 3.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 160 -------------------------
+Type: Wood Products [180 dT (900.0 T)]
+Cost: 360.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 161 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high end
+
+Cargo 162 -------------------------
+Type: Shelters [7 dT (56.0 T)]
+Cost: 84.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 163 -------------------------
+Type: Entertainment Devices [20 dT (80.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 164 -------------------------
+Type: Machinery, Parts [180 dT (1440.0 T)]
+Cost: 9.0 MCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 165 -------------------------
+Type: Polymers [35 dT (175.0 T)]
+Cost: 420.0 KCr
+Handling: dry bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: explosive
+
+Cargo 166 -------------------------
+Type: Baked goods [20 dT (200.0 T)]
+Cost: 100.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 167 -------------------------
 Type: Protective Equipment [4 dT (8.0 T)]
 Cost: 1.6 MCr
 Handling: break bulk
@@ -1999,796 +1280,1513 @@ Legality: LC3 - (Controlled)
 Price Volatility: medium
 Quirk: corrosive
 
-Cargo 261 -------------------------
-Type: Ground Vehicles [80 dT (240.0 T)]
-Cost: 3.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 262 -------------------------
-Type: Tools [30 dT (300.0 T)]
-Cost: 600.0 KCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 263 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 264 -------------------------
-Type: Pharmaceuticals [3 dT (6.0 T)]
-Cost: 360.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 265 -------------------------
-Type: Artwork, Media [4 dT (8.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: high
-
-Cargo 266 -------------------------
-Type: Entertainment Devices [30 dT (120.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 267 -------------------------
-Type: Grav Vehicles [5 dT (15.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 268 -------------------------
-Type: Livestock [60 dT (60.0 T)]
-Cost: 60.0 KCr
+Cargo 168 -------------------------
+Type: Heavy Metal [6 dT (150.0 T)]
+Cost: 120.0 MCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: corrosive
 
-Cargo 269 -------------------------
-Type: Pharmaceuticals [3 dT (6.0 T)]
-Cost: 360.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 270 -------------------------
-Type: Artwork, Media [3 dT (6.0 T)]
-Cost: 150.0 KCr
+Cargo 169 -------------------------
+Type: Gravitic Units [5 dT (20.0 T)]
+Cost: 800.0 KCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: low
-Quirk: high tech
+Quirk: valuable
 
-Cargo 271 -------------------------
+Cargo 170 -------------------------
 Type: Wood Products [150 dT (750.0 T)]
 Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 272 -------------------------
-Type: Industrial Crystals [5 dT (50.0 T)]
-Cost: 10.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 273 -------------------------
-Type: Entertainment Devices [10 dT (40.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 274 -------------------------
-Type: Ceramics [10 dT (100.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 275 -------------------------
-Type: Shelters [6 dT (48.0 T)]
-Cost: 72.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 276 -------------------------
-Type: Grav Vehicles [5 dT (15.0 T)]
-Cost: 1.2 MCr
-Handling: RO/RO
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 277 -------------------------
-Type: Petrochemicals [45 dT (315.0 T)]
-Cost: 675.0 KCr
 Handling: container
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: biohazard
-
-Cargo 278 -------------------------
-Type: Entertainment Gears [6 dT (30.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 279 -------------------------
-Type: Machinery, Parts [150 dT (1200.0 T)]
-Cost: 7.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 280 -------------------------
-Type: Perishables [200 dT (1000.0 T)]
-Cost: 480.0 KCr
-Handling: dry bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 281 -------------------------
-Type: Petrochemicals [30 dT (210.0 T)]
-Cost: 450.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 282 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: container
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 283 -------------------------
-Type: Tools [5 dT (50.0 T)]
-Cost: 100.0 KCr
-Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: low
-Quirk: low tech
+Quirk: stigmatized
 
-Cargo 284 -------------------------
-Type: Spices [30 dT (210.0 T)]
-Cost: 180.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 285 -------------------------
-Type: Manufactured Goods [13 dT (104.0 T)]
-Cost: 650.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 286 -------------------------
-Type: Baked goods [50 dT (500.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 287 -------------------------
-Type: Special Minerals [2 dT (20.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-
-Cargo 288 -------------------------
-Type: Tools [5 dT (50.0 T)]
-Cost: 100.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 289 -------------------------
-Type: Perishables [140 dT (700.0 T)]
-Cost: 336.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 290 -------------------------
-Type: Electronic Parts [5 dT (10.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 291 -------------------------
-Type: Heavy Metal [5 dT (125.0 T)]
-Cost: 100.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 292 -------------------------
-Type: Industrial Metals [10 dT (250.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
+Cargo 171 -------------------------
+Type: Protective Equipment [1 dT (2.0 T)]
+Cost: 400.0 KCr
+Handling: container
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
 Quirk: low quality
 
-Cargo 293 -------------------------
-Type: Tools [25 dT (250.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 294 -------------------------
-Type: Alcoholic Beverages [11 dT (77.0 T)]
-Cost: 82.5 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 295 -------------------------
-Type: Livestock [75 dT (75.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 296 -------------------------
-Type: Artwork, Handicrafts [4 dT (20.0 T)]
-Cost: 40.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 297 -------------------------
-Type: Entertainment Gears [6 dT (30.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 298 -------------------------
-Type: Computers [6 dT (30.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 299 -------------------------
-Type: Light Metals [25 dT (625.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 300 -------------------------
-Type: Ground Vehicles [70 dT (210.0 T)]
-Cost: 2.8 MCr
+Cargo 172 -------------------------
+Type: Radioisotopes [1 dT (10.0 T)]
+Cost: 100.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high tech
+Price Volatility: medium
+Quirk: low quality
 
-Cargo 301 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
+Cargo 173 -------------------------
+Type: Industrial Crystals [2 dT (20.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 174 -------------------------
+Type: Pharmaceuticals [5 dT (10.0 T)]
 Cost: 600.0 KCr
 Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: high
-Quirk: fragile
-
-Cargo 302 -------------------------
-Type: Radioisotopes [3 dT (30.0 T)]
-Cost: 300.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
+Legality: LC1 - (Restricted)
 Price Volatility: medium
+Quirk: explosive
 
-Cargo 303 -------------------------
-Type: Radioisotopes [3 dT (30.0 T)]
-Cost: 300.0 KCr
+Cargo 175 -------------------------
+Type: Tools [10 dT (100.0 T)]
+Cost: 200.0 KCr
 Handling: break bulk
-Legality: LC0 - (WMD)
-Price Volatility: low
-
-Cargo 304 -------------------------
-Type: Gravitic Units [20 dT (80.0 T)]
-Cost: 3.2 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
+Legality: LC5 - (safe)
 Price Volatility: medium
-
-Cargo 305 -------------------------
-Type: Spices [30 dT (210.0 T)]
-Cost: 180.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 306 -------------------------
-Type: Ammunition [4 dT (28.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 307 -------------------------
-Type: Tools [15 dT (150.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 308 -------------------------
-Type: Livestock [65 dT (65.0 T)]
-Cost: 65.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 309 -------------------------
-Type: Pharmaceuticals [4 dT (8.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 310 -------------------------
-Type: Machinery, Parts [180 dT (1440.0 T)]
-Cost: 9.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 311 -------------------------
-Type: Grav Vehicles [25 dT (75.0 T)]
-Cost: 6.2 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 312 -------------------------
-Type: Petrochemicals [20 dT (140.0 T)]
-Cost: 300.0 KCr
-Handling: container
-Legality: LC2 - (Military)
-Price Volatility: low
 Quirk: high tech
 
-Cargo 313 -------------------------
-Type: Computers [6 dT (30.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 314 -------------------------
-Type: Perishables [220 dT (1100.0 T)]
-Cost: 528.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 315 -------------------------
-Type: Meat, Fish [20 dT (160.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: corrosive
-
-Cargo 316 -------------------------
-Type: Ceramics [5 dT (50.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 317 -------------------------
-Type: Meat, Fish [15 dT (120.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 318 -------------------------
-Type: Industrial Metals [6 dT (150.0 T)]
-Cost: 450.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 319 -------------------------
-Type: Livestock [75 dT (75.0 T)]
-Cost: 75.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 320 -------------------------
-Type: Baked goods [55 dT (550.0 T)]
-Cost: 275.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 321 -------------------------
-Type: Meat, Fish [10 dT (80.0 T)]
-Cost: 200.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 322 -------------------------
-Type: Wood Products [130 dT (650.0 T)]
-Cost: 260.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 323 -------------------------
-Type: Textiles [35 dT (140.0 T)]
-Cost: 1.1 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 324 -------------------------
-Type: Entertainment Devices [30 dT (120.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 325 -------------------------
-Type: Artwork, Handicrafts [9 dT (45.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 326 -------------------------
-Type: Petrochemicals [35 dT (245.0 T)]
-Cost: 525.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 327 -------------------------
-Type: Wood Products [140 dT (700.0 T)]
-Cost: 280.0 KCr
-Handling: dry bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: stigmatized
-
-Cargo 328 -------------------------
-Type: Artwork, Media [4 dT (8.0 T)]
-Cost: 200.0 KCr
+Cargo 176 -------------------------
+Type: Electronic Parts [20 dT (40.0 T)]
+Cost: 1.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: biohazard
 
-Cargo 329 -------------------------
-Type: Perishables [150 dT (750.0 T)]
-Cost: 360.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 330 -------------------------
-Type: Perishables [150 dT (750.0 T)]
-Cost: 360.0 KCr
-Handling: container
-Legality: LC5 - (safe)
+Cargo 177 -------------------------
+Type: Radioisotopes [3 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: wet bulk
+Legality: LC0 - (WMD)
 Price Volatility: low
 Quirk: low tech
 
-Cargo 331 -------------------------
-Type: Alcoholic Beverages [6 dT (42.0 T)]
-Cost: 45.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 332 -------------------------
-Type: Gravitic Units [30 dT (120.0 T)]
-Cost: 4.8 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: stigmatized
-
-Cargo 333 -------------------------
-Type: Gravitic Units [30 dT (120.0 T)]
-Cost: 4.8 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 334 -------------------------
-Type: Light Metals [45 dT (1125.0 T)]
-Cost: 450.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 335 -------------------------
-Type: Radioisotopes [5 dT (50.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high end
-
-Cargo 336 -------------------------
-Type: Polymers [25 dT (125.0 T)]
-Cost: 300.0 KCr
-Handling: wet bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 337 -------------------------
-Type: Meat, Fish [25 dT (200.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 338 -------------------------
+Cargo 178 -------------------------
 Type: Protective Equipment [1 dT (2.0 T)]
 Cost: 400.0 KCr
 Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: corrosive
+
+Cargo 179 -------------------------
+Type: Precision Instruments [5 dT (35.0 T)]
+Cost: 2.0 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 180 -------------------------
+Type: Light Metals [15 dT (375.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 181 -------------------------
+Type: Computers [8 dT (40.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 182 -------------------------
+Type: Industrial Crystals [1 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
-Quirk: fragile
+Quirk: flammable
 
-Cargo 339 -------------------------
-Type: Computers [12 dT (60.0 T)]
-Cost: 3.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 340 -------------------------
-Type: Gravitic Units [5 dT (20.0 T)]
+Cargo 183 -------------------------
+Type: Precision Instruments [2 dT (14.0 T)]
 Cost: 800.0 KCr
 Handling: container
 Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: defective
+Price Volatility: low
+Quirk: high tech
 
-Cargo 341 -------------------------
-Type: Artwork, Media [2 dT (4.0 T)]
+Cargo 184 -------------------------
+Type: Livestock [50 dT (50.0 T)]
+Cost: 50.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 185 -------------------------
+Type: Pharmaceuticals [4 dT (8.0 T)]
+Cost: 480.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 186 -------------------------
+Type: Ammunition [6 dT (42.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 187 -------------------------
+Type: Ammunition [2 dT (14.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: high
+Quirk: explosive
+
+Cargo 188 -------------------------
+Type: Wood Products [140 dT (700.0 T)]
+Cost: 280.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 189 -------------------------
+Type: Textiles [35 dT (140.0 T)]
+Cost: 1.1 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 190 -------------------------
+Type: Pharmaceuticals [1 dT (2.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+
+Cargo 191 -------------------------
+Type: Entertainment Gears [4 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 192 -------------------------
+Type: Radioisotopes [2 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+
+Cargo 193 -------------------------
+Type: Lanthanum [1 dT (10.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 194 -------------------------
+Type: Computers [8 dT (40.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 195 -------------------------
+Type: Lanthanum [5 dT (50.0 T)]
+Cost: 25.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 196 -------------------------
+Type: Gravitic Units [25 dT (100.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 197 -------------------------
+Type: Entertainment Gears [6 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 198 -------------------------
+Type: Gravitic Units [10 dT (40.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 199 -------------------------
+Type: Ammunition [6 dT (42.0 T)]
+Cost: 720.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 200 -------------------------
+Type: Gemstones [6 dT (3.0 T)]
+Cost: 60.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 201 -------------------------
+Type: Wood Products [210 dT (1050.0 T)]
+Cost: 420.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 202 -------------------------
+Type: Radioisotopes [4 dT (40.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 203 -------------------------
+Type: Petrochemicals [25 dT (175.0 T)]
+Cost: 375.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 204 -------------------------
+Type: Precision Instruments [10 dT (70.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 205 -------------------------
+Type: Manufactured Goods [16 dT (128.0 T)]
+Cost: 800.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 206 -------------------------
+Type: Radioisotopes [2 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 207 -------------------------
+Type: Ground Vehicles [35 dT (105.0 T)]
+Cost: 1.4 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 208 -------------------------
+Type: Petrochemicals [15 dT (105.0 T)]
+Cost: 225.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 209 -------------------------
+Type: Tools [5 dT (50.0 T)]
 Cost: 100.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
+Quirk: high tech
 
-Cargo 342 -------------------------
-Type: Pharmaceuticals [4 dT (8.0 T)]
-Cost: 480.0 KCr
+Cargo 210 -------------------------
+Type: Heavy Metal [6 dT (150.0 T)]
+Cost: 120.0 MCr
 Handling: break bulk
-Legality: LC3 - (Controlled)
+Legality: LC4 - (Hazardous)
 Price Volatility: low
-Quirk: biohazard
 
-Cargo 343 -------------------------
-Type: Radioisotopes [5 dT (50.0 T)]
-Cost: 500.0 KCr
-Handling: dry bulk
+Cargo 211 -------------------------
+Type: Livestock [25 dT (25.0 T)]
+Cost: 25.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 212 -------------------------
+Type: Heavy Metal [1 dT (25.0 T)]
+Cost: 20.0 MCr
+Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: high end
 
-Cargo 344 -------------------------
-Type: Polymers [75 dT (375.0 T)]
-Cost: 900.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
+Cargo 213 -------------------------
+Type: Radioisotopes [5 dT (50.0 T)]
+Cost: 500.0 KCr
+Handling: dry bulk
+Legality: LC0 - (WMD)
 Price Volatility: medium
-Quirk: corrosive
 
-Cargo 345 -------------------------
-Type: Light Metals [35 dT (875.0 T)]
-Cost: 350.0 KCr
+Cargo 214 -------------------------
+Type: Protective Equipment [6 dT (12.0 T)]
+Cost: 2.4 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 215 -------------------------
+Type: Light Metals [50 dT (1250.0 T)]
+Cost: 500.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: low
-Quirk: low tech
+Quirk: low quality
 
-Cargo 346 -------------------------
-Type: Alcoholic Beverages [10 dT (70.0 T)]
-Cost: 75.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: biohazard
-
-Cargo 347 -------------------------
-Type: Gravitic Units [25 dT (100.0 T)]
-Cost: 4.0 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 348 -------------------------
-Type: Special Minerals [6 dT (60.0 T)]
-Cost: 4.5 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 349 -------------------------
-Type: Textiles [30 dT (120.0 T)]
-Cost: 900.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 350 -------------------------
-Type: Tools [15 dT (150.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 351 -------------------------
-Type: Artwork, Handicrafts [10 dT (50.0 T)]
+Cargo 216 -------------------------
+Type: Tools [5 dT (50.0 T)]
 Cost: 100.0 KCr
 Handling: break bulk
-Legality: LC3 - (Controlled)
+Legality: LC5 - (safe)
 Price Volatility: low
+
+Cargo 217 -------------------------
+Type: Perishables [80 dT (400.0 T)]
+Cost: 192.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 218 -------------------------
+Type: Heavy Metal [2 dT (50.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 219 -------------------------
+Type: Electronic Parts [20 dT (40.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: high
+Quirk: high tech
+
+Cargo 220 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 221 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 222 -------------------------
+Type: Radioisotopes [6 dT (60.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC0 - (WMD)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 223 -------------------------
+Type: Shelters [18 dT (144.0 T)]
+Cost: 216.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
 Quirk: fragile
 
-Cargo 352 -------------------------
-Type: Grav Vehicles [20 dT (60.0 T)]
-Cost: 5.0 MCr
+Cargo 224 -------------------------
+Type: Livestock [70 dT (70.0 T)]
+Cost: 70.0 KCr
 Handling: break bulk
-Legality: LC3 - (Controlled)
+Legality: LC5 - (safe)
 Price Volatility: low
+Quirk: high tech
 
-Cargo 353 -------------------------
-Type: Manufactured Goods [9 dT (72.0 T)]
-Cost: 450.0 KCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 354 -------------------------
-Type: Special Minerals [2 dT (20.0 T)]
-Cost: 1.5 MCr
-Handling: container
-Legality: LC2 - (Military)
+Cargo 225 -------------------------
+Type: Pharmaceuticals [1 dT (2.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
 Price Volatility: medium
-Quirk: corrosive
+Quirk: fragile
 
-Cargo 355 -------------------------
-Type: Ground Vehicles [35 dT (105.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 356 -------------------------
-Type: Artwork, Media [5 dT (10.0 T)]
-Cost: 250.0 KCr
+Cargo 226 -------------------------
+Type: Manufactured Goods [8 dT (64.0 T)]
+Cost: 400.0 KCr
 Handling: break bulk
 Legality: LC6 - (unrestricted)
 Price Volatility: low
-Quirk: stigmatized
 
-Cargo 357 -------------------------
-Type: Industrial Crystals [5 dT (50.0 T)]
-Cost: 10.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
+Cargo 227 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
 Price Volatility: low
+Quirk: high tech
+
+Cargo 228 -------------------------
+Type: Wood Products [120 dT (600.0 T)]
+Cost: 240.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
 Quirk: low tech
 
-Cargo 358 -------------------------
-Type: Gravitic Units [15 dT (60.0 T)]
+Cargo 229 -------------------------
+Type: Industrial Crystals [4 dT (40.0 T)]
+Cost: 8.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 230 -------------------------
+Type: Electronic Parts [15 dT (30.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 231 -------------------------
+Type: Grav Vehicles [20 dT (60.0 T)]
+Cost: 5.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 232 -------------------------
+Type: Computers [7 dT (35.0 T)]
+Cost: 1.8 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 233 -------------------------
+Type: Petrochemicals [35 dT (245.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 234 -------------------------
+Type: Ground Vehicles [60 dT (180.0 T)]
 Cost: 2.4 MCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
 
-Cargo 359 -------------------------
-Type: Artwork, Handicrafts [3 dT (15.0 T)]
-Cost: 30.0 KCr
+Cargo 235 -------------------------
+Type: Pharmaceuticals [6 dT (12.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 236 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 237 -------------------------
+Type: Wood Products [190 dT (950.0 T)]
+Cost: 380.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 238 -------------------------
+Type: Gravitic Units [5 dT (20.0 T)]
+Cost: 800.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
-Quirk: low quality
+Quirk: low tech
 
-Cargo 360 -------------------------
-Type: Light Metals [30 dT (750.0 T)]
-Cost: 300.0 KCr
+Cargo 239 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: low
 Quirk: stigmatized
 
-Cargo 361 -------------------------
+Cargo 240 -------------------------
+Type: Light Metals [45 dT (1125.0 T)]
+Cost: 450.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 241 -------------------------
+Type: Light Metals [15 dT (375.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 242 -------------------------
+Type: Artwork, Handicrafts [4 dT (20.0 T)]
+Cost: 40.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: high
+Quirk: high tech
+
+Cargo 243 -------------------------
+Type: Lanthanum [4 dT (40.0 T)]
+Cost: 20.0 MCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 244 -------------------------
+Type: Shelters [15 dT (120.0 T)]
+Cost: 180.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 245 -------------------------
+Type: Entertainment Gears [7 dT (35.0 T)]
+Cost: 350.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 246 -------------------------
+Type: Computers [4 dT (20.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 247 -------------------------
 Type: Shelters [8 dT (64.0 T)]
 Cost: 96.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
+Handling: break bulk
+Legality: LC3 - (Controlled)
 Price Volatility: medium
+Quirk: radioactive
+
+Cargo 248 -------------------------
+Type: Gravitic Units [25 dT (100.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 249 -------------------------
+Type: Electronic Parts [20 dT (40.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 250 -------------------------
+Type: Industrial Metals [2 dT (50.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 251 -------------------------
+Type: Entertainment Devices [15 dT (60.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 252 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 253 -------------------------
+Type: Precision Instruments [7 dT (49.0 T)]
+Cost: 2.8 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 254 -------------------------
+Type: Polymers [45 dT (225.0 T)]
+Cost: 540.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: corrosive
+
+Cargo 255 -------------------------
+Type: Lanthanum [5 dT (50.0 T)]
+Cost: 25.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
 Quirk: fragile
 
-Cargo 362 -------------------------
-Type: Heavy Metal [5 dT (125.0 T)]
-Cost: 100.0 MCr
-Handling: container
+Cargo 256 -------------------------
+Type: Lanthanum [3 dT (30.0 T)]
+Cost: 15.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 257 -------------------------
+Type: Machinery, Parts [130 dT (1040.0 T)]
+Cost: 6.5 MCr
+Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: medium
 
-Cargo 363 -------------------------
-Type: Shelters [13 dT (104.0 T)]
-Cost: 156.0 KCr
+Cargo 258 -------------------------
+Type: Grav Vehicles [5 dT (15.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 259 -------------------------
+Type: Electronic Parts [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 260 -------------------------
+Type: Perishables [160 dT (800.0 T)]
+Cost: 384.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 261 -------------------------
+Type: Meat, Fish [20 dT (160.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 262 -------------------------
+Type: Spices [30 dT (210.0 T)]
+Cost: 180.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 263 -------------------------
+Type: Meat, Fish [10 dT (80.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 264 -------------------------
+Type: Textiles [55 dT (220.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 265 -------------------------
+Type: Petrochemicals [35 dT (245.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 266 -------------------------
+Type: Baked goods [50 dT (500.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 267 -------------------------
+Type: Tools [15 dT (150.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 268 -------------------------
+Type: Industrial Crystals [5 dT (50.0 T)]
+Cost: 10.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 269 -------------------------
+Type: Ammunition [1 dT (7.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 270 -------------------------
+Type: Heavy Metal [6 dT (150.0 T)]
+Cost: 120.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 271 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: explosive
+
+Cargo 272 -------------------------
+Type: Gravitic Units [20 dT (80.0 T)]
+Cost: 3.2 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 273 -------------------------
+Type: Alcoholic Beverages [6 dT (42.0 T)]
+Cost: 45.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 274 -------------------------
+Type: Manufactured Goods [8 dT (64.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 275 -------------------------
+Type: Protective Equipment [2 dT (4.0 T)]
+Cost: 800.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 276 -------------------------
+Type: Ground Vehicles [65 dT (195.0 T)]
+Cost: 2.6 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 277 -------------------------
+Type: Industrial Metals [6 dT (150.0 T)]
+Cost: 450.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 278 -------------------------
+Type: Baked goods [15 dT (150.0 T)]
+Cost: 75.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 279 -------------------------
+Type: Grav Vehicles [15 dT (45.0 T)]
+Cost: 3.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 280 -------------------------
+Type: Entertainment Gears [3 dT (15.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 281 -------------------------
+Type: Artwork, Media [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 282 -------------------------
+Type: Electronic Parts [15 dT (30.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 283 -------------------------
+Type: Entertainment Devices [5 dT (20.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 284 -------------------------
+Type: Livestock [45 dT (45.0 T)]
+Cost: 45.0 KCr
+Handling: wet bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 285 -------------------------
+Type: Light Metals [20 dT (500.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: flammable
+
+Cargo 286 -------------------------
+Type: Spices [5 dT (35.0 T)]
+Cost: 30.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 287 -------------------------
+Type: Electronic Parts [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 288 -------------------------
+Type: Precision Instruments [7 dT (49.0 T)]
+Cost: 2.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 289 -------------------------
+Type: Baked goods [20 dT (200.0 T)]
+Cost: 100.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 290 -------------------------
+Type: Ammunition [2 dT (14.0 T)]
+Cost: 240.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: medium
+
+Cargo 291 -------------------------
+Type: Textiles [45 dT (180.0 T)]
+Cost: 1.4 MCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 292 -------------------------
+Type: Artwork, Handicrafts [5 dT (25.0 T)]
+Cost: 50.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: high
+Quirk: radioactive
+
+Cargo 293 -------------------------
+Type: Petrochemicals [35 dT (245.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 294 -------------------------
+Type: Livestock [30 dT (30.0 T)]
+Cost: 30.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 295 -------------------------
+Type: Industrial Crystals [1 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 296 -------------------------
+Type: Ground Vehicles [60 dT (180.0 T)]
+Cost: 2.4 MCr
+Handling: RO/RO
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 297 -------------------------
+Type: Grav Vehicles [15 dT (45.0 T)]
+Cost: 3.8 MCr
+Handling: RO/RO
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 298 -------------------------
+Type: Light Metals [40 dT (1000.0 T)]
+Cost: 400.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 299 -------------------------
+Type: Artwork, Handicrafts [8 dT (40.0 T)]
+Cost: 80.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 300 -------------------------
+Type: Gemstones [5 dT (2.5 T)]
+Cost: 50.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+
+Cargo 301 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 302 -------------------------
+Type: Ground Vehicles [30 dT (90.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 303 -------------------------
+Type: Gemstones [4 dT (2.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 304 -------------------------
+Type: Machinery, Parts [180 dT (1440.0 T)]
+Cost: 9.0 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 305 -------------------------
+Type: Radioisotopes [6 dT (60.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 306 -------------------------
+Type: Pharmaceuticals [4 dT (8.0 T)]
+Cost: 480.0 KCr
+Handling: container
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 307 -------------------------
+Type: Radioisotopes [5 dT (50.0 T)]
+Cost: 500.0 KCr
+Handling: wet bulk
+Legality: LC1 - (Restricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 308 -------------------------
+Type: Polymers [55 dT (275.0 T)]
+Cost: 660.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 309 -------------------------
+Type: Entertainment Gears [4 dT (20.0 T)]
+Cost: 200.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
 Quirk: fragile
 
+Cargo 310 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 311 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 312 -------------------------
+Type: Electronic Parts [25 dT (50.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 313 -------------------------
+Type: Entertainment Gears [11 dT (55.0 T)]
+Cost: 550.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 314 -------------------------
+Type: Wood Products [90 dT (450.0 T)]
+Cost: 180.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 315 -------------------------
+Type: Machinery, Parts [170 dT (1360.0 T)]
+Cost: 8.5 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high end
+
+Cargo 316 -------------------------
+Type: Entertainment Devices [15 dT (60.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 317 -------------------------
+Type: Electronic Parts [30 dT (60.0 T)]
+Cost: 1.5 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 318 -------------------------
+Type: Lanthanum [1 dT (10.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 319 -------------------------
+Type: Computers [8 dT (40.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 320 -------------------------
+Type: Livestock [80 dT (80.0 T)]
+Cost: 80.0 KCr
+Handling: RO/RO
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 321 -------------------------
+Type: Shelters [10 dT (80.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 322 -------------------------
+Type: Computers [4 dT (20.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 323 -------------------------
+Type: Wood Products [190 dT (950.0 T)]
+Cost: 380.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 324 -------------------------
+Type: Manufactured Goods [7 dT (56.0 T)]
+Cost: 350.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: valuable
+
+Cargo 325 -------------------------
+Type: Entertainment Gears [6 dT (30.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: high
+Quirk: low quality
+
+Cargo 326 -------------------------
+Type: Textiles [45 dT (180.0 T)]
+Cost: 1.4 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 327 -------------------------
+Type: Pharmaceuticals [5 dT (10.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 328 -------------------------
+Type: Petrochemicals [35 dT (245.0 T)]
+Cost: 525.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 329 -------------------------
+Type: Tools [20 dT (200.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 330 -------------------------
+Type: Special Minerals [3 dT (30.0 T)]
+Cost: 2.2 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 331 -------------------------
+Type: Heavy Metal [4 dT (100.0 T)]
+Cost: 80.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 332 -------------------------
+Type: Computers [11 dT (55.0 T)]
+Cost: 2.8 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 333 -------------------------
+Type: Precision Instruments [10 dT (70.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 334 -------------------------
+Type: Grav Vehicles [25 dT (75.0 T)]
+Cost: 6.2 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 335 -------------------------
+Type: Tools [15 dT (150.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 336 -------------------------
+Type: Livestock [70 dT (70.0 T)]
+Cost: 70.0 KCr
+Handling: wet bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: corrosive
+
+Cargo 337 -------------------------
+Type: Radioisotopes [2 dT (20.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: high
+Quirk: low quality
+
+Cargo 338 -------------------------
+Type: Light Metals [35 dT (875.0 T)]
+Cost: 350.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 339 -------------------------
+Type: Lanthanum [5 dT (50.0 T)]
+Cost: 25.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 340 -------------------------
+Type: Livestock [55 dT (55.0 T)]
+Cost: 55.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 341 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 342 -------------------------
+Type: Baked goods [55 dT (550.0 T)]
+Cost: 275.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 343 -------------------------
+Type: Machinery, Parts [200 dT (1600.0 T)]
+Cost: 10.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 344 -------------------------
+Type: Ammunition [1 dT (7.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: biohazard
+
+Cargo 345 -------------------------
+Type: Light Metals [15 dT (375.0 T)]
+Cost: 150.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 346 -------------------------
+Type: Livestock [35 dT (35.0 T)]
+Cost: 35.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 347 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 348 -------------------------
+Type: Ceramics [7 dT (70.0 T)]
+Cost: 105.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+
+Cargo 349 -------------------------
+Type: Protective Equipment [2 dT (4.0 T)]
+Cost: 800.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: high end
+
+Cargo 350 -------------------------
+Type: Perishables [70 dT (350.0 T)]
+Cost: 168.0 KCr
+Handling: dry bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 351 -------------------------
+Type: Gemstones [3 dT (1.5 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 352 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 353 -------------------------
+Type: Special Minerals [3 dT (30.0 T)]
+Cost: 2.2 MCr
+Handling: container
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 354 -------------------------
+Type: Tools [20 dT (200.0 T)]
+Cost: 400.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 355 -------------------------
+Type: Ceramics [8 dT (80.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 356 -------------------------
+Type: Pharmaceuticals [4 dT (8.0 T)]
+Cost: 480.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+
+Cargo 357 -------------------------
+Type: Light Metals [60 dT (1500.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 358 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 359 -------------------------
+Type: Light Metals [20 dT (500.0 T)]
+Cost: 200.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: stigmatized
+
+Cargo 360 -------------------------
+Type: Grav Vehicles [15 dT (45.0 T)]
+Cost: 3.8 MCr
+Handling: RO/RO
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 361 -------------------------
+Type: Livestock [55 dT (55.0 T)]
+Cost: 55.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 362 -------------------------
+Type: Gemstones [3 dT (1.5 T)]
+Cost: 30.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 363 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: low quality
+
 Cargo 364 -------------------------
-Type: Electronic Parts [5 dT (10.0 T)]
+Type: Entertainment Gears [5 dT (25.0 T)]
 Cost: 250.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
@@ -2796,748 +2794,345 @@ Price Volatility: medium
 Quirk: radioactive
 
 Cargo 365 -------------------------
-Type: Spices [25 dT (175.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 366 -------------------------
-Type: Perishables [80 dT (400.0 T)]
-Cost: 192.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 367 -------------------------
-Type: Light Metals [50 dT (1250.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 368 -------------------------
-Type: Ceramics [4 dT (40.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 369 -------------------------
-Type: Livestock [55 dT (55.0 T)]
-Cost: 55.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
+Type: Industrial Crystals [5 dT (50.0 T)]
+Cost: 10.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: high
 Quirk: high end
 
-Cargo 370 -------------------------
-Type: Shelters [9 dT (72.0 T)]
-Cost: 108.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 371 -------------------------
-Type: Radioisotopes [1 dT (10.0 T)]
-Cost: 100.0 KCr
-Handling: wet bulk
-Legality: LC1 - (Restricted)
-Price Volatility: medium
-Quirk: corrosive
-
-Cargo 372 -------------------------
-Type: Industrial Metals [10 dT (250.0 T)]
-Cost: 750.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 373 -------------------------
-Type: Ammunition [4 dT (28.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 374 -------------------------
-Type: Manufactured Goods [10 dT (80.0 T)]
-Cost: 500.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: high
-Quirk: stigmatized
-
-Cargo 375 -------------------------
-Type: Electronic Parts [20 dT (40.0 T)]
-Cost: 1.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 376 -------------------------
-Type: Wood Products [180 dT (900.0 T)]
-Cost: 360.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 377 -------------------------
-Type: Ammunition [4 dT (28.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 378 -------------------------
+Cargo 366 -------------------------
 Type: Heavy Metal [2 dT (50.0 T)]
 Cost: 40.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
-Price Volatility: medium
+Price Volatility: low
 Quirk: radioactive
 
-Cargo 379 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
+Cargo 367 -------------------------
+Type: Meat, Fish [25 dT (200.0 T)]
+Cost: 500.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 380 -------------------------
-Type: Shelters [11 dT (88.0 T)]
-Cost: 132.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
 Price Volatility: low
 Quirk: low tech
 
-Cargo 381 -------------------------
-Type: Gravitic Units [30 dT (120.0 T)]
-Cost: 4.8 MCr
+Cargo 368 -------------------------
+Type: Radioisotopes [4 dT (40.0 T)]
+Cost: 400.0 KCr
+Handling: wet bulk
+Legality: LC1 - (Restricted)
+Price Volatility: low
+
+Cargo 369 -------------------------
+Type: Wood Products [270 dT (1350.0 T)]
+Cost: 540.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: low
-Quirk: high end
+Quirk: high tech
 
-Cargo 382 -------------------------
-Type: Petrochemicals [30 dT (210.0 T)]
-Cost: 450.0 KCr
-Handling: wet bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 383 -------------------------
-Type: Ground Vehicles [40 dT (120.0 T)]
-Cost: 1.6 MCr
+Cargo 370 -------------------------
+Type: Ground Vehicles [55 dT (165.0 T)]
+Cost: 2.2 MCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: low
-Quirk: stigmatized
+Quirk: high tech
 
-Cargo 384 -------------------------
-Type: Perishables [120 dT (600.0 T)]
-Cost: 288.0 KCr
-Handling: wet bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-
-Cargo 385 -------------------------
-Type: Wood Products [220 dT (1100.0 T)]
-Cost: 440.0 KCr
-Handling: container
+Cargo 371 -------------------------
+Type: Heavy Metal [3 dT (75.0 T)]
+Cost: 60.0 MCr
+Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: low
-Quirk: high end
 
-Cargo 386 -------------------------
-Type: Polymers [50 dT (250.0 T)]
-Cost: 600.0 KCr
-Handling: container
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 387 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-
-Cargo 388 -------------------------
+Cargo 372 -------------------------
 Type: Polymers [55 dT (275.0 T)]
 Cost: 660.0 KCr
 Handling: break bulk
-Legality: LC2 - (Military)
+Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: fragile
+Quirk: high tech
 
-Cargo 389 -------------------------
-Type: Textiles [45 dT (180.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 390 -------------------------
-Type: Petrochemicals [60 dT (420.0 T)]
-Cost: 900.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: flammable
-
-Cargo 391 -------------------------
-Type: Machinery, Parts [150 dT (1200.0 T)]
-Cost: 7.5 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 392 -------------------------
-Type: Petrochemicals [50 dT (350.0 T)]
-Cost: 750.0 KCr
-Handling: container
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 393 -------------------------
-Type: Gemstones [3 dT (1.5 T)]
-Cost: 30.0 MCr
+Cargo 373 -------------------------
+Type: Electronic Parts [30 dT (60.0 T)]
+Cost: 1.5 MCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
+Quirk: low tech
 
-Cargo 394 -------------------------
-Type: Entertainment Devices [30 dT (120.0 T)]
-Cost: 1.5 MCr
+Cargo 374 -------------------------
+Type: Perishables [110 dT (550.0 T)]
+Cost: 264.0 KCr
 Handling: break bulk
-Legality: LC4 - (Hazardous)
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 375 -------------------------
+Type: Wood Products [190 dT (950.0 T)]
+Cost: 380.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
 Price Volatility: low
 
-Cargo 395 -------------------------
-Type: Radioisotopes [1 dT (10.0 T)]
+Cargo 376 -------------------------
+Type: Artwork, Media [2 dT (4.0 T)]
 Cost: 100.0 KCr
 Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 396 -------------------------
-Type: Lanthanum [1 dT (10.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-
-Cargo 397 -------------------------
-Type: Tools [15 dT (150.0 T)]
-Cost: 300.0 KCr
-Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: medium
-Quirk: fragile
-
-Cargo 398 -------------------------
-Type: Ammunition [1 dT (7.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 399 -------------------------
-Type: Pharmaceuticals [1 dT (2.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 400 -------------------------
-Type: Pharmaceuticals [4 dT (8.0 T)]
-Cost: 480.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 401 -------------------------
-Type: Shelters [8 dT (64.0 T)]
-Cost: 96.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 402 -------------------------
-Type: Gemstones [4 dT (2.0 T)]
-Cost: 40.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 403 -------------------------
-Type: Ceramics [5 dT (50.0 T)]
-Cost: 75.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 404 -------------------------
-Type: Lanthanum [6 dT (60.0 T)]
-Cost: 30.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 405 -------------------------
-Type: Shelters [10 dT (80.0 T)]
-Cost: 120.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: high tech
-
-Cargo 406 -------------------------
-Type: Heavy Metal [5 dT (125.0 T)]
-Cost: 100.0 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: valuable
-
-Cargo 407 -------------------------
-Type: Computers [9 dT (45.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 408 -------------------------
-Type: Gravitic Units [15 dT (60.0 T)]
-Cost: 2.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: valuable
-
-Cargo 409 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 410 -------------------------
-Type: Special Minerals [6 dT (60.0 T)]
-Cost: 4.5 MCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 411 -------------------------
-Type: Gravitic Units [15 dT (60.0 T)]
-Cost: 2.4 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 412 -------------------------
-Type: Pharmaceuticals [6 dT (12.0 T)]
-Cost: 720.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-
-Cargo 413 -------------------------
-Type: Tools [25 dT (250.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 414 -------------------------
-Type: Light Metals [40 dT (1000.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 415 -------------------------
-Type: Baked goods [40 dT (400.0 T)]
-Cost: 200.0 KCr
-Handling: dry bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 416 -------------------------
-Type: Radioisotopes [5 dT (50.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-
-Cargo 417 -------------------------
-Type: Special Minerals [2 dT (20.0 T)]
-Cost: 1.5 MCr
-Handling: dry bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 418 -------------------------
-Type: Industrial Crystals [3 dT (30.0 T)]
-Cost: 6.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 419 -------------------------
-Type: Baked goods [40 dT (400.0 T)]
-Cost: 200.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high tech
-
-Cargo 420 -------------------------
-Type: Shelters [16 dT (128.0 T)]
-Cost: 192.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 421 -------------------------
-Type: Entertainment Devices [5 dT (20.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
 Quirk: corrosive
 
-Cargo 422 -------------------------
-Type: Electronic Parts [20 dT (40.0 T)]
-Cost: 1.0 MCr
+Cargo 377 -------------------------
+Type: Computers [7 dT (35.0 T)]
+Cost: 1.8 MCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: valuable
 
-Cargo 423 -------------------------
-Type: Ceramics [10 dT (100.0 T)]
-Cost: 150.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 424 -------------------------
-Type: Textiles [50 dT (200.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 425 -------------------------
-Type: Alcoholic Beverages [4 dT (28.0 T)]
-Cost: 30.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: flammable
-
-Cargo 426 -------------------------
-Type: Polymers [60 dT (300.0 T)]
-Cost: 720.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 427 -------------------------
-Type: Electronic Parts [25 dT (50.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 428 -------------------------
-Type: Artwork, Media [3 dT (6.0 T)]
-Cost: 150.0 KCr
+Cargo 378 -------------------------
+Type: Shelters [14 dT (112.0 T)]
+Cost: 168.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: radioactive
 
-Cargo 429 -------------------------
-Type: Pharmaceuticals [2 dT (4.0 T)]
-Cost: 240.0 KCr
+Cargo 379 -------------------------
+Type: Ceramics [7 dT (70.0 T)]
+Cost: 105.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 430 -------------------------
-Type: Ground Vehicles [40 dT (120.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
 Price Volatility: low
-Quirk: stigmatized
-
-Cargo 431 -------------------------
-Type: Ground Vehicles [55 dT (165.0 T)]
-Cost: 2.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: high
-Quirk: low quality
-
-Cargo 432 -------------------------
-Type: Radioisotopes [6 dT (60.0 T)]
-Cost: 600.0 KCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: medium
 Quirk: low tech
 
-Cargo 433 -------------------------
-Type: Ground Vehicles [55 dT (165.0 T)]
-Cost: 2.2 MCr
-Handling: RO/RO
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 434 -------------------------
-Type: Petrochemicals [30 dT (210.0 T)]
-Cost: 450.0 KCr
+Cargo 380 -------------------------
+Type: Wood Products [150 dT (750.0 T)]
+Cost: 300.0 KCr
 Handling: break bulk
-Legality: LC2 - (Military)
+Legality: LC4 - (Hazardous)
 Price Volatility: low
+Quirk: low quality
 
-Cargo 435 -------------------------
+Cargo 381 -------------------------
+Type: Shelters [12 dT (96.0 T)]
+Cost: 144.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low quality
+
+Cargo 382 -------------------------
 Type: Entertainment Gears [7 dT (35.0 T)]
 Cost: 350.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
+Quirk: valuable
 
-Cargo 436 -------------------------
-Type: Computers [12 dT (60.0 T)]
-Cost: 3.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 437 -------------------------
-Type: Computers [6 dT (30.0 T)]
+Cargo 383 -------------------------
+Type: Textiles [50 dT (200.0 T)]
 Cost: 1.5 MCr
 Handling: break bulk
-Legality: LC3 - (Controlled)
+Legality: LC5 - (safe)
 Price Volatility: medium
 Quirk: low quality
 
-Cargo 438 -------------------------
-Type: Polymers [40 dT (200.0 T)]
-Cost: 480.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 439 -------------------------
-Type: Ground Vehicles [35 dT (105.0 T)]
-Cost: 1.4 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 440 -------------------------
-Type: Textiles [60 dT (240.0 T)]
-Cost: 1.8 MCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 441 -------------------------
-Type: Electronic Parts [25 dT (50.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: high
-
-Cargo 442 -------------------------
-Type: Light Metals [40 dT (1000.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: high
-Quirk: low tech
-
-Cargo 443 -------------------------
+Cargo 384 -------------------------
 Type: Precision Instruments [7 dT (49.0 T)]
 Cost: 2.8 MCr
 Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-Quirk: low quality
-
-Cargo 444 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: dry bulk
 Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 445 -------------------------
-Type: Baked goods [35 dT (350.0 T)]
-Cost: 175.0 KCr
-Handling: dry bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 446 -------------------------
-Type: Perishables [130 dT (650.0 T)]
-Cost: 312.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 447 -------------------------
-Type: Industrial Crystals [4 dT (40.0 T)]
-Cost: 8.0 MCr
-Handling: container
-Legality: LC4 - (Hazardous)
-Price Volatility: low
-Quirk: corrosive
-
-Cargo 448 -------------------------
-Type: Textiles [40 dT (160.0 T)]
-Cost: 1.2 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: high
-Quirk: radioactive
-
-Cargo 449 -------------------------
-Type: Electronic Parts [5 dT (10.0 T)]
-Cost: 250.0 KCr
-Handling: container
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 450 -------------------------
-Type: Machinery, Parts [100 dT (800.0 T)]
-Cost: 5.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
 Price Volatility: medium
 Quirk: high tech
 
-Cargo 451 -------------------------
-Type: Precision Instruments [7 dT (49.0 T)]
-Cost: 2.8 MCr
-Handling: container
+Cargo 385 -------------------------
+Type: Grav Vehicles [30 dT (90.0 T)]
+Cost: 7.5 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 386 -------------------------
+Type: Alcoholic Beverages [4 dT (28.0 T)]
+Cost: 30.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 387 -------------------------
+Type: Polymers [50 dT (250.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: explosive
+
+Cargo 388 -------------------------
+Type: Tools [20 dT (200.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 389 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: high
+
+Cargo 390 -------------------------
+Type: Machinery, Parts [170 dT (1360.0 T)]
+Cost: 8.5 MCr
+Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: low
 Quirk: stigmatized
 
-Cargo 452 -------------------------
-Type: Pharmaceuticals [4 dT (8.0 T)]
-Cost: 480.0 KCr
+Cargo 391 -------------------------
+Type: Artwork, Media [1 dT (2.0 T)]
+Cost: 50.0 KCr
 Handling: break bulk
-Legality: LC1 - (Restricted)
+Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: corrosive
+Quirk: low quality
 
-Cargo 453 -------------------------
-Type: Ammunition [2 dT (14.0 T)]
-Cost: 240.0 KCr
-Handling: container
-Legality: LC3 - (Controlled)
+Cargo 392 -------------------------
+Type: Light Metals [50 dT (1250.0 T)]
+Cost: 500.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
 Price Volatility: low
 
-Cargo 454 -------------------------
-Type: Livestock [85 dT (85.0 T)]
-Cost: 85.0 KCr
-Handling: wet bulk
-Legality: LC3 - (Controlled)
+Cargo 393 -------------------------
+Type: Computers [5 dT (25.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
 Price Volatility: medium
-Quirk: high end
+Quirk: fragile
 
-Cargo 455 -------------------------
-Type: Precision Instruments [4 dT (28.0 T)]
-Cost: 1.6 MCr
+Cargo 394 -------------------------
+Type: Machinery, Parts [160 dT (1280.0 T)]
+Cost: 8.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 395 -------------------------
+Type: Baked goods [50 dT (500.0 T)]
+Cost: 250.0 KCr
 Handling: break bulk
 Legality: LC6 - (unrestricted)
 Price Volatility: low
-Quirk: valuable
 
-Cargo 456 -------------------------
-Type: Perishables [130 dT (650.0 T)]
-Cost: 312.0 KCr
-Handling: wet bulk
+Cargo 396 -------------------------
+Type: Livestock [55 dT (55.0 T)]
+Cost: 55.0 KCr
+Handling: break bulk
 Legality: LC5 - (safe)
-Price Volatility: high
-Quirk: valuable
+Price Volatility: medium
 
-Cargo 457 -------------------------
-Type: Gravitic Units [10 dT (40.0 T)]
-Cost: 1.6 MCr
+Cargo 397 -------------------------
+Type: Industrial Crystals [1 dT (10.0 T)]
+Cost: 2.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: low
-Quirk: fragile
+Quirk: stigmatized
 
-Cargo 458 -------------------------
-Type: Computers [3 dT (15.0 T)]
-Cost: 750.0 KCr
+Cargo 398 -------------------------
+Type: Industrial Crystals [5 dT (50.0 T)]
+Cost: 10.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 399 -------------------------
+Type: Alcoholic Beverages [12 dT (84.0 T)]
+Cost: 90.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 400 -------------------------
+Type: Polymers [55 dT (275.0 T)]
+Cost: 660.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 401 -------------------------
+Type: Electronic Parts [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 402 -------------------------
+Type: Spices [10 dT (70.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 403 -------------------------
+Type: Shelters [7 dT (56.0 T)]
+Cost: 84.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 404 -------------------------
+Type: Baked goods [30 dT (300.0 T)]
+Cost: 150.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: medium
-Quirk: high tech
+Quirk: low quality
 
-Cargo 459 -------------------------
-Type: Precision Instruments [7 dT (49.0 T)]
-Cost: 2.8 MCr
-Handling: container
+Cargo 405 -------------------------
+Type: Tools [20 dT (200.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 406 -------------------------
+Type: Gemstones [4 dT (2.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
 Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high tech
+Price Volatility: low
 
-Cargo 460 -------------------------
+Cargo 407 -------------------------
 Type: Electronic Parts [25 dT (50.0 T)]
 Cost: 1.2 MCr
-Handling: container
-Legality: LC3 - (Controlled)
+Handling: break bulk
+Legality: LC2 - (Military)
 Price Volatility: low
-Quirk: biohazard
 
-Cargo 461 -------------------------
+Cargo 408 -------------------------
+Type: Ammunition [6 dT (42.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 409 -------------------------
 Type: Lanthanum [3 dT (30.0 T)]
 Cost: 15.0 MCr
 Handling: break bulk
@@ -3545,60 +3140,278 @@ Legality: LC3 - (Controlled)
 Price Volatility: medium
 Quirk: radioactive
 
-Cargo 462 -------------------------
-Type: Baked goods [30 dT (300.0 T)]
-Cost: 150.0 KCr
-Handling: dry bulk
+Cargo 410 -------------------------
+Type: Gemstones [3 dT (1.5 T)]
+Cost: 30.0 MCr
+Handling: container
 Legality: LC6 - (unrestricted)
 Price Volatility: medium
-Quirk: high end
+Quirk: stigmatized
 
-Cargo 463 -------------------------
-Type: Alcoholic Beverages [9 dT (63.0 T)]
-Cost: 67.5 KCr
+Cargo 411 -------------------------
+Type: Livestock [40 dT (40.0 T)]
+Cost: 40.0 KCr
+Handling: wet bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 412 -------------------------
+Type: Electronic Parts [20 dT (40.0 T)]
+Cost: 1.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 413 -------------------------
+Type: Polymers [50 dT (250.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: explosive
+
+Cargo 414 -------------------------
+Type: Artwork, Handicrafts [7 dT (35.0 T)]
+Cost: 70.0 KCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: high tech
 
-Cargo 464 -------------------------
-Type: Radioisotopes [4 dT (40.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC0 - (WMD)
-Price Volatility: low
+Cargo 415 -------------------------
+Type: Petrochemicals [10 dT (70.0 T)]
+Cost: 150.0 KCr
+Handling: wet bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
 
-Cargo 465 -------------------------
-Type: Machinery, Parts [170 dT (1360.0 T)]
-Cost: 8.5 MCr
+Cargo 416 -------------------------
+Type: Radioisotopes [6 dT (60.0 T)]
+Cost: 600.0 KCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: high tech
+Price Volatility: low
+Quirk: fragile
 
-Cargo 466 -------------------------
+Cargo 417 -------------------------
+Type: Heavy Metal [5 dT (125.0 T)]
+Cost: 100.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 418 -------------------------
 Type: Gemstones [3 dT (1.5 T)]
 Cost: 30.0 MCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: low
 
-Cargo 467 -------------------------
-Type: Gemstones [4 dT (2.0 T)]
-Cost: 40.0 MCr
+Cargo 419 -------------------------
+Type: Grav Vehicles [20 dT (60.0 T)]
+Cost: 5.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high end
+
+Cargo 420 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 421 -------------------------
+Type: Artwork, Media [6 dT (12.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 422 -------------------------
+Type: Light Metals [20 dT (500.0 T)]
+Cost: 200.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: stigmatized
+
+Cargo 423 -------------------------
+Type: Industrial Metals [10 dT (250.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: corrosive
+
+Cargo 424 -------------------------
+Type: Shelters [12 dT (96.0 T)]
+Cost: 144.0 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 425 -------------------------
+Type: Precision Instruments [4 dT (28.0 T)]
+Cost: 1.6 MCr
 Handling: break bulk
 Legality: LC6 - (unrestricted)
 Price Volatility: low
+Quirk: low tech
 
-Cargo 468 -------------------------
-Type: Ground Vehicles [50 dT (150.0 T)]
-Cost: 2.0 MCr
+Cargo 426 -------------------------
+Type: Ammunition [1 dT (7.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 427 -------------------------
+Type: Protective Equipment [4 dT (8.0 T)]
+Cost: 1.6 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 428 -------------------------
+Type: Computers [4 dT (20.0 T)]
+Cost: 1.0 MCr
 Handling: break bulk
 Legality: LC3 - (Controlled)
 Price Volatility: medium
 Quirk: fragile
 
-Cargo 469 -------------------------
+Cargo 429 -------------------------
+Type: Shelters [8 dT (64.0 T)]
+Cost: 96.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 430 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 431 -------------------------
+Type: Perishables [80 dT (400.0 T)]
+Cost: 192.0 KCr
+Handling: container
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: stigmatized
+
+Cargo 432 -------------------------
+Type: Ground Vehicles [30 dT (90.0 T)]
+Cost: 1.2 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 433 -------------------------
+Type: Alcoholic Beverages [6 dT (42.0 T)]
+Cost: 45.0 KCr
+Handling: wet bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 434 -------------------------
+Type: Industrial Crystals [5 dT (50.0 T)]
+Cost: 10.0 MCr
+Handling: container
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 435 -------------------------
+Type: Light Metals [45 dT (1125.0 T)]
+Cost: 450.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 436 -------------------------
+Type: Textiles [65 dT (260.0 T)]
+Cost: 1.9 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+Quirk: low quality
+
+Cargo 437 -------------------------
+Type: Industrial Metals [8 dT (200.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 438 -------------------------
+Type: Petrochemicals [30 dT (210.0 T)]
+Cost: 450.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 439 -------------------------
+Type: Petrochemicals [25 dT (175.0 T)]
+Cost: 375.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 440 -------------------------
+Type: Electronic Parts [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+
+Cargo 441 -------------------------
+Type: Light Metals [25 dT (625.0 T)]
+Cost: 250.0 KCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+
+Cargo 442 -------------------------
+Type: Textiles [85 dT (340.0 T)]
+Cost: 2.5 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 443 -------------------------
+Type: Heavy Metal [3 dT (75.0 T)]
+Cost: 60.0 MCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: low
+Quirk: radioactive
+
+Cargo 444 -------------------------
+Type: Manufactured Goods [12 dT (96.0 T)]
+Cost: 600.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 445 -------------------------
 Type: Textiles [30 dT (120.0 T)]
 Cost: 900.0 KCr
 Handling: break bulk
@@ -3606,242 +3419,427 @@ Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: stigmatized
 
-Cargo 470 -------------------------
-Type: Special Minerals [6 dT (60.0 T)]
-Cost: 4.5 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 471 -------------------------
-Type: Light Metals [10 dT (250.0 T)]
-Cost: 100.0 KCr
-Handling: container
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: high end
-
-Cargo 472 -------------------------
-Type: Entertainment Devices [20 dT (80.0 T)]
-Cost: 1.0 MCr
+Cargo 446 -------------------------
+Type: Gemstones [1 dT (0.5 T)]
+Cost: 10.0 MCr
 Handling: break bulk
 Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: low tech
-
-Cargo 473 -------------------------
-Type: Meat, Fish [20 dT (160.0 T)]
-Cost: 400.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 474 -------------------------
-Type: Spices [10 dT (70.0 T)]
-Cost: 60.0 KCr
-Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: high
-Quirk: high tech
-
-Cargo 475 -------------------------
-Type: Entertainment Gears [7 dT (35.0 T)]
-Cost: 350.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 476 -------------------------
-Type: Spices [15 dT (105.0 T)]
-Cost: 90.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: fragile
-
-Cargo 477 -------------------------
-Type: Electronic Parts [5 dT (10.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: low quality
-
-Cargo 478 -------------------------
-Type: Ground Vehicles [60 dT (180.0 T)]
-Cost: 2.4 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-
-Cargo 479 -------------------------
-Type: Special Minerals [2 dT (20.0 T)]
-Cost: 1.5 MCr
-Handling: break bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-Quirk: radioactive
-
-Cargo 480 -------------------------
-Type: Gravitic Units [10 dT (40.0 T)]
-Cost: 1.6 MCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
-Price Volatility: medium
-
-Cargo 481 -------------------------
-Type: Radioisotopes [3 dT (30.0 T)]
-Cost: 300.0 KCr
-Handling: dry bulk
-Legality: LC2 - (Military)
-Price Volatility: low
-
-Cargo 482 -------------------------
-Type: Entertainment Devices [10 dT (40.0 T)]
-Cost: 500.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: high
-Quirk: fragile
-
-Cargo 483 -------------------------
-Type: Polymers [35 dT (175.0 T)]
-Cost: 420.0 KCr
-Handling: container
-Legality: LC5 - (safe)
-Price Volatility: low
-
-Cargo 484 -------------------------
-Type: Entertainment Devices [20 dT (80.0 T)]
-Cost: 1.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 485 -------------------------
-Type: Alcoholic Beverages [5 dT (35.0 T)]
-Cost: 37.5 KCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: fragile
-
-Cargo 486 -------------------------
-Type: Industrial Metals [11 dT (275.0 T)]
-Cost: 825.0 KCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-Quirk: low tech
-
-Cargo 487 -------------------------
-Type: Entertainment Gears [5 dT (25.0 T)]
-Cost: 250.0 KCr
-Handling: break bulk
-Legality: LC4 - (Hazardous)
 Price Volatility: medium
 Quirk: stigmatized
 
-Cargo 488 -------------------------
-Type: Wood Products [230 dT (1150.0 T)]
-Cost: 460.0 KCr
-Handling: break bulk
+Cargo 447 -------------------------
+Type: Baked goods [20 dT (200.0 T)]
+Cost: 100.0 KCr
+Handling: dry bulk
 Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: valuable
+Price Volatility: medium
+Quirk: low tech
 
-Cargo 489 -------------------------
-Type: Grav Vehicles [5 dT (15.0 T)]
-Cost: 1.2 MCr
-Handling: container
-Legality: LC3 - (Controlled)
-Price Volatility: low
-Quirk: biohazard
-
-Cargo 490 -------------------------
-Type: Protective Equipment [2 dT (4.0 T)]
-Cost: 800.0 KCr
+Cargo 448 -------------------------
+Type: Meat, Fish [10 dT (80.0 T)]
+Cost: 200.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
 Price Volatility: low
 Quirk: high tech
 
-Cargo 491 -------------------------
-Type: Meat, Fish [10 dT (80.0 T)]
+Cargo 449 -------------------------
+Type: Light Metals [20 dT (500.0 T)]
 Cost: 200.0 KCr
 Handling: break bulk
-Legality: LC6 - (unrestricted)
+Legality: LC5 - (safe)
 Price Volatility: low
+Quirk: stigmatized
 
-Cargo 492 -------------------------
-Type: Artwork, Handicrafts [5 dT (25.0 T)]
-Cost: 50.0 KCr
+Cargo 450 -------------------------
+Type: Industrial Metals [9 dT (225.0 T)]
+Cost: 675.0 KCr
 Handling: break bulk
-Legality: LC6 - (unrestricted)
-Price Volatility: low
-Quirk: fragile
+Legality: LC5 - (safe)
+Price Volatility: medium
 
-Cargo 493 -------------------------
-Type: Meat, Fish [10 dT (80.0 T)]
-Cost: 200.0 KCr
+Cargo 451 -------------------------
+Type: Entertainment Gears [2 dT (10.0 T)]
+Cost: 100.0 KCr
 Handling: break bulk
 Legality: LC4 - (Hazardous)
 Price Volatility: medium
-Quirk: fragile
+Quirk: high end
 
-Cargo 494 -------------------------
-Type: Manufactured Goods [9 dT (72.0 T)]
+Cargo 452 -------------------------
+Type: Entertainment Gears [9 dT (45.0 T)]
 Cost: 450.0 KCr
 Handling: break bulk
-Legality: LC2 - (Military)
+Legality: LC5 - (safe)
+Price Volatility: high
+
+Cargo 453 -------------------------
+Type: Industrial Metals [5 dT (125.0 T)]
+Cost: 375.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
 Price Volatility: low
+Quirk: low tech
+
+Cargo 454 -------------------------
+Type: Ammunition [3 dT (21.0 T)]
+Cost: 360.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
 Quirk: low quality
 
-Cargo 495 -------------------------
+Cargo 455 -------------------------
+Type: Shelters [13 dT (104.0 T)]
+Cost: 156.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 456 -------------------------
+Type: Protective Equipment [1 dT (2.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 457 -------------------------
+Type: Artwork, Handicrafts [6 dT (30.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 458 -------------------------
+Type: Alcoholic Beverages [7 dT (49.0 T)]
+Cost: 52.5 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+
+Cargo 459 -------------------------
+Type: Livestock [60 dT (60.0 T)]
+Cost: 60.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 460 -------------------------
+Type: Perishables [190 dT (950.0 T)]
+Cost: 456.0 KCr
+Handling: container
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 461 -------------------------
+Type: Artwork, Handicrafts [8 dT (40.0 T)]
+Cost: 80.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 462 -------------------------
+Type: Baked goods [45 dT (450.0 T)]
+Cost: 225.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 463 -------------------------
+Type: Spices [5 dT (35.0 T)]
+Cost: 30.0 KCr
+Handling: dry bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 464 -------------------------
+Type: Special Minerals [2 dT (20.0 T)]
+Cost: 1.5 MCr
+Handling: dry bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+Quirk: fragile
+
+Cargo 465 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 466 -------------------------
+Type: Livestock [80 dT (80.0 T)]
+Cost: 80.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 467 -------------------------
+Type: Wood Products [170 dT (850.0 T)]
+Cost: 340.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+
+Cargo 468 -------------------------
+Type: Polymers [60 dT (300.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 469 -------------------------
+Type: Industrial Crystals [2 dT (20.0 T)]
+Cost: 4.0 MCr
+Handling: dry bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: defective
+
+Cargo 470 -------------------------
+Type: Ammunition [1 dT (7.0 T)]
+Cost: 120.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 471 -------------------------
+Type: Tools [20 dT (200.0 T)]
+Cost: 400.0 KCr
+Handling: container
+Legality: LC6 - (unrestricted)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 472 -------------------------
+Type: Industrial Crystals [2 dT (20.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: flammable
+
+Cargo 473 -------------------------
+Type: Industrial Metals [7 dT (175.0 T)]
+Cost: 525.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: radioactive
+
+Cargo 474 -------------------------
+Type: Ammunition [6 dT (42.0 T)]
+Cost: 720.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 475 -------------------------
+Type: Gemstones [4 dT (2.0 T)]
+Cost: 40.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: high
+
+Cargo 476 -------------------------
+Type: Livestock [35 dT (35.0 T)]
+Cost: 35.0 KCr
+Handling: RO/RO
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 477 -------------------------
+Type: Radioisotopes [1 dT (10.0 T)]
+Cost: 100.0 KCr
+Handling: break bulk
+Legality: LC1 - (Restricted)
+Price Volatility: low
+Quirk: high end
+
+Cargo 478 -------------------------
 Type: Pharmaceuticals [3 dT (6.0 T)]
 Cost: 360.0 KCr
 Handling: break bulk
 Legality: LC1 - (Restricted)
-Price Volatility: medium
-
-Cargo 496 -------------------------
-Type: Industrial Crystals [5 dT (50.0 T)]
-Cost: 10.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
 Price Volatility: low
-Quirk: radioactive
+Quirk: valuable
 
-Cargo 497 -------------------------
-Type: Gemstones [3 dT (1.5 T)]
-Cost: 30.0 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: medium
-
-Cargo 498 -------------------------
-Type: Precision Instruments [7 dT (49.0 T)]
-Cost: 2.8 MCr
-Handling: break bulk
-Legality: LC5 - (safe)
-Price Volatility: low
-Quirk: high end
-
-Cargo 499 -------------------------
-Type: Heavy Metal [4 dT (100.0 T)]
-Cost: 80.0 MCr
-Handling: break bulk
-Legality: LC3 - (Controlled)
-Price Volatility: medium
-Quirk: radioactive
-
-Cargo 500 -------------------------
-Type: Light Metals [45 dT (1125.0 T)]
+Cargo 479 -------------------------
+Type: Industrial Metals [6 dT (150.0 T)]
 Cost: 450.0 KCr
 Handling: break bulk
 Legality: LC5 - (safe)
+Price Volatility: medium
+
+Cargo 480 -------------------------
+Type: Light Metals [30 dT (750.0 T)]
+Cost: 300.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: low
+Quirk: flammable
+
+Cargo 481 -------------------------
+Type: Entertainment Gears [5 dT (25.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 482 -------------------------
+Type: Electronic Parts [5 dT (10.0 T)]
+Cost: 250.0 KCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 483 -------------------------
+Type: Alcoholic Beverages [5 dT (35.0 T)]
+Cost: 37.5 KCr
+Handling: container
+Legality: LC3 - (Controlled)
+Price Volatility: high
+
+Cargo 484 -------------------------
+Type: Industrial Crystals [3 dT (30.0 T)]
+Cost: 6.0 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: low tech
+
+Cargo 485 -------------------------
+Type: Spices [30 dT (210.0 T)]
+Cost: 180.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: high
+Quirk: low tech
+
+Cargo 486 -------------------------
+Type: Protective Equipment [5 dT (10.0 T)]
+Cost: 2.0 MCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: high tech
+
+Cargo 487 -------------------------
+Type: Gemstones [6 dT (3.0 T)]
+Cost: 60.0 MCr
+Handling: container
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 488 -------------------------
+Type: Protective Equipment [1 dT (2.0 T)]
+Cost: 400.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: low quality
+
+Cargo 489 -------------------------
+Type: Gravitic Units [5 dT (20.0 T)]
+Cost: 800.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 490 -------------------------
+Type: Spices [15 dT (105.0 T)]
+Cost: 90.0 KCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: low tech
+
+Cargo 491 -------------------------
+Type: Ceramics [7 dT (70.0 T)]
+Cost: 105.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: medium
+Quirk: fragile
+
+Cargo 492 -------------------------
+Type: Grav Vehicles [30 dT (90.0 T)]
+Cost: 7.5 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: medium
+Quirk: stigmatized
+
+Cargo 493 -------------------------
+Type: Baked goods [35 dT (350.0 T)]
+Cost: 175.0 KCr
+Handling: dry bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: low
+Quirk: high tech
+
+Cargo 494 -------------------------
+Type: Artwork, Media [4 dT (8.0 T)]
+Cost: 200.0 KCr
+Handling: break bulk
+Legality: LC5 - (safe)
+Price Volatility: low
+
+Cargo 495 -------------------------
+Type: Grav Vehicles [25 dT (75.0 T)]
+Cost: 6.2 MCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
+Price Volatility: low
+
+Cargo 496 -------------------------
+Type: Gravitic Units [25 dT (100.0 T)]
+Cost: 4.0 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: high
+
+Cargo 497 -------------------------
+Type: Gemstones [6 dT (3.0 T)]
+Cost: 60.0 MCr
+Handling: break bulk
+Legality: LC6 - (unrestricted)
+Price Volatility: high
+
+Cargo 498 -------------------------
+Type: Special Minerals [1 dT (10.0 T)]
+Cost: 750.0 KCr
+Handling: break bulk
+Legality: LC2 - (Military)
+Price Volatility: low
+
+Cargo 499 -------------------------
+Type: Ceramics [10 dT (100.0 T)]
+Cost: 150.0 KCr
+Handling: break bulk
+Legality: LC3 - (Controlled)
 Price Volatility: low
 Quirk: fragile
+
+Cargo 500 -------------------------
+Type: Computers [7 dT (35.0 T)]
+Cost: 1.8 MCr
+Handling: break bulk
+Legality: LC4 - (Hazardous)
+Price Volatility: medium
+Quirk: high end
 

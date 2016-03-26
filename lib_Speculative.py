@@ -148,7 +148,7 @@ def PrettyPrint( x ):
         INPUT: x (dictionary) a cargo's metadata
         OUTPUT: A string representation (string)
     '''
-    out = 'Type: %s [%d dT (%.1f T)]\nCost: %s\n'%(x['Type'], x['dT'], x['Mass'], x['Cost'])
+    out = 'Type: %s [%d dT (%.1f T)]\nCost: %s [%s]\n'%(x['Type'], x['dT'], x['Mass'], x['Cost'], ','.join(x['Reaction modifiers']))
     out += 'Handling: %s\nLegality: %s\nPrice Volatility: %s'%(x['Cargo type'], x['Legality'], x['Volatility'][0])
     if x['special'] != 'none':
         out += '\nQuirk: %s'%(x['special'])

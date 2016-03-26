@@ -1,0 +1,36 @@
+11	Political Refugee
+12	Economic Refugee
+13	Starting a new life
+14	Mercenary
+15	Blue Collar
+16	Corporate Executive
+21	Backpacker
+22	Tourist
+23	Yokel
+24	Adventurer
+25	Explorer
+26	Claustrophobic
+31	Expectant Mother
+32	Want to join the crew
+33	Job Transfer
+34	Charlatan
+35	Civil Servant
+36	Engineer
+41	Ex-Scout
+42	Wanderer
+43	Clergy
+44	Scientist
+45	Journalist
+46	Entertainer
+51	Gambler
+52	Rich Noble - needy
+53	Rich Noble - eccentric
+54	Rich Noble - raconteur
+55	Diplomat
+56	New Age Mystic
+61	Patron
+62	Alien
+63	Bounty hunter
+64	Homely belter
+65	Annoying Fanboy
+66	Socialite
